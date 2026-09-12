@@ -15,9 +15,11 @@ delivered as (a) a static website in `site/` and (b) a single Markdown adaptatio
   resolve, generated files fresh (build hash), no empty chapters.
 - `qa.py` — optional headless-browser QA (Playwright) if available; otherwise skipped.
 - `research/` — dated notes from web research (sources, numbers, decisions).
-- Branch: `genspark_ai_developer`, pushed after every commit; PR into `main`.
+- Branch policy (user, 2026-09-12): **push straight to `main`** after every commit. No branches/PRs.
 
 ## Log
+
+- 2026-09-12 00:40 — Sandbox reset; lost unpushed ch04. Merged branch into main, deleted branch. Rewriting ch04.
 
 - 2026-09-12 00:20 — Repo had only CLAUDE.md. Created branch `genspark_ai_developer`.
   Plan: scaffold (this file, README, build.py, validate.py, CSS) → research notes → chapters
@@ -25,7 +27,7 @@ delivered as (a) a static website in `site/` and (b) a single Markdown adaptatio
 
 ## Next step
 
-Write `build.py` + `site/assets/style.css`, then research notes, then chapters in order.
+Write remaining chapters in order (see plan below); after each chapter: build.py, commit, push main. Ch01–03 done.
 
 ## Chapter plan (target ~40 chapters, each 2,000–6,000 words)
 
