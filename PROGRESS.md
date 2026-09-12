@@ -19,6 +19,8 @@ delivered as (a) a static website in `site/` and (b) a single Markdown adaptatio
 
 ## Log
 
+- 2026-09-12 ~05:45 — Parts IV–V complete (ch30–45). Built, validated, browser-QA'd (fixed mobile topbar overflow). MD edition uses GitHub-compatible anchors. qa.py added. Pushed to main.
+
 - 2026-09-12 00:40 — Sandbox reset; lost unpushed ch04. Merged branch into main, deleted branch. Rewriting ch04.
 - 2026-09-12 ~02:00 — Part I (ch01–07) and Part II (ch08–21) written and pushed. 50.7k words. Build OK; remaining validate errors are only forward links to unwritten chapters.
 
@@ -26,9 +28,9 @@ delivered as (a) a static website in `site/` and (b) a single Markdown adaptatio
   Plan: scaffold (this file, README, build.py, validate.py, CSS) → research notes → chapters
   Part I..V → build → QA → PR.
 
-## Next step
+## Status: COMPLETE (2026-09-12)
 
-Write Part V: ch39-personal-system next, 40..45. After each: build, commit, push main. Parts I–IV done (38 ch).
+All 45 chapters written; site + LEARNING_GUIDE.md built; validate.py OK; qa.py OK (47 pages × 2 widths: no console errors, no overflow, no broken links, search works, dark mode + mobile nav verified by screenshot). Possible future work: copy-edit pass, add figures, enable GitHub Pages from `site/`.
 
 ## Chapter plan (target ~40 chapters, each 2,000–6,000 words)
 
