@@ -1,0 +1,7 @@
+## What this is
+
+Most of us spent well over a decade in school and were never once taught how memory works, why we forget, or which study methods actually produce lasting knowledge. We settled on whatever felt productive — rereading, highlighting, cramming — and those habits, cognitive science has shown, are among the least effective things a learner can do.
+
+This guide is an attempt to fix that. It is a complete, evidence-based treatment of **learning how to learn**: how the brain changes when you learn, the strict limits of attention and working memory, the techniques with the strongest research support (and honest effect sizes), the ones that don't work, the role of sleep, exercise, stress and motivation, and how to apply all of it to languages, mathematics, programming, music, lectures, AI tools and more — finishing with a personal learning system, ready-made study plans, a troubleshooting guide and a one-page cheat sheet.
+
+**Where to start.** If you have ten minutes, read the [cheat sheet](cheat-sheet.html). If you have an hour, read [Retrieval practice](retrieval-practice.html), [Spaced repetition](spaced-repetition.html), [What doesn't work](what-doesnt-work.html) and [Sleep](sleep.html). If you want the full picture, begin with [Part I](introduction.html) and work through in order — spaced over a few weeks, with a closed-book summary after each chapter, as the guide itself recommends.

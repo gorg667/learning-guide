@@ -2,7 +2,7 @@
 
 *The comprehensive, evidence-based guide to maximizing your ability to learn anything.*
 
-> This is the single-file Markdown edition of the guide (38 chapters, 88,921 words). The website edition, with navigation and search, lives in `site/`. Both are generated from the chapter sources in `content/` by `build.py`.
+> This is the single-file Markdown edition of the guide (45 chapters, 103,661 words). The website edition, with navigation and search, lives in `site/`. Both are generated from the chapter sources in `content/` by `build.py`.
 
 ## Contents
 
@@ -52,6 +52,15 @@
 36. [Learning across the lifespan](#36-learning-across-the-lifespan) — How learning differs — and doesn't — for young children, school-age children, adolescents, adults and older adults; what changes in the brain and what compensates; the specific adjustments each stage needs; and guidance for parents helping children learn.
 37. [Learning with others — study groups, peers, mentors and communities](#37-learning-with-others-study-groups-peers-mentors-and-communities) — What the research says about collaborative learning, peer instruction and tutoring; how to run a study group that actually works (and why most don't); finding and using mentors; learning in communities of practice; accountability partners and body doubling; and the social side of motivation.
 38. [Learning with ADHD, dyslexia, autism and other differences](#38-learning-with-adhd-dyslexia-autism-and-other-differences) — What the research says about how ADHD, dyslexia, dyscalculia, autism and related conditions affect learning; which general strategies apply unchanged, which need adapting, and which specific approaches have evidence; and how to build a learning system around the brain you have rather than the one the textbooks assume.
+**Part V — Putting it together**
+
+39. [Designing your personal learning system](#39-designing-your-personal-learning-system) — How to turn everything in this guide into a working system — the components every system needs, a template you can adapt, the daily/weekly/monthly cadence, tool choices without tool obsession, and how to review and improve the system itself.
+40. [Study plans — exam in two weeks, semester course, skill in six months](#40-study-plans-exam-in-two-weeks-semester-course-skill-in-six-months) — Three complete, evidence-based plans you can adopt directly — cramming as well as it can be done when there's no alternative, a semester-long course studied properly, and a self-taught skill from zero to competence — each with a week-by-week schedule and the reasoning behind it.
+41. [Troubleshooting — when learning isn't working](#41-troubleshooting-when-learning-isnt-working) — A diagnostic guide organised by symptom — "I forget everything", "I can't focus", "I understand it but can't do it", "I'm stuck on a plateau", "I've lost motivation", and more — each with likely causes, the chapters that explain them, and the specific fixes to try first.
+42. [The one-page cheat sheet](#42-the-one-page-cheat-sheet) — The whole guide compressed — the core principles, the techniques that work, the ones that don't, the daily and weekly routine, and the emergency protocol — on a single page you can print and pin above your desk.
+43. [Annotated bibliography and further reading](#43-annotated-bibliography-and-further-reading) — The books, reviews and key papers behind this guide — organised by topic, with a note on what each contributes — so you can go to the primary sources and check the claims.
+44. [Glossary](#44-glossary) — Definitions of the technical terms used throughout the guide, with pointers to the chapters where each is explained.
+45. [Frequently asked questions](#45-frequently-asked-questions) — Short, direct answers to the questions learners ask most — about time, tools, techniques, ages, subjects and the inevitable "but what about…" — with pointers to the chapters that go deeper.
 
 ---
 
@@ -108,11 +117,11 @@ No background in psychology is assumed. Technical terms are introduced when they
 
 You do not need to read this linearly, and you certainly should not try to read it all in one sitting — that would violate half the advice inside it.
 
-**If you have ten minutes:** read the [cheat sheet](42-cheat-sheet.md). It contains the twenty things that matter most.
+**If you have ten minutes:** read the [cheat sheet](#42-the-one-page-cheat-sheet). It contains the twenty things that matter most.
 
 **If you have an hour:** read this chapter, then [Retrieval practice](#8-retrieval-practice-the-testing-effect), [Spaced repetition](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it), [What doesn't work](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil), and [Sleep](#22-sleep-the-other-half-of-learning). Those four chapters alone will change how you study.
 
-**If you have an exam or deadline soon:** go straight to the [study plans](40-study-plans.md) and the [troubleshooting](41-troubleshooting.md) chapter, and come back to the foundations afterwards.
+**If you have an exam or deadline soon:** go straight to the [study plans](#40-study-plans-exam-in-two-weeks-semester-course-skill-in-six-months) and the [troubleshooting](#41-troubleshooting-when-learning-isnt-working) chapter, and come back to the foundations afterwards.
 
 **If you want the full picture:** read Part I first — the rest of the guide will make far more sense once you understand the mechanisms — then work through Parts II and III over a few weeks, and dip into Part IV for the domains you care about.
 
@@ -1351,7 +1360,7 @@ Compare with the typical schedule — cover material week by week, never revisit
 
 **"Doesn't spacing mean I forget things between sessions?"** Yes. That's the point. The forgetting creates the effortful retrieval that builds durable memory. Aim for gaps where you *mostly* remember with effort — not so long that you're starting from zero.
 
-**"What if I don't have time to space it — the exam is in three days?"** Then space within the three days: three sessions a day apart beat one long one. And test yourself rather than rereading in each. (Then read [Chapter 40](40-study-plans.md) about how to avoid this next time.)
+**"What if I don't have time to space it — the exam is in three days?"** Then space within the three days: three sessions a day apart beat one long one. And test yourself rather than rereading in each. (Then read [Chapter 40](#40-study-plans-exam-in-two-weeks-semester-course-skill-in-six-months) about how to avoid this next time.)
 
 **"Is cramming useless?"** Cramming produces real short-term performance; if the only goal is tomorrow's test and you'll never need the material again, it works. Almost nothing you learn is like that. Cramming is a way of paying full price for knowledge and then throwing it away.
 
@@ -5370,5 +5379,1221 @@ Autism involves differences in social communication, sensory processing, and cog
 > Identify your single largest bottleneck — the thing that most often stops learning from happening. Then find the one adaptation in this chapter that routes around it: a timer and a body double for initiation; text-to-speech for decoding; explicit rubrics for unstated expectations; headphones and a fixed space for sensory load. Implement that one thing for two weeks before adding anything else. Design for the brain you have.
 
 Part IV is complete. Part V puts everything together: a personal learning system, ready-made plans, troubleshooting, a cheat sheet, and the references.
+
+---
+
+# Part V — Putting it together
+
+# 39. Designing your personal learning system
+
+*How to turn everything in this guide into a working system — the components every system needs, a template you can adapt, the daily/weekly/monthly cadence, tool choices without tool obsession, and how to review and improve the system itself.*
+
+### From principles to a system
+
+You now know more about how learning works than most teachers. That knowledge is inert until it becomes routine — the thing you do by default when you sit down, without deciding. This chapter turns the guide into a system: a small set of components, a cadence, and a way of improving it over time.
+
+The system described here is a template, not a prescription. Its components are the ones the evidence says matter; the specific implementation — tools, times, formats — should fit your life, your domain and your brain. A simple system you run beats an elaborate one you abandon.
+
+### The seven components
+
+Every effective learning system, however it looks on the surface, contains these:
+
+#### 1. A target
+
+What you are trying to be able to *do*, concretely, by when. Not "learn statistics" but "be able to design and analyse an A/B test, explain the result to a non-statistician, and pass the course exam in June." A target you can test against, that tells you what to practise, and that gives the process meaning ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going)).
+
+#### 2. A map
+
+The structure of the domain: what the parts are, what depends on what, where you are. A syllabus, a textbook's contents, a skill tree, a list of the sub-skills a practitioner needs. Without a map, you learn what's in front of you rather than what's next, and you can't see prerequisites ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking), [Chapter 34](#34-learning-from-lectures-video-online-courses-and-books)).
+
+#### 3. Sources of input
+
+The materials from which you get initial exposure and explanation: a spine (one primary textbook or course you'll complete), supplementary explanations for when the spine fails you, and — for skills — models of expert performance. Chosen for cognitive-load quality ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)) and for your level, and expected to change as your level changes.
+
+#### 4. Practice with feedback
+
+Where you actually build the skill: problems, exercises, projects, production, performance — at calibrated difficulty ([Chapter 29](#29-flow-boredom-and-the-difficulty-sweet-spot)), interleaved ([Chapter 10](#10-interleaving-and-variability-mixing-it-up)), with a feedback loop ([Chapter 21](#21-feedback-getting-it-using-it-giving-it)). This is the component most self-learners under-provision and the one where the learning happens.
+
+#### 5. A retrieval and spacing engine
+
+The mechanism that ensures everything you learn is retrieved, on a schedule, after forgetting has begun: a spaced-repetition system for the factual layer; a schedule of brain dumps, cumulative reviews and re-solving for the conceptual and procedural layers ([Chapters 8](#8-retrieval-practice-the-testing-effect)–[9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)).
+
+#### 6. A record
+
+Where you track process (sessions done, hours focused), errors (what went wrong and why), and reflections (what's working). The record is what makes metacognition possible ([Chapter 13](#13-metacognition-knowing-what-you-know)) and what lets the system improve.
+
+#### 7. The conditions
+
+Sleep, exercise, environment, habits, community — the things that determine whether components 1–6 happen at all ([Part III](#22-sleep-the-other-half-of-learning)). Not an afterthought; a component.
+
+### A template
+
+#### Daily (30–120 minutes, depending on life)
+
+| Slot | What | Why |
+|---|---|---|
+| **Warm-up retrieval** (5 min) | Brain-dump yesterday's material from memory; check | Spaced retrieval; activates prior knowledge |
+| **Spaced-repetition reviews** (10–20 min) | Whatever is due; say the answer before flipping | Factual layer maintenance |
+| **Deep block** (25–90 min, at peak time) | New material *or* practice — one topic, one technique, defined goal, phone away | The main learning event |
+| **Closing retrieval** (5 min) | Brain dump of the block; convert to questions/cards; log errors | Consolidates; feeds the engine; feeds the record |
+| **Log** (1 min) | Session done; focused minutes; one line of reflection | The record |
+
+On days when only 20 minutes exist: reviews plus one closing retrieval of something recent. The chain stays unbroken.
+
+#### Weekly (60–90 minutes, fixed slot)
+
+- **Cumulative retrieval** (30 min): brain-dump every topic of the last month, from memory; check; note gaps.
+- **Mixed practice** (30 min): problems or tasks from several topics, shuffled, closed-book.
+- **Error review** (10 min): read the error log; identify patterns; schedule targeted practice.
+- **Plan** (15 min): next week's deep blocks, what's new, what's practice, what's review; time-blocked into the calendar. Check the map: where am I, what's next, what's the prerequisite?
+- **System check** (5 min): what worked this week, what didn't, one adjustment.
+
+#### Monthly (1–2 hours)
+
+- **Assess against the target.** A realistic test: a practice exam, a project milestone, a conversation, a performance. Not "how do I feel" but "what can I do".
+- **Update the map.** Mark what's fluent, what's shaky, what's next.
+- **Prune and re-scope.** Drop material that's learned; adjust the desired retention on low-value cards; re-scope the target if reality demands.
+- **Review the conditions.** Sleep, exercise, environment, community — honest check.
+- **Reflect on the system.** Read the month's reflections; change one thing.
+
+#### Per topic (the unit of new learning)
+
+1. **Preview** the map: where does this fit, what does it depend on, what will it enable?
+2. **Activate**: what do I already know or think? Write it. Generate questions.
+3. **Attempt first**: a problem or explanation before the instruction, briefly.
+4. **Input**: the spine's explanation, actively — self-explain, pause, mark confusion.
+5. **Worked examples** with self-explanation → faded completion → problems.
+6. **Same-day brain dump**; card the factual layer; write questions for the conceptual layer.
+7. **Explain it** in plain language, from memory, within a few days — to a person if possible.
+8. **Mixed and spaced practice** over the following weeks; re-solve; re-explain.
+9. **Connect**: what is this an example of? where else does it apply? ([Chapter 19](#19-transfer-analogy-and-mental-models))
+
+### Tools
+
+The tools matter far less than the routine. A workable minimal kit:
+
+- **Spaced repetition:** Anki (with FSRS enabled) or equivalent. One deck per domain. 10–20 new cards a day.
+- **Notes and questions:** any plain system — a notebook, a text file, Obsidian, Notion. Notes as *questions* and *structure*, not transcription ([Chapter 15](#15-note-taking-that-actually-helps-you-learn)). Resist the pull to perfect the system.
+- **Calendar:** for time-blocking deep sessions and the weekly slot. Treat them as appointments.
+- **Timer:** for blocks. Any timer.
+- **Error log:** a running document. Date, what went wrong, why (misread / wrong method / slip / missing knowledge / misconception), the correction.
+- **Process tracker:** a calendar you mark, a habit app, a spreadsheet. Sessions and focused minutes.
+- **Blocker:** website/app blocker scheduled for study hours.
+- **Recording device:** for any performance skill — your phone.
+- **A person:** partner, group, tutor, community.
+
+Warning signs of tool obsession: spending a session configuring rather than learning; switching systems more than once a year; a note system you can't retrieve from memory; more time organising than practising. The system is for the learning, not the reverse.
+
+### Adapting the template
+
+**Exam-driven student:** the map is the syllabus weighted by marks; the target is the exam; heavy on mixed practice from past papers; retrieval engine tuned to the exam date ([Chapter 40](#40-study-plans-exam-in-two-weeks-semester-course-skill-in-six-months)).
+
+**Self-taught skill (programming, language, instrument):** the target is a concrete performance (ship the project, hold the conversation, play the piece); the map is a practitioner's roadmap; practice is project-driven with exercises for exposed weaknesses; feedback from tests, recordings, community; the retrieval engine handles the factual layer while re-doing and performing handle the procedural.
+
+**Professional keeping current:** the target is capability in a role; input is papers, courses, practitioners; practice is application at work; the retrieval engine is lighter (a weekly cumulative retrieval and a small deck); the record is a learning journal; community is the field.
+
+**Older learner or returning learner:** the same components; more spacing and repetitions; smaller blocks; load reduced; prerequisites filled without embarrassment; community for accountability ([Chapter 36](#36-learning-across-the-lifespan)).
+
+**ADHD:** everything externalised; blocks shorter; body doubling; the first step of every session pre-decided and tiny; the tracker visible; movement built in ([Chapter 38](#38-learning-with-adhd-dyslexia-autism-and-other-differences)).
+
+### Starting the system
+
+Do not implement all of it at once. In order of impact and ease:
+
+1. **Week 1–2:** the closing retrieval — every session ends with a five-minute brain dump. Nothing else changes.
+2. **Week 3–4:** add spaced-repetition reviews, daily, 10 new cards a day maximum.
+3. **Week 5–6:** add the weekly cumulative retrieval and planning slot.
+4. **Week 7–8:** fix the environment: phone away, blocker on, time-blocked deep sessions at peak.
+5. **Week 9–10:** add the error log and mixed practice.
+6. **Week 11–12:** add the monthly assessment; find a partner or community.
+
+Each step is one habit ([Chapter 27](#27-habits-environment-design-and-procrastination)). After three months, the system runs itself.
+
+### Improving the system
+
+The system is itself something you learn, by the same loop: try, get feedback, adjust.
+
+- **The weekly system check** is the feedback loop. One adjustment a week — not a redesign.
+- **Signals that something's wrong:** the chain breaking repeatedly (habit design problem); high confidence and poor test results (retrieval missing or fake); lots of hours and little progress (passive input dominating; wrong difficulty; distraction); reviews piling up (too many new cards); dread (difficulty too high, or cost too high, or meaning missing); boredom (difficulty too low).
+- **Signals it's working:** you can do things you couldn't a month ago and can show it; practice tests are predictable; the reviews are manageable; the sessions happen on bad days; you catch your own errors.
+- **Diagnose with the frameworks.** Cognitive load, desirable difficulty, motivation's three needs, habit design — each has a chapter, and each turns a vague "it's not working" into a specific fix.
+
+> [!KEY]
+> A learning system is: a **target** you can test, a **map** of the domain, **sources** for input, **practice with feedback** at the right difficulty, a **retrieval and spacing engine**, a **record**, and the **conditions** (sleep, exercise, environment, people) that let all of it happen. Build it one habit at a time, run it daily, review it weekly, test it monthly, and change one thing at a time.
+
+> [!PRACTICE]
+> Write your system on one page, using the seven headings. For each, one or two lines: what it is for you, concretely. Where a heading is blank — no map, no practice with feedback, no record — that is the first gap to fill. Put the page where you'll see it, and begin with step 1: the closing retrieval, every session, starting today.
+
+The next chapter gives worked plans for three common situations: an exam in two weeks, a semester course, and a skill learned from scratch over six months.
+
+---
+
+# 40. Study plans — exam in two weeks, semester course, skill in six months
+
+*Three complete, evidence-based plans you can adopt directly — cramming as well as it can be done when there's no alternative, a semester-long course studied properly, and a self-taught skill from zero to competence — each with a week-by-week schedule and the reasoning behind it.*
+
+### Plans, not principles
+
+The rest of this guide explains why. This chapter says what to do, day by day, in three situations that cover most learners' needs. Each plan applies the same principles — retrieval, spacing, interleaving, calibrated difficulty, sleep — under different constraints. Adapt the details; keep the structure.
+
+### Plan A: an exam in two weeks
+
+You have fourteen days, a syllabus you've partly covered, and not enough time. This is the situation the guide exists to prevent; but when you're in it, here is how to make it work as well as it can.
+
+#### Principles under pressure
+
+- **Retrieval, not rereading.** Every hour of rereading is an hour of fluency illusion. Every hour of self-testing is an hour of learning plus an hour of diagnosis.
+- **Space within the fortnight.** Three passes over the material with days between beat one exhaustive pass.
+- **Triage.** Not everything can be learned. Weight by marks and by what depends on what.
+- **Sleep.** Non-negotiable. Every hour of sleep sacrificed costs more than it gains ([Chapter 22](#22-sleep-the-other-half-of-learning)).
+- **Exam format drives practice format.** Practise producing what the exam demands.
+
+#### Day 0: triage (2 hours)
+
+1. Get the syllabus and any past papers or specimen questions.
+2. List every topic. For each: marks/weight (from the exam structure), your current state (know it / shaky / never learned), and dependencies (what it needs, what needs it).
+3. Sort: **high weight + shaky** first; **high weight + never learned** second; **low weight + shaky** third; **low weight + never learned** last (and possibly abandoned).
+4. Block the calendar: two to four deep sessions a day of 50–90 minutes, exercise, and 8 hours' sleep. Plan for less time than you think you have.
+
+#### Days 1–5: first pass — learn and diagnose
+
+For each topic in priority order:
+
+- **Diagnostic retrieval first** (10 min): before touching any material, brain-dump everything you know about the topic. This tells you what you actually have.
+- **Targeted input** (30–40 min): read/watch *only* the parts your dump revealed as gaps, with self-explanation; work one or two worked examples with attempt-first.
+- **Practice** (20–30 min): problems or questions on the topic, closed-book, checked; every error into the error log with a cause.
+- **Card** the factual layer (definitions, formulas, facts) — 20–30 cards per topic max; start daily reviews from day 1.
+- **End of day**: 10-minute brain dump of everything done today.
+
+Cover as many topics as the priority list allows. Topics never reached are triaged away; don't pretend otherwise.
+
+#### Days 6–10: second pass — mixed practice
+
+- **Daily reviews** continue (they will grow; this is fine).
+- **Morning**: cumulative brain dump — every topic covered so far, a few minutes each, from memory. Mark the weak ones.
+- **Deep sessions**: **mixed problem sets** drawn from *all* covered topics, shuffled, closed-book, exam-style. Check afterward, not during. Every error → log → the topic gets a short targeted review.
+- **Weak topics** get a second targeted input pass — only the gaps.
+- **One full practice paper** under timed conditions around day 8. Mark it honestly. The score is your calibration; the errors are your plan for days 9–10.
+- **Explain aloud**: for the three highest-weight topics, a Feynman-style plain-language explanation from memory ([Chapter 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching)). Gaps found go on the list.
+
+#### Days 11–13: third pass — consolidate
+
+- Reviews daily; if using FSRS, raise desired retention to ~0.95 for this deck.
+- **Two more timed practice papers** (days 11 and 12), full exam conditions. Mark; re-solve every error two days later.
+- **Error-log review**: patterns? A topic, a question type, a careless habit? Practise that specifically.
+- **Reduce input to near zero.** If you're still reading new material on day 12, stop; retrieve what you have.
+- **Light day 13**: reviews, a skim of the error log, quick brain dumps of the top topics. No new material. Exercise. Early night.
+
+#### Day 14: exam day
+
+- Normal wake time; breakfast; light movement.
+- 20 minutes of reviews or a quick brain dump — enough to warm up, not enough to tire.
+- 10 minutes of expressive writing about your worries, then slow breathing ([Chapter 24](#24-stress-anxiety-and-emotion-in-learning)).
+- Arousal is readiness. Go.
+
+#### What this plan trades
+
+It will produce a materially better result than fourteen days of rereading, and it will leave more knowledge behind afterward. It will not produce what a semester of spaced practice would have. Read Plan B before the next course.
+
+### Plan B: a semester course, done properly
+
+A 12–15-week course with weekly lectures or modules, readings, problem sets, and an end-of-term exam. The goal: understand it, retain it, and make the exam an anticlimax.
+
+#### Setup (before week 1, 2 hours)
+
+- Read the syllabus; build the **map**: topics in order, dependencies, assessment weights.
+- Identify the **spine** (the main textbook or course materials) and one backup explanation source.
+- Set up the **retrieval engine**: an Anki deck for the course; a "questions" document; a calendar with the weekly cumulative-retrieval slot fixed.
+- Set up the **record**: error log; process tracker.
+- Time-block: one deep session per lecture/module (60–90 min), daily 15-minute reviews, one 90-minute weekly session.
+- Check prerequisites honestly; fill any gaps in week 0 or in parallel.
+
+#### Each week
+
+**Before the lecture/module** (20–30 min): pre-read the relevant chapter — preview structure, generate questions, activate prior knowledge ([Chapter 16](#16-reading-to-learn-deep-reading-active-reading-and-reading-strategically)). You will attend the lecture as a second exposure with a schema in place.
+
+**During**: generative notes — structure, own words, questions, "?" marks ([Chapter 15](#15-note-taking-that-actually-helps-you-learn)). Attend fully; phone away.
+
+**Same day, within hours** (15 min): brain dump the lecture from memory; compare to notes; fill gaps; convert main points to questions; card the factual layer (15–25 cards).
+
+**Deep session** (60–90 min, the day after): worked examples with attempt-first and self-explanation → faded problems → this week's problem set, closed-book. Errors logged. Then a 5-minute closing brain dump.
+
+**Daily** (15 min): spaced-repetition reviews.
+
+**Weekly slot** (90 min, same time each week):
+- Cumulative brain dump: every topic so far, 2–3 minutes each. Weak ones flagged.
+- Mixed practice: 5–8 problems drawn from all weeks so far, shuffled.
+- Error-log review and one targeted fix.
+- Explain this week's hardest concept in plain language, aloud or in writing.
+- Plan next week.
+
+**Every 3–4 weeks**: a self-made or past-paper practice test under timed conditions covering everything so far. Mark it. This is calibration ([Chapter 13](#13-metacognition-knowing-what-you-know)) and exposure ([Chapter 24](#24-stress-anxiety-and-emotion-in-learning)).
+
+**Throughout**: sleep 7.5–9 hours; exercise most days; a study partner or group meeting weekly with a retrieval-based format ([Chapter 37](#37-learning-with-others-study-groups-peers-mentors-and-communities)).
+
+#### The last three weeks
+
+- **Week −3**: stop adding cards; the review load falls. Two full mixed practice papers this week. Error log drives targeted review of the two or three weakest topics.
+- **Week −2**: two more timed papers. Re-solve all errors from the previous week. Feynman explanations of the five highest-weight topics. Desired retention up to ~0.95.
+- **Week −1**: one paper early in the week; then only reviews, brain dumps and error-log passes. No new material. Sleep and exercise protected. The day before: light, early night.
+
+#### Why this works
+
+By the exam you will have retrieved every topic at least five to eight times, spaced over weeks; solved mixed problems from every topic several times; sat three to five timed papers; and explained the hardest ideas in your own words. The exam will contain nothing you haven't done under similar conditions. The total hours are similar to a conventional student's; the distribution is what differs — and, afterward, you will still know the material, which the conventional student will not.
+
+### Plan C: a skill from zero to competence in six months
+
+A self-taught skill — a language to conversational level, programming to a first real project, an instrument to playing real pieces, a technical field to job-relevant competence — with roughly an hour a day.
+
+#### Month 0: design (a weekend)
+
+- **Target**, concretely: what will you be able to *do* at six months? ("Hold a 20-minute conversation about everyday topics." "Build and deploy a working web app with a database." "Play three pieces at grade-X standard for an audience." "Pass certification Y.")
+- **Map**: find a practitioner's roadmap — a curriculum, a syllabus, a skill tree from an expert community. Identify the fundamentals everything depends on.
+- **Spine**: one structured resource you will complete. Plus: a source of practice problems/exercises; a source of feedback (tutor, community, tests, recordings); a community.
+- **System** ([Chapter 39](#39-designing-your-personal-learning-system)): deck, log, tracker, calendar. One daily deep block at peak time; short daily reviews; a weekly longer session; a monthly assessment.
+- **Habit design** ([Chapter 27](#27-habits-environment-design-and-procrastination)): the cue, the tiny first step, the environment prepared.
+
+#### Months 1–2: fundamentals to fluency
+
+**Goal:** the core chunks automatic; the notional model of the domain in place; the habit unbreakable.
+
+- **Daily deep block** (45–60 min): structured input from the spine with attempt-first and self-explanation; worked examples → faded practice; small exercises with immediate feedback. Fundamentals only — vocabulary and basic grammar, syntax and the machine model, scales and basic technique, core concepts. Interleave within the fundamentals.
+- **Daily reviews** (15 min): the factual layer — 10–15 new cards a day.
+- **Weekly** (90 min): cumulative retrieval; mixed exercises; error-log review; one tiny real-world use of the skill (a two-minute conversation; a 20-line program that does something; a simple piece played through).
+- **Feedback**: a tutor or expert session every one to two weeks if at all possible — early correction prevents fossilised errors ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)).
+- **Expect** rapid, visible progress. Enjoy it; it slows later.
+
+#### Months 3–4: the plateau and the pivot to production
+
+**Goal:** from consuming to producing; from exercises to real tasks; through the intermediate plateau.
+
+- **Deep block** shifts: half input (now more authentic — real content, real problems, real repertoire), half **production** (speaking, building, playing) with feedback.
+- **A project** begins: something real, small enough to finish, slightly beyond current ability. It reveals weaknesses; exercises target them ([Chapter 32](#32-learning-to-program-and-other-technical-skills) on the project–exercise loop).
+- **Reviews** continue; new cards come from your own encounters now.
+- **Deliberate practice** on the limiting factor: identify it each week ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)); isolate; feedback; refine.
+- **Community**: join and participate — ask, answer, share work for critique.
+- **Expect** progress to feel invisible. This is the plateau, and it's where most people quit. Track process, not level; the level is moving even when you can't see it. Vary content to keep interest; set concrete usage goals.
+
+#### Months 5–6: integration and performance
+
+**Goal:** the target, demonstrated.
+
+- **Deep block** is mostly production and whole-task practice under realistic conditions: long conversations, the full project, whole pieces, timed practice exams. Input is now what you seek out for pleasure or need.
+- **Deliberate practice** continues on the two or three things the whole-task practice exposes.
+- **Feedback** from experts on the whole performance, not just components.
+- **Simulate the target** under pressure at least twice before the real thing: a conversation with a stranger; a demo to someone; a recorded performance; a full mock exam.
+- **Month 6**: do the thing. Then assess honestly against the target, update the map, and set the next six-month target — the second six months are far easier than the first.
+
+#### Throughout all six months
+
+- **Never miss twice.** The minimum version on bad days.
+- **Sleep and exercise** as components, not extras.
+- **Weekly system check**; one adjustment at a time.
+- **Monthly assessment**: what can I do now that I couldn't a month ago? Written down. This is what carries you through month four.
+- **Expect** roughly 150–200 hours of focused work over six months at an hour a day. For a language, that is a solid A2–B1; for programming, a real first project and readiness for more; for an instrument, real pieces played reasonably. Not mastery — competence, and the foundation and habits for everything after.
+
+> [!KEY]
+> Every plan has the same skeleton: **triage** what matters; **retrieve** rather than reread; **space** across the available time; **mix** the practice; **practise the target format** under realistic conditions; **log errors** and fix their causes; **protect sleep**. Two weeks, a semester or six months changes the scale, not the structure.
+
+> [!PRACTICE]
+> Pick the plan closest to your situation. Copy its schedule into your calendar as actual appointments for the first week. Do the setup step today. Then begin — with the first retrieval, not the first rereading.
+
+The next chapter is for when the plan isn't working: a troubleshooting guide organised by symptom.
+
+---
+
+# 41. Troubleshooting — when learning isn't working
+
+*A diagnostic guide organised by symptom — "I forget everything", "I can't focus", "I understand it but can't do it", "I'm stuck on a plateau", "I've lost motivation", and more — each with likely causes, the chapters that explain them, and the specific fixes to try first.*
+
+### How to use this chapter
+
+Find the symptom that matches. Each entry gives the most likely causes in rough order of frequency, the fix to try first, and where in the guide the mechanism is explained. Most problems have one dominant cause; fix that before adding anything else, and give the fix two weeks before judging it.
+
+---
+
+### "I forget everything I study"
+
+**Likely causes**
+1. You're rereading and recognising, not retrieving. Fluency is standing in for memory ([Chapter 7](#7-desirable-difficulties-and-the-illusion-of-fluency), [Chapter 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil)).
+2. You never revisit. One exposure, no spacing ([Chapter 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)).
+3. You're sleep-deprived, so nothing consolidates ([Chapter 22](#22-sleep-the-other-half-of-learning)).
+4. You're studying while distracted; encoding never happened ([Chapter 6](#6-attention-focus-and-the-myth-of-multitasking)).
+5. The material has no hooks — you're memorising isolated facts without connecting them ([Chapter 11](#11-elaboration-self-explanation-and-generation)).
+
+**Try first:** end every session with a closed-book brain dump, and revisit each topic from memory two days later and a week later. If retention is still poor, check sleep before anything else.
+
+---
+
+### "I understand it when I read it, but I can't do the problems"
+
+**Likely causes**
+1. Comprehension is not retention or skill; you've been doing recognition ([Chapter 2](#2-what-learning-actually-is)).
+2. You read worked examples without attempting first or self-explaining; the steps made sense without your producing any ([Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples)).
+3. You've never practised *identifying the problem type*, because practice was blocked by chapter ([Chapter 10](#10-interleaving-and-variability-mixing-it-up)).
+4. Prerequisite skills aren't fluent, so working memory is exhausted before the problem starts ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking), [Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)).
+
+**Try first:** attempt every example before reading its solution; self-explain each step; then do a mixed set of problems closed-book. If you can't even start, go back to prerequisites.
+
+---
+
+### "I can't focus / my mind keeps wandering"
+
+**Likely causes**
+1. Phone and notifications within reach; task-switching ([Chapter 6](#6-attention-focus-and-the-myth-of-multitasking)).
+2. Sleep deprivation — the single largest destroyer of sustained attention ([Chapter 22](#22-sleep-the-other-half-of-learning)).
+3. The task is passive (reading, watching), leaving attention free to leave ([Chapter 6](#6-attention-focus-and-the-myth-of-multitasking)).
+4. The material is too easy (boredom) or too hard (overwhelm, avoidance) ([Chapter 29](#29-flow-boredom-and-the-difficulty-sweet-spot)).
+5. Sessions too long without breaks ([Chapter 28](#28-time-management-for-learners)).
+6. Anxiety or an unresolved worry consuming working memory ([Chapter 24](#24-stress-anxiety-and-emotion-in-learning)).
+7. Possibly ADHD, especially if this is lifelong and pervasive ([Chapter 38](#38-learning-with-adhd-dyslexia-autism-and-other-differences)).
+
+**Try first:** phone in another room, blocker on, 25-minute timed blocks, and convert the task to something active (retrieve, solve, explain). Then fix sleep.
+
+---
+
+### "I study for hours and have nothing to show for it"
+
+**Likely causes**
+1. The hours are mostly passive consumption and artefact production (highlighting, copying, reformatting) ([Chapter 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil)).
+2. Distracted time counted as study time ([Chapter 6](#6-attention-focus-and-the-myth-of-multitasking)).
+3. Practising what you already know because it feels good; avoiding weaknesses ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)).
+4. No feedback loop — you never find out what didn't work ([Chapter 21](#21-feedback-getting-it-using-it-giving-it)).
+
+**Try first:** log focused minutes, not desk hours, and end each session with a retrieval test. Sort your activities into retrieval/generation vs consumption vs artefact production; invert the ratio.
+
+---
+
+### "I'm confident going in and shocked by the result"
+
+**Likely causes**
+1. Fluency illusion: judgments made while looking at the material or just after ([Chapter 7](#7-desirable-difficulties-and-the-illusion-of-fluency), [Chapter 13](#13-metacognition-knowing-what-you-know)).
+2. Practice format didn't match the test format (recognition practice, production test).
+3. Never practised under timed, closed-book conditions.
+
+**Try first:** delayed self-tests (a day later, book closed, in the test's format) as the only measure of readiness; predict your score before each and compare.
+
+---
+
+### "I've hit a plateau"
+
+**Likely causes**
+1. Practice has become performance: comfortable, automatic, not at the edge ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)).
+2. You're using beginner methods at an intermediate level — over-scaffolded, blocked, guided (expertise reversal, [Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)).
+3. The limiting factor is a specific component you're not practising because it's unpleasant.
+4. Normal intermediate plateau where gains are in the long tail and invisible ([Chapter 30](#30-learning-languages)).
+5. Insufficient sleep or recovery for consolidation.
+
+**Try first:** identify the single component that most limits performance; design deliberate practice for it with fast feedback; raise difficulty (remove scaffolds, mix, vary, speed up). Track process, since level won't move visibly for a while.
+
+---
+
+### "I can't get started / I keep procrastinating"
+
+**Likely causes**
+1. The task is aversive (anxiety, boredom, uncertainty) and avoidance provides relief ([Chapter 27](#27-habits-environment-design-and-procrastination)).
+2. The first step is undefined or too large.
+3. No cue; starting requires a fresh decision every time.
+4. Self-criticism about past procrastination is adding to the aversiveness.
+5. Fatigue or low mood mistaken for lack of motivation ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going)).
+
+**Try first:** define a tiny first step, attach it to an existing routine ("after coffee, open the notes and write three things I remember"), time-box five minutes with permission to stop, and forgive yesterday. Body doubling if available.
+
+---
+
+### "I've lost motivation"
+
+**Likely causes** — diagnose with the frameworks ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going))
+1. **Value**: you've lost sight of why. → Write the utility-value paragraph; reconnect to the goal.
+2. **Expectancy**: repeated failure has made you doubt you can. → Shrink the step; arrange a success; fix prerequisites.
+3. **Competence**: no visible progress. → Track process; do a monthly assessment; compare to a month ago, not to the goal.
+4. **Autonomy**: it feels imposed. → Find the choices; choose the method, order, examples.
+5. **Relatedness**: you're alone. → Partner, group, community.
+6. **Cost**: it's too much, or too anxious. → Cut scope; fix the environment; address the anxiety.
+7. **Body**: sleep, exercise, stress. → Fix those first; "unmotivated" often means depleted.
+
+**Try first:** the five-minute rule (action produces motivation), plus whichever diagnosis above fits.
+
+---
+
+### "The material is overwhelming / I can't make sense of it"
+
+**Likely causes**
+1. Intrinsic load too high: too many novel, interacting elements at once ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)).
+2. Missing prerequisites ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)).
+3. Poorly designed materials adding extraneous load (split attention, redundancy, jargon).
+4. Wrong level of material for your stage.
+
+**Try first:** list every element you need to hold in mind; if more than four or five and most aren't automatic, isolate and learn them separately first. Then find a better-designed source or a lower-level one and come back up.
+
+---
+
+### "I get bored"
+
+**Likely causes**
+1. Too easy: skill exceeds challenge ([Chapter 29](#29-flow-boredom-and-the-difficulty-sweet-spot)).
+2. Passive method ([Chapter 6](#6-attention-focus-and-the-myth-of-multitasking)).
+3. No meaning or agency ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going)).
+4. Blocked practice — the same thing over and over ([Chapter 10](#10-interleaving-and-variability-mixing-it-up)).
+
+**Try first:** raise difficulty (self-test instead of read; remove scaffolds; harder problems), interleave topics, or set a concrete goal that makes the material matter.
+
+---
+
+### "I get anxious / I freeze in exams"
+
+**Likely causes**
+1. Worry occupying working memory; cortisol blocking retrieval ([Chapter 24](#24-stress-anxiety-and-emotion-in-learning)).
+2. Preparation you can't trust, because it was rereading — the anxiety is accurate ([Chapter 13](#13-metacognition-knowing-what-you-know)).
+3. Never practised under test-like conditions.
+4. Fixed beliefs about ability making failure identity-threatening ([Chapter 26](#26-mindset-self-efficacy-and-beliefs-about-ability)).
+
+**Try first:** frequent low-stakes practice tests under realistic conditions (exposure + trustworthy confidence); ten minutes of expressive writing before the exam; reappraise arousal as readiness. If severe, seek CBT.
+
+---
+
+### "My spaced-repetition reviews have piled up and I've given up"
+
+**Likely causes**
+1. Too many new cards per day ([Chapter 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)).
+2. Cards too big, vague or unanswerable, so they fail repeatedly.
+3. Carding material you don't understand.
+4. Irregular review.
+
+**Try first:** cut new cards to 10/day; delete or split the cards you keep failing; lower desired retention on low-value decks; review daily even briefly. If the backlog is huge, reschedule it over two weeks rather than facing it at once.
+
+---
+
+### "I can't remember what I read"
+
+See "I forget everything" — and specifically ([Chapter 16](#16-reading-to-learn-deep-reading-active-reading-and-reading-strategically)): you're not previewing, not stopping at section boundaries to check comprehension, and not retrieving afterward. Read less, more actively; close the book and write after every section.
+
+---
+
+### "I know the rules / vocabulary but can't speak / can't use it"
+
+**Likely causes**
+1. Declarative knowledge without procedural fluency ([Chapter 2](#2-what-learning-actually-is), [Chapter 30](#30-learning-languages)).
+2. Far too little output practice relative to input and study.
+3. Anxiety about errors suppressing production.
+
+**Try first:** rebalance toward production — speak, write, build, play — every day, with feedback, accepting errors as the mechanism.
+
+---
+
+### "I learned it for the exam and now it's gone"
+
+**Cause:** cramming produced retrieval strength without storage strength ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)). This is expected, not a personal failing.
+
+**Fix for next time:** Plan B in [Chapter 40](#40-study-plans-exam-in-two-weeks-semester-course-skill-in-six-months). **Fix for now:** if you need the material, relearning is faster than the first time (savings); a spaced deck maintained at 20 minutes a week would have kept it.
+
+---
+
+### "I'm too old for this"
+
+**Cause:** a false belief ([Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes), [Chapter 36](#36-learning-across-the-lifespan)) plus real but manageable changes: more repetitions needed, more spacing, less multitasking, more sleep protection.
+
+**Try first:** double the spaced repetitions, reduce load, connect to what you know, exercise — and choose something genuinely challenging, since challenge is what drives the benefit.
+
+---
+
+### "Nothing in this guide works for me"
+
+Before concluding that:
+
+1. **Did you actually do it?** Retrieval practice done as "look at the card, think 'yeah', flip" is not retrieval. Spacing done as "I'll get to it" is not spacing. The techniques fail silently when they're done in name only.
+2. **Did you give it time?** Desirable difficulties feel worse before they work; habits take two to three months; plateaus are normal.
+3. **Is the bottleneck upstream?** Sleep, an untreated attention or reading difficulty, anxiety, a missing prerequisite — no technique works through these.
+4. **Is the material wrong for your level?**
+5. **Are you alone?** Most self-study failure is a relatedness and accountability failure, not a technique failure.
+
+If you've genuinely applied the core — attentive retrieval, spaced, interleaved, with feedback and sleep — for two months and seen nothing, the likeliest explanations are an undiagnosed learning difference ([Chapter 38](#38-learning-with-adhd-dyslexia-autism-and-other-differences)) or a health issue; both are worth checking.
+
+> [!KEY]
+> Almost every learning problem is one of a small number of things: **not retrieving** (rereading instead), **not spacing** (massing), **not attending** (distraction, sleep), **wrong difficulty** (too easy or too hard, or missing prerequisites), **no feedback**, or a **motivation/habit** failure that keeps the effective methods from happening. Diagnose which, fix that one, wait two weeks.
+
+The next chapter compresses the whole guide onto one page.
+
+---
+
+# 42. The one-page cheat sheet
+
+*The whole guide compressed — the core principles, the techniques that work, the ones that don't, the daily and weekly routine, and the emergency protocol — on a single page you can print and pin above your desk.*
+
+### The core idea
+
+**You cannot feel learning; you can only feel performance and fluency.** The methods that feel best (rereading, highlighting, cramming, watching) produce the illusion of learning. The methods that feel worst (retrieving, spacing, mixing, struggling) produce the substance. Judge by what you can retrieve after a delay with the book closed — never by how familiar it feels.
+
+### Ten principles
+
+1. **Retrieve, don't reread.** Pulling knowledge out builds it; putting it back in doesn't. Test yourself constantly.
+2. **Space it.** Several short sessions with forgetting between beat one long one. Review when it's become hard to recall, not while it's easy.
+3. **Interleave.** Mix topics and problem types you might confuse; don't block them. Practise *choosing* the method, not just executing it.
+4. **Elaborate.** Ask why and how. Connect to what you know. Generate examples. Explain in your own words.
+5. **Manage load.** Working memory holds ~4 things. Learn parts before wholes; make fundamentals automatic; remove distraction and clutter.
+6. **Attempt before instruction, then get instruction.** Brief struggle → explanation → faded practice. Neither pure discovery nor pure telling.
+7. **Practise at the edge.** Aim for ~85% success with effort. Never-fail is too easy; always-fail needs prerequisites.
+8. **Close the feedback loop.** Every attempt checked; every error examined ("why did I think that?") and re-tested.
+9. **Sleep.** Consolidation happens in sleep. An hour of sleep beats an hour of late study. Never sacrifice it.
+10. **Build the habit, not the willpower.** Cue, tiny first step, prepared environment, tracker, never miss twice.
+
+### Techniques that work
+
+| Technique | Do this |
+|---|---|
+| **Brain dump** | After any session: blank page, everything you remember, then check |
+| **Flashcards (spaced)** | Anki + FSRS; 10–20 new/day; say the answer *before* flipping; one idea per card |
+| **Mixed problem sets** | Shuffle problems from several chapters; identify the type before solving |
+| **Worked examples** | Attempt first → self-explain every step → fade (completion problems) → full problems |
+| **Self-explanation** | At every paragraph/step: what does this mean, why is it true, how does it connect? |
+| **Feynman technique** | Explain it in plain language to an imagined 14-year-old, from memory; mark every gap |
+| **Cumulative weekly review** | 30 min: brain-dump every topic of the last month |
+| **Practice tests** | Timed, closed-book, in exam format; check *after*; re-solve errors two days later |
+| **Error log** | What went wrong, *why*, the correction; review weekly for patterns |
+| **Dual coding** | Draw the diagram from memory; label it; redraw in three days |
+| **Pretesting** | Guess the answers before you read; wrong guesses still help |
+| **Teach it** | Real person > written explanation > imagined audience > nothing |
+| **Deliberate practice** | Isolate the limiting component; specific goal; fast feedback; short focused block |
+| **Mnemonics** | For arbitrary lists/pairs only: method of loci, keyword, major system — then space it |
+
+### Things that don't work (or barely)
+
+Rereading · Highlighting · Copying notes · Summarising with the book open · Cramming · Passive watching · Studying with a phone nearby · Learning styles · Brain-training games · Speed reading · Sleep learning · Nootropics · "10,000 hours" as a rule · Waiting to feel motivated
+
+### Daily routine (30–120 min)
+
+1. **Warm-up** (5): brain-dump yesterday's topic
+2. **Reviews** (10–20): spaced-repetition cards due
+3. **Deep block** (25–90, at your peak time): one topic, one technique, defined goal, phone in another room
+4. **Close** (5): brain dump → questions/cards → error log
+5. **Log** (1): session done, focused minutes, one line
+
+### Weekly (90 min, fixed slot)
+
+Cumulative brain dump · mixed practice set · error-log review · explain the hardest thing aloud · plan next week (time-blocked) · one system adjustment
+
+### Conditions
+
+- **Sleep** 7.5–9 h, regular schedule, no caffeine after ~2 pm, no alcohol on study days
+- **Exercise** 20–40 min most days, ideally before study
+- **Environment** phone elsewhere, blocker on, single window, dedicated space
+- **People** a partner, group or community; teach what you learn
+- **Difficulty** mostly succeeding, always working; adjust weekly
+
+### Per new topic
+
+Preview the structure → write what you already know + questions → attempt a problem → study actively (self-explain) → worked examples → faded problems → same-day brain dump → card the facts → explain in plain language within days → mixed & spaced practice for weeks
+
+### Emergency protocol (exam soon)
+
+Triage by marks × weakness → diagnostic brain dump per topic **before** reading → targeted input for gaps only → closed-book problems → mixed timed papers → error log → **sleep** → light review on the day → 10 min expressive writing before → arousal = readiness
+
+### When it's not working
+
+| Symptom | First fix |
+|---|---|
+| Forget everything | Retrieve, don't reread; revisit at 2 days and 1 week; check sleep |
+| Understand but can't do | Attempt before examples; self-explain steps; mixed closed-book problems |
+| Can't focus | Phone away; 25-min blocks; make the task active; sleep |
+| Hours, no results | Track focused minutes; invert consumption/retrieval ratio |
+| Confident, then shocked | Delayed closed-book self-tests in exam format as the only readiness measure |
+| Plateau | Find the limiting component; deliberate practice; raise difficulty |
+| Can't start | Tiny first step tied to a routine; 5 minutes; forgive and go |
+| Lost motivation | Diagnose: value / expectancy / competence / autonomy / relatedness / cost / body |
+| Overwhelmed | List the elements; if >4–5 not automatic, learn them separately first |
+
+### The three questions to ask of any learning method
+
+1. Does it require me to **produce** something from memory, or just recognise it?
+2. Will I encounter this material again **after forgetting** has begun?
+3. Am I getting **feedback** on whether I'm right?
+
+If the answer to any is no, fix that before doing more.
+
+---
+
+*Print this. Put it where you study. Everything on it is explained in the chapters; nothing on it works unless you do it.*
+
+---
+
+# 43. Annotated bibliography and further reading
+
+*The books, reviews and key papers behind this guide — organised by topic, with a note on what each contributes — so you can go to the primary sources and check the claims.*
+
+### How to use this
+
+Everything substantive in this guide traces to the sources below. They are grouped by topic and, within each group, roughly by accessibility: books for general readers first, then reviews and meta-analyses, then landmark primary papers. Where a source is mentioned in a chapter, it is cited there by author and year; this list gives the trail.
+
+**★** marks the handful of sources that, if you read nothing else, give the best return. Publication details are given to the level needed to find the item; DOIs are omitted and are readily searchable.
+
+### Start here: the best general books
+
+- ★ **Brown, P. C., Roediger, H. L., & McDaniel, M. A. (2014).** *Make It Stick: The Science of Successful Learning.* Harvard University Press. The best single popular synthesis of retrieval, spacing, interleaving and desirable difficulties, by two leading researchers and a writer.
+- ★ **Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013).** "Improving students' learning with effective learning techniques." *Psychological Science in the Public Interest*, 14(1), 4–58. The authoritative evaluation of ten study techniques — free online and readable.
+- **Oakley, B. (2014).** *A Mind for Numbers.* Tarcher; and the free Coursera course *Learning How to Learn* (Oakley & Sejnowski). Accessible and practical on focused/diffuse thinking, chunking and procrastination.
+- **Willingham, D. T. (2009).** *Why Don't Students Like School?* Jossey-Bass; and *Outsmart Your Brain* (2023), a direct guide for students.
+- **Weinstein, Y., Sumeracki, M., & Caviglioli, O. (2018).** *Understanding How We Learn: A Visual Guide.* Routledge. The Learning Scientists' illustrated guide; learningscientists.org has free materials.
+- **Agarwal, P. K., & Bain, P. M. (2019).** *Powerful Teaching.* Jossey-Bass. Retrieval, spacing, interleaving and metacognition for teachers.
+- **Lang, J. M. (2016).** *Small Teaching.* Jossey-Bass. Evidence-based small changes for teachers.
+- **Carey, B. (2014).** *How We Learn.* Random House. A journalist's readable tour of the research.
+- **Young, S. (2019).** *Ultralearning.* HarperBusiness. Self-directed intensive learning projects.
+
+### Memory, the brain, and the foundations (Part I)
+
+**Books**
+- **Baddeley, A., Eysenck, M. W., & Anderson, M. C.** *Memory* (3rd ed., 2020). Psychology Press. The standard textbook.
+- **Kandel, E. R. (2006).** *In Search of Memory.* Norton. The molecular biology of memory storage, by its Nobel laureate.
+- **Costandi, M. (2016).** *Neuroplasticity.* MIT Press Essential Knowledge. Short, sober, accurate.
+
+**Papers and reviews**
+- **Ebbinghaus, H. (1885/1913).** *Memory: A Contribution to Experimental Psychology.* Origin of the forgetting curve. **Murre, J. M. J., & Dros, J. (2015).** "Replication and analysis of Ebbinghaus' forgetting curve." *PLoS ONE*, 10(7).
+- **Miller, G. A. (1956).** "The magical number seven, plus or minus two." *Psychological Review*, 63, 81–97. **Cowan, N. (2001).** "The magical number 4 in short-term memory." *Behavioral and Brain Sciences*, 24, 87–114.
+- **Baddeley, A. D., & Hitch, G. (1974).** "Working memory." *Psychology of Learning and Motivation*, 8, 47–89.
+- **Craik, F. I. M., & Lockhart, R. S. (1972).** "Levels of processing." *Journal of Verbal Learning and Verbal Behavior*, 11, 671–684. **Craik & Tulving (1975).** *JEP: General*, 104, 268–294.
+- **Tulving, E., & Thomson, D. M. (1973).** "Encoding specificity and retrieval processes in episodic memory." *Psychological Review*, 80, 352–373.
+- **Bjork, R. A., & Bjork, E. L. (1992).** "A new theory of disuse and an old theory of stimulus fluctuation." In *From Learning Processes to Cognitive Processes*. Storage vs retrieval strength.
+- ★ **Bjork, R. A. (1994).** "Memory and metamemory considerations in the training of human beings." In *Metacognition: Knowing About Knowing*. MIT Press. The desirable-difficulties paper. **Bjork, E. L., & Bjork, R. A. (2011).** "Making things hard on yourself, but in a good way." In *Psychology and the Real World*. The accessible version.
+- **Soderstrom, N. C., & Bjork, R. A. (2015).** "Learning versus performance: An integrative review." *Perspectives on Psychological Science*, 10, 176–199.
+- **Chase, W. G., & Simon, H. A. (1973).** "Perception in chess." *Cognitive Psychology*, 4, 55–81.
+- **Chi, M. T. H., Feltovich, P. J., & Glaser, R. (1981).** "Categorization and representation of physics problems by experts and novices." *Cognitive Science*, 5, 121–152.
+- **Bransford, J. D., & Johnson, M. K. (1972).** "Contextual prerequisites for understanding." *JVLVB*, 11, 717–726.
+- **McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995).** "Why there are complementary learning systems in the hippocampus and neocortex." *Psychological Review*, 102, 419–457.
+- **Kilgard, M. P., & Merzenich, M. M. (1998).** "Cortical map reorganization enabled by nucleus basalis activity." *Science*, 279, 1714–1718.
+- **Draganski, B., et al. (2004).** "Changes in grey matter induced by training." *Nature*, 427, 311–312. **Boyke, J., et al. (2008).** *J. Neuroscience*, 28, 7031–7035 (older adults).
+- **Maguire, E. A., et al. (2000).** "Navigation-related structural change in the hippocampi of taxi drivers." *PNAS*, 97, 4398–4403. **Woollett & Maguire (2011).** *Current Biology*, 21, 2109–2114.
+- **Hartshorne, J. K., Tenenbaum, J. B., & Pinker, S. (2018).** "A critical period for second language acquisition." *Cognition*, 177, 263–277.
+- **Sweller, J., van Merriënboer, J. J. G., & Paas, F. (2019).** "Cognitive architecture and instructional design: 20 years later." *Educational Psychology Review*, 31, 261–292. **Sweller, J. (1988).** *Cognitive Science*, 12, 257–285.
+- **Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003).** "The expertise reversal effect." *Educational Psychologist*, 38, 23–31.
+- **Kirschner, P. A., Sweller, J., & Clark, R. E. (2006).** "Why minimal guidance during instruction does not work." *Educational Psychologist*, 41, 75–86.
+- **Ophir, E., Nass, C., & Wagner, A. D. (2009).** "Cognitive control in media multitaskers." *PNAS*, 106, 15583–15587. **Uncapher & Wagner (2018).** *PNAS*, 115, 9889–9896.
+- **Ward, A. F., Duke, K., Gneezy, A., & Bos, M. W. (2017).** "Brain drain." *JACR*, 2, 140–154. Tempered by **Böttger, Poschik & Zierer (2023)** and **Hartanto et al. (2024)** meta-analyses.
+- **Castelo, N., et al. (2025).** "Blocking mobile internet on smartphones improves sustained attention, mental health, and subjective well-being." *PNAS Nexus*, 4(2).
+- **OECD (2023).** *PISA 2022 Results (Volume II)*; *Students, Digital Devices and Success* (2024).
+
+### The toolkit (Part II)
+
+**Retrieval practice**
+- ★ **Roediger, H. L., & Karpicke, J. D. (2006).** "Test-enhanced learning." *Psychological Science*, 17, 249–255; and "The power of testing memory." *Perspectives on Psychological Science*, 1, 181–210.
+- ★ **Karpicke, J. D., & Roediger, H. L. (2008).** "The critical importance of retrieval for learning." *Science*, 319, 966–968.
+- **Karpicke, J. D., & Blunt, J. R. (2011).** "Retrieval practice produces more learning than elaborative studying with concept mapping." *Science*, 331, 772–775.
+- **Rowland, C. A. (2014).** *Psychological Bulletin*, 140, 1432–1463. **Adesope, Trevisan & Sundararajan (2017).** *Review of Educational Research*, 87, 659–701. **Yang, Luo, Vadillo, Yu & Shanks (2021).** *Psychological Bulletin*, 147, 399–435. **Agarwal, Nunes & Blunt (2021).** *Educational Psychology Review*, 33, 1409–1453. The four major syntheses.
+- **Pan, S. C., & Rickard, T. C. (2018).** "Transfer of test-enhanced learning." *Psychological Bulletin*, 144, 710–756.
+- **Butler, A. C., Karpicke, J. D., & Roediger, H. L. (2007).** Delayed feedback. *JEP: Applied*, 13, 273–281.
+- **Smith, A. M., Floerke, V. A., & Thomas, A. K. (2016).** "Retrieval practice protects memory against acute stress." *Science*, 354, 1046–1048.
+- **Rawson, K. A., & Dunlosky, J. (2011).** *JEP: General*, 140, 283–302; **(2022)** "Successive relearning." *Current Directions in Psychological Science*, 31, 362–368.
+- **McDaniel, M. A., Howard, D. C., & Einstein, G. O. (2009).** "The read-recite-review study strategy." *Psychological Science*, 20, 516–522.
+- **Richland, Kornell & Kao (2009).** Pretesting. *JEP: Applied*, 15, 243–257. **St. Hilaire & Carpenter (2024).** Prequestion meta-analysis. **Kornell, Hays & Bjork (2009).** *JEP: LMC*, 35, 989–998.
+
+**Spacing**
+- ★ **Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006).** *Psychological Bulletin*, 132, 354–380.
+- ★ **Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008).** "Spacing effects in learning: A temporal ridgeline of optimal retention." *Psychological Science*, 19, 1095–1102.
+- **Kornell, N. (2009).** "Optimising learning using flashcards." *Applied Cognitive Psychology*, 23, 1297–1317.
+- **Karpicke & Bauernschmidt (2011).** *JEP: LMC*, 37, 1250–1257.
+- **Baddeley, A. D., & Longman, D. J. A. (1978).** *Ergonomics*, 21, 627–635.
+- **Open Spaced Repetition.** FSRS documentation and benchmark: github.com/open-spaced-repetition; expertium.github.io/Benchmark.html.
+
+**Interleaving and variability**
+- ★ **Rohrer, D., & Taylor, K. (2007).** "The shuffling of mathematics problems improves learning." *Instructional Science*, 35, 481–498. **Rohrer, Dedrick & Stershic (2015).** *JEP*, 107, 900–908. **Rohrer, Dedrick, Hartwig & Cheung (2020).** *JEP*, 112, 40–52.
+- **Kornell, N., & Bjork, R. A. (2008).** "Learning concepts and categories: Is spacing the 'enemy of induction'?" *Psychological Science*, 19, 585–592.
+- ★ **Brunmair, M., & Richter, T. (2019).** "Similarity matters: A meta-analysis of interleaved learning and its moderators." *Psychological Bulletin*, 145, 1029–1052.
+- **Shea, J. B., & Morgan, R. L. (1979).** *JEP: Human Learning and Memory*, 5, 179–187. **Kerr & Booth (1978).** *Perceptual and Motor Skills*, 46, 395–401. **Schmidt, R. A. (1975).** *Psychological Review*, 82, 225–260.
+
+**Elaboration, generation, self-explanation**
+- **Pressley, M., et al. (1987).** Elaborative interrogation. *JEP: LMC*, 13, 291–300.
+- ★ **Chi, M. T. H., et al. (1989).** "Self-explanations." *Cognitive Science*, 13, 145–182. **Chi, de Leeuw, Chiu & LaVancher (1994).** *Cognitive Science*, 18, 439–477.
+- **Bisra, K., et al. (2018).** "Inducing self-explanation: A meta-analysis." *Educational Psychology Review*, 30, 703–725.
+- **Renkl, A. (1997).** *Cognitive Science*, 21, 1–29. **Renkl & Atkinson (2003).** Fading. *Educational Psychologist*, 38, 15–22.
+- **Slamecka, N. J., & Graf, P. (1978).** "The generation effect." *JEP: HLM*, 4, 592–604. **Bertsch et al. (2007).** *Memory & Cognition*, 35, 201–210.
+- **Sinha, T., & Kapur, M. (2021).** "When problem solving followed by instruction works." *Review of Educational Research*, 91, 761–798.
+- **Fyfe, E. R., et al. (2014).** "Concreteness fading." *Educational Psychology Review*, 26, 9–25.
+- **Fiorella, L., & Mayer, R. E. (2015).** *Learning as a Generative Activity.* Cambridge University Press.
+
+**Dual coding and multimedia**
+- **Paivio, A. (1986).** *Mental Representations: A Dual Coding Approach.* Oxford.
+- ★ **Mayer, R. E. (2020).** *Multimedia Learning* (3rd ed.). Cambridge. **Clark & Mayer (2016).** *e-Learning and the Science of Instruction.*
+- **Nesbit, J. C., & Adesope, O. O. (2006).** Concept maps meta-analysis. *Review of Educational Research*, 76, 413–448.
+
+**Metacognition**
+- **Nelson, T. O., & Dunlosky, J. (1991).** "The 'delayed-JOL effect'." *Psychological Science*, 2, 267–270.
+- **Kornell, N., & Bjork, R. A. (2009).** "A stability bias in human memory." *JEP: General*, 138, 449–468.
+- **Kruger, J., & Dunning, D. (1999).** "Unskilled and unaware of it." *JPSP*, 77, 1121–1134.
+- **Dunlosky, J., & Rawson, K. A. (2012).** "Overconfidence produces underachievement." *Learning and Instruction*, 22, 271–280.
+- **Zimmerman, B. J. (2002).** "Becoming a self-regulated learner." *Theory Into Practice*, 41, 64–70.
+
+**What doesn't work**
+- ★ **Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008).** "Learning styles: Concepts and evidence." *Psychological Science in the Public Interest*, 9, 105–119. **Newton & Salvi (2020).** *Frontiers in Education*, 5.
+- **Melby-Lervåg, Redick & Hulme (2016).** *Perspectives on Psychological Science*, 11, 512–534. **Simons, D. J., et al. (2016).** "Do 'brain-training' programs work?" *PSPI*, 17, 103–186. **Sala & Gobet (2019).** *Trends in Cognitive Sciences*, 23, 9–20.
+- **Rayner, K., et al. (2016).** "So much to read, so little time." *PSPI*, 17, 4–34. Speed reading.
+- **Nielsen, J. A., et al. (2013).** Left/right brain. *PLoS ONE*, 8(8). **Dekker et al. (2012).** "Neuromyths in education." *Frontiers in Psychology*, 3, 429.
+
+**Note-taking and reading**
+- **Mueller & Oppenheimer (2014).** *Psychological Science*, 25, 1159–1168. **Morehead, Dunlosky & Rawson (2019).** *Educational Psychology Review*, 31, 753–780. **Urry et al. (2021).** *Psychological Science*, 32, 326–339. The handwriting debate, in order.
+- **Kobayashi, K. (2006).** Note-taking meta-analysis. *Educational Psychology*, 26, 459–477.
+- **Pauk, W., & Owens, R. J. Q.** *How to Study in College.* The Cornell method.
+- **Ahrens, S. (2017).** *How to Take Smart Notes.* Zettelkasten.
+- **Delgado, P., et al. (2018).** Screen vs paper meta-analysis. *Educational Research Review*, 25, 23–38.
+- **Adler, M. J., & Van Doren, C. (1972).** *How to Read a Book.*
+
+**Mnemonics**
+- **Foer, J. (2011).** *Moonwalking with Einstein.* Penguin.
+- **Dresler, M., et al. (2017).** "Mnemonic training reshapes brain networks." *Neuron*, 93, 1227–1235.
+- **Maguire, E. A., et al. (2003).** "Routes to remembering." *Nature Neuroscience*, 6, 90–95.
+- **Atkinson & Raugh (1975).** Keyword method. *JEP: HLM*, 1, 126–133.
+- **Worthen, J. B., & Hunt, R. R. (2011).** *Mnemonology.* Psychology Press.
+
+**Expertise, transfer, problem solving, feedback**
+- ★ **Ericsson, K. A., & Pool, R. (2016).** *Peak.* Houghton Mifflin Harcourt.
+- **Ericsson, Krampe & Tesch-Römer (1993).** *Psychological Review*, 100, 363–406. **Macnamara, Hambrick & Oswald (2014).** *Psychological Science*, 25, 1608–1618.
+- **Fitts, P. M., & Posner, M. I. (1967).** *Human Performance.* Brooks/Cole.
+- **Driskell, Copper & Moran (1994).** Mental practice meta-analysis. *Journal of Applied Psychology*, 79, 481–492.
+- **Gick & Holyoak (1980, 1983).** *Cognitive Psychology*, 12, 306–355; 15, 1–38.
+- **Barnett, S. M., & Ceci, S. J. (2002).** "When and where do we apply what we learn?" *Psychological Bulletin*, 128, 612–637.
+- **Perkins & Salomon (1988).** "Teaching for transfer." *Educational Leadership*, 46, 22–32. **Bransford & Schwartz (1999).** *Review of Research in Education*, 24, 61–100.
+- **Gentner, D. (1983).** "Structure-mapping." *Cognitive Science*, 7, 155–170.
+- ★ **Pólya, G. (1945).** *How to Solve It.* Princeton.
+- **Sio & Ormerod (2009).** Incubation meta-analysis. *Psychological Bulletin*, 135, 94–120.
+- **Fiorella & Mayer (2013).** Learning by teaching. *Contemporary Educational Psychology*, 38, 281–288. **Kobayashi (2019).** meta-analysis, *Japanese Psychological Research*, 61, 192–203.
+- ★ **Hattie, J., & Timperley, H. (2007).** "The power of feedback." *Review of Educational Research*, 77, 81–112.
+- **Kluger & DeNisi (1996).** *Psychological Bulletin*, 119, 254–284. **Wisniewski, Zierer & Hattie (2020).** *Frontiers in Psychology*, 10, 3087.
+- **Butler, R. (1988).** Grades vs comments. *British Journal of Educational Psychology*, 58, 1–14.
+- **Wulf, G. (2013).** Attentional focus review. *International Review of Sport and Exercise Psychology*, 6, 77–104.
+- **Schmidt, R. A., & Lee, T. D.** *Motor Control and Learning.* Human Kinetics.
+
+### Body and mind (Part III)
+
+**Sleep**
+- ★ **Walker, M. (2017).** *Why We Sleep.* Scribner. Popular and persuasive; some claims are stronger than the evidence, but the core on memory consolidation is sound.
+- **Rasch, B., & Born, J. (2013).** "About sleep's role in memory." *Physiological Reviews*, 93, 681–766. The definitive scientific review.
+- **Walker, M. P., et al. (2002).** "Practice with sleep makes perfect." *Neuron*, 35, 205–211.
+- **Wagner, U., et al. (2004).** "Sleep inspires insight." *Nature*, 427, 352–355.
+- **Yoo, S.-S., et al. (2007).** "A deficit in the ability to form new human memories without sleep." *Nature Neuroscience*, 10, 385–392.
+- **Van Dongen, H. P. A., et al. (2003).** "The cumulative cost of additional wakefulness." *Sleep*, 26, 117–126.
+- **Okano, K., et al. (2019).** "Sleep quality, duration, and consistency are associated with better academic performance in college students." *npj Science of Learning*, 4, 16.
+- **Hu, X., et al. (2020).** Targeted memory reactivation meta-analysis. *Psychological Bulletin*, 146, 218–244.
+- **Windred, D. P., et al. (2024).** Sleep regularity and mortality. *Sleep*, 47(1).
+
+**Exercise and nutrition**
+- ★ **Singh, B., et al. (2025).** "Effectiveness of exercise for improving cognition, memory and executive function: a systematic umbrella review and meta-meta-analysis." *British Journal of Sports Medicine*.
+- **Erickson, K. I., et al. (2011).** "Exercise training increases size of hippocampus and improves memory." *PNAS*, 108, 3017–3022.
+- **Chang, Y. K., et al. (2012).** Acute exercise meta-analysis. *Brain Research*, 1453, 87–101. **Roig, M., et al. (2013).** *Neuroscience & Biobehavioral Reviews*, 37, 1645–1666.
+- **Ratey, J. J. (2008).** *Spark: The Revolutionary New Science of Exercise and the Brain.* Little, Brown. Popular.
+- **Masento, N. A., et al. (2014).** Hydration and cognition review. *British Journal of Nutrition*, 111, 1841–1852.
+
+**Stress, emotion, motivation, mindset**
+- **Beilock, S. (2010).** *Choke.* Free Press. Anxiety, working memory and performance.
+- ★ **Ramirez, G., & Beilock, S. L. (2011).** "Writing about testing worries boosts exam performance in the classroom." *Science*, 331, 211–213.
+- **Jamieson, J. P., et al. (2010, 2013).** Reappraisal of arousal. *J. Experimental Social Psychology*, 46, 208–212; *Current Directions*, 22, 51–56.
+- **Schwabe, L., et al. (2012).** Stress effects on memory review. *Neuroscience & Biobehavioral Reviews*, 36, 1740–1749.
+- **Gruber, M. J., Gelman, B. D., & Ranganath, C. (2014).** "States of curiosity modulate hippocampus-dependent learning." *Neuron*, 84, 486–496.
+- ★ **Ryan, R. M., & Deci, E. L. (2017).** *Self-Determination Theory.* Guilford. The comprehensive statement. **Deci, Koestner & Ryan (1999).** Undermining meta-analysis. *Psychological Bulletin*, 125, 627–668.
+- **Wigfield, A., & Eccles, J. S. (2000).** "Expectancy–value theory of achievement motivation." *Contemporary Educational Psychology*, 25, 68–81. **Hulleman & Harackiewicz (2009).** Utility-value intervention. *Science*, 326, 1410–1412.
+- **Gollwitzer, P. M., & Sheeran, P. (2006).** Implementation intentions meta-analysis. *Advances in Experimental Social Psychology*, 38, 69–119.
+- **Hidi, S., & Renninger, K. A. (2006).** "The four-phase model of interest development." *Educational Psychologist*, 41, 111–127.
+- **Loewenstein, G. (1994).** "The psychology of curiosity." *Psychological Bulletin*, 116, 75–98.
+- **Dweck, C. S. (2006).** *Mindset.* Random House. **Mueller & Dweck (1998).** *JPSP*, 75, 33–52.
+- ★ **Sisk, V. F., et al. (2018).** "To what extent and under which circumstances are growth mind-sets important to academic achievement? Two meta-analyses." *Psychological Science*, 29, 549–571. **Yeager, D. S., et al. (2019).** *Nature*, 573, 364–369. **Macnamara, B. N., & Burgoyne, A. P. (2023).** *Psychological Bulletin*, 149, 133–173. **Burnette, J. L., et al. (2023).** *Psychological Bulletin*, 149, 174–205. **Tipton, E., et al. (2023).** Why the meta-analyses disagree. Read all five for the honest picture.
+- **Bandura, A. (1997).** *Self-Efficacy: The Exercise of Control.* Freeman.
+- **Credé, M., Tynan, M. C., & Harms, P. D. (2017).** Grit meta-analysis. *JPSP*, 113, 492–511.
+
+**Habits, procrastination, time, flow**
+- **Wood, W. (2019).** *Good Habits, Bad Habits.* Farrar, Straus and Giroux. The researcher's account. **Clear, J. (2018).** *Atomic Habits.* Avery. The practical popularisation.
+- ★ **Lally, P., et al. (2010).** "How are habits formed: Modelling habit formation in the real world." *European Journal of Social Psychology*, 40, 998–1009.
+- **Steel, P. (2007).** "The nature of procrastination: A meta-analytic and theoretical review." *Psychological Bulletin*, 133, 65–94. **Sirois, F., & Pychyl, T. (2013).** Procrastination as emotion regulation. *Social and Personality Psychology Compass*, 7, 115–127.
+- **Newport, C. (2016).** *Deep Work.* Grand Central.
+- **Csikszentmihalyi, M. (1990).** *Flow.* Harper & Row.
+- **Wilson, R. C., Shenhav, A., Straccia, M., & Cohen, J. D. (2019).** "The eighty five percent rule for optimal learning." *Nature Communications*, 10, 4646.
+- **Buehler, R., Griffin, D., & Ross, M. (1994).** The planning fallacy. *JPSP*, 67, 366–381.
+
+### Domains (Part IV)
+
+**Languages**
+- **Nation, I. S. P. (2013).** *Learning Vocabulary in Another Language* (2nd ed.). Cambridge. The authority on vocabulary.
+- **Lightbown, P. M., & Spada, N. (2021).** *How Languages Are Learned* (5th ed.). Oxford. The best accessible SLA overview.
+- **Norris, J. M., & Ortega, L. (2000).** Explicit instruction meta-analysis. *Language Learning*, 50, 417–528.
+- **Derwing, T. M., & Munro, M. J. (2015).** *Pronunciation Fundamentals.* John Benjamins.
+- **Jiang, X., et al. (2024).** Duolingo efficacy. *CALICO Journal*. **Kim, Y. J., et al. (2025).** *Studies in Second Language Acquisition.* Note funding.
+
+**Mathematics**
+- **Rittle-Johnson, B., Siegler, R. S., & Alibali, M. W. (2001).** "Developing conceptual understanding and procedural skill in mathematics: An iterative process." *JEP*, 93, 346–362.
+- **Boaler, J. (2016).** *Mathematical Mindsets.* Jossey-Bass. Popular; read alongside the mindset caveats above.
+- **Lyons, I. M., & Beilock, S. L. (2012).** Maths anxiety and pain networks. *PLoS ONE*, 7(10).
+
+**Programming**
+- ★ **Hermans, F. (2021).** *The Programmer's Brain.* Manning. Cognitive science applied to reading and writing code.
+- **Wilson, G. (2019).** *Teaching Tech Together.* CRC Press. Free online.
+- **Lister, R., et al. (2004).** "A multi-national study of reading and tracing skills in novice programmers." *ACM SIGCSE Bulletin*, 36(4), 119–150.
+- **Ericson, B. J., et al. (2018).** Parsons problems. *ICER '18*.
+- **Prather, J., et al. (2023).** "'It's weird that it knows what I want': Usability and interactions with Copilot for novice programmers." *ACM TOCHI*. **Kazemitabaar, M., et al. (2023).** Novices and code generation. *CHI '23*.
+
+**Motor skills and music**
+- **Schmidt & Lee.** *Motor Control and Learning* (above). **Wulf (2013)** (above).
+- **Duke, R. A., Simmons, A. L., & Cash, C. D. (2009).** "It's not how much; it's how: Characteristics of practice behavior and retention of performance skills." *Journal of Research in Music Education*, 56, 310–321.
+- **Bönstrup, M., et al. (2019).** Micro-offline gains. *Current Biology*, 29, 1346–1351.
+
+**Lectures, courses and formats**
+- ★ **Freeman, S., et al. (2014).** "Active learning increases student performance in science, engineering, and mathematics." *PNAS*, 111, 8410–8415.
+- **Deslauriers, L., McCarty, L. S., Miller, K., Callaghan, K., & Kestin, G. (2019).** "Measuring actual learning versus feeling of learning." *PNAS*, 116, 19251–19257.
+- **Murphy, D. H., Hoover, K. M., Agadzhanyan, K., et al. (2022).** Lecture playback speed. *Applied Cognitive Psychology*, 36, 69–82.
+- **Szpunar, K. K., Khan, N. Y., & Schacter, D. L. (2013).** Interpolated testing in video lectures. *PNAS*, 110, 6313–6317.
+- **Reich, J., & Ruipérez-Valiente, J. A. (2019).** "The MOOC pivot." *Science*, 363, 130–131.
+
+**AI and learning**
+- ★ **Kestin, G., et al. (2025).** "AI tutoring outperforms in-class active learning." *Scientific Reports*, 15.
+- ★ **Bastani, H., et al. (2025).** "Generative AI without guardrails can harm learning: Evidence from high school mathematics." *PNAS*, 122.
+- **De Simone, M. E., et al. (2025).** *From Chalkboards to Chatbots.* World Bank Policy Research Working Paper.
+- **Kosmyna, N., et al. (2025).** "Your Brain on ChatGPT." arXiv:2506.08872. Preprint; small sample.
+- **VanLehn, K. (2011).** "The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems." *Educational Psychologist*, 46, 197–221. **Kulik, J. A., & Fletcher, J. D. (2016).** *Review of Educational Research*, 86, 42–78.
+- Note: **Wang & Fan (2025)**, *Humanities and Social Sciences Communications*, was **retracted** in April 2026 and should not be cited.
+
+**Lifespan, groups, neurodivergence**
+- **Park, D. C., et al. (2014).** "The impact of sustained engagement on cognitive function in older adults: The Synapse Project." *Psychological Science*, 25, 103–112.
+- **Castles, A., Rastle, K., & Nation, K. (2018).** "Ending the reading wars." *Psychological Science in the Public Interest*, 19, 5–51.
+- **Romeo, R. R., et al. (2018).** Conversational turns and children's language. *Psychological Science*, 29, 700–710.
+- **Smith, M. K., et al. (2009).** "Why peer discussion improves student performance on in-class concept questions." *Science*, 323, 122–124. **Crouch, C. H., & Mazur, E. (2001).** *American Journal of Physics*, 69, 970–977.
+- **Kirschner, F., Paas, F., & Kirschner, P. A. (2009).** Collective working memory. *Computers in Human Behavior*, 25, 306–314.
+- **Barkley, R. A. (2015).** *Attention-Deficit Hyperactivity Disorder: A Handbook* (4th ed.). Guilford. And *Taking Charge of Adult ADHD* (2nd ed., 2021) for the practical version.
+- **Snowling, M. J. (2019).** *Dyslexia: A Very Short Introduction.* Oxford.
+
+### Websites and ongoing sources
+
+- **learningscientists.org** — free, evidence-based materials on the six strategies.
+- **retrievalpractice.org** (Pooja Agarwal) — guides and research summaries.
+- **The Effortful Educator, Efrat Furst's site, Carl Hendrick's Substack** — practitioner-researcher commentary.
+- **Anki manual** (docs.ankiweb.net) and the **FSRS wiki** — for spaced repetition in practice.
+- **Google Scholar** — for checking any claim in this guide against the primary source. Search author + year + a key phrase.
+
+A closing note on sources: this guide has tried to report effect sizes and replication status honestly, and to flag where popular accounts outrun the evidence. Research moves; some findings here will be revised. The habit of going to the primary source, reading the methods, and asking "compared to what, measured how, and how long after" is itself one of the most valuable things a learner can learn.
+
+---
+
+# 44. Glossary
+
+*Definitions of the technical terms used throughout the guide, with pointers to the chapters where each is explained.*
+
+**Advance organiser** — A brief overview of the structure of material presented before the material itself, giving details something to attach to. ([Ch. 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking), [16](#16-reading-to-learn-deep-reading-active-reading-and-reading-strategically))
+
+**Attention residue** — The persistence of attention on a previous task after switching to a new one, degrading performance on the new task. ([Ch. 6](#6-attention-focus-and-the-myth-of-multitasking))
+
+**Autonomous stage** — The final stage of skill acquisition in which performance is fast, accurate and largely unconscious; also where improvement stalls unless deliberately reactivated. ([Ch. 18](#18-deliberate-practice-and-the-development-of-expertise), [33](#33-learning-motor-skills-music-and-sport))
+
+**BDNF (brain-derived neurotrophic factor)** — A protein that supports synaptic plasticity and neuron survival; raised by aerobic exercise. ([Ch. 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes), [23](#23-exercise-nutrition-and-the-physical-brain))
+
+**Blocked practice** — Practising one topic or skill repeatedly before moving to the next (AAA BBB CCC). Produces good performance during practice and poor retention and discrimination. Contrast *interleaving*. ([Ch. 10](#10-interleaving-and-variability-mixing-it-up))
+
+**Body doubling** — Working in the presence of another person who is also working; improves task initiation and focus, especially with ADHD. ([Ch. 37](#37-learning-with-others-study-groups-peers-mentors-and-communities), [38](#38-learning-with-adhd-dyslexia-autism-and-other-differences))
+
+**Brain dump** — Free recall: writing everything you remember about a topic with the materials closed, then checking. The simplest form of retrieval practice. ([Ch. 8](#8-retrieval-practice-the-testing-effect))
+
+**Calibration** — The match between confidence and accuracy in judging one's own knowledge. ([Ch. 13](#13-metacognition-knowing-what-you-know))
+
+**Chunk** — A group of elements bound into a single unit in long-term memory, occupying one slot in working memory. Expertise consists largely of a vast library of chunks. ([Ch. 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking))
+
+**Cognitive load** — The demand placed on working memory during learning; *intrinsic* (inherent to the material), *extraneous* (from poor design or distraction) and *germane* (productive schema-building). ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck))
+
+**Complementary learning systems** — The theory that the hippocampus learns fast and stores episodes while the neocortex learns slowly and extracts structure, with sleep-dependent transfer between them. ([Ch. 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes))
+
+**Concept map** — A network diagram of concepts (nodes) connected by labelled relationships. Contrast *mind map*. ([Ch. 12](#12-dual-coding-multimedia-principles-and-worked-examples))
+
+**Concreteness fading** — Progressing from concrete examples to abstract representations of a concept. ([Ch. 11](#11-elaboration-self-explanation-and-generation))
+
+**Consolidation** — The stabilisation and reorganisation of a memory after encoding; *synaptic* (hours) and *systems* (days to years); largely sleep-dependent. ([Ch. 2](#2-what-learning-actually-is), [22](#22-sleep-the-other-half-of-learning))
+
+**Contextual interference** — The motor-learning term for the interleaving effect: random practice order impairs acquisition and improves retention and transfer. ([Ch. 33](#33-learning-motor-skills-music-and-sport))
+
+**Cornell method** — A note-taking layout with a cue column, a notes column and a summary, designed to convert notes into retrieval prompts. ([Ch. 15](#15-note-taking-that-actually-helps-you-learn))
+
+**Deliberate practice** — Effortful, goal-directed practice at the edge of ability, targeting weaknesses, with immediate feedback and repetition with refinement. Contrast *naive practice*. ([Ch. 18](#18-deliberate-practice-and-the-development-of-expertise))
+
+**Desirable difficulty** — A condition that makes learning harder in the moment but improves long-term retention and transfer: spacing, interleaving, retrieval, generation, variation. ([Ch. 7](#7-desirable-difficulties-and-the-illusion-of-fluency))
+
+**Dual coding** — Representing information in both verbal and visual form, producing two memory traces and using both channels of working memory. Not the same as "learning styles". ([Ch. 12](#12-dual-coding-multimedia-principles-and-worked-examples))
+
+**Effect size (d, g)** — A standardised measure of the size of a difference between groups, in standard deviations. Roughly: 0.2 small, 0.5 medium, 0.8 large. ([Ch. 1](#1-introduction-why-learning-how-to-learn-is-the-master-skill))
+
+**Elaboration** — Adding to, connecting and explaining new information in terms of existing knowledge. ([Ch. 11](#11-elaboration-self-explanation-and-generation))
+
+**Elaborative interrogation** — Asking "why is this true?" of a fact and answering from one's own knowledge. ([Ch. 11](#11-elaboration-self-explanation-and-generation))
+
+**Element interactivity** — The number of elements that must be held in working memory simultaneously to understand something; the main determinant of intrinsic load. ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck))
+
+**Encoding** — The initial registration of an experience into memory. ([Ch. 2](#2-what-learning-actually-is))
+
+**Encoding specificity** — The principle that a retrieval cue is effective to the extent it was present at encoding. ([Ch. 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking))
+
+**Episodic memory** — Memory for personally experienced events, embedded in time and place. ([Ch. 2](#2-what-learning-actually-is))
+
+**Expertise reversal effect** — Instructional techniques that help novices (worked examples, heavy guidance) become unhelpful or harmful for more expert learners. ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck))
+
+**Expressive writing** — Writing about one's worries for about ten minutes before a stressful task; reduces the working-memory cost of anxiety. ([Ch. 24](#24-stress-anxiety-and-emotion-in-learning))
+
+**External focus** — Attending to the effect of a movement (the target, the sound) rather than the body; improves motor learning. ([Ch. 33](#33-learning-motor-skills-music-and-sport))
+
+**Fading** — Gradually removing scaffolding — for example, worked examples with progressively more steps left for the learner. ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck), [12](#12-dual-coding-multimedia-principles-and-worked-examples))
+
+**Feynman technique** — Explaining a concept in plain language from memory, identifying gaps, and refining. ([Ch. 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching))
+
+**Flow** — A state of absorbed, effortless concentration with merged action and awareness, produced by clear goals, immediate feedback and matched challenge and skill. ([Ch. 29](#29-flow-boredom-and-the-difficulty-sweet-spot))
+
+**Fluency illusion** — Mistaking ease of processing (from recency, familiarity, the presence of the answer) for knowledge. ([Ch. 7](#7-desirable-difficulties-and-the-illusion-of-fluency))
+
+**Forgetting curve** — Ebbinghaus's finding that retention drops rapidly at first and then more slowly; each successful relearning flattens it. ([Ch. 2](#2-what-learning-actually-is))
+
+**FSRS** — Free Spaced Repetition Scheduler; a machine-learning scheduling algorithm modelling difficulty, stability and retrievability; built into Anki. ([Ch. 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it))
+
+**Generation effect** — Information produced by the learner is remembered better than information received. ([Ch. 11](#11-elaboration-self-explanation-and-generation))
+
+**Growth mindset** — The belief that abilities can be developed through effort and strategy. Interventions have small average effects, concentrated in struggling students. ([Ch. 26](#26-mindset-self-efficacy-and-beliefs-about-ability))
+
+**Guidance hypothesis** — In motor learning, feedback after every attempt aids performance but can impair retention by preventing self-evaluation. ([Ch. 33](#33-learning-motor-skills-music-and-sport))
+
+**Habit stacking** — Attaching a new behaviour to an existing routine that serves as its cue. ([Ch. 27](#27-habits-environment-design-and-procrastination))
+
+**Hippocampus** — The medial temporal lobe structure essential for forming new declarative memories and for spatial memory. ([Ch. 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes))
+
+**Hypercorrection effect** — Errors made with high confidence are better remembered after correction than low-confidence errors. ([Ch. 7](#7-desirable-difficulties-and-the-illusion-of-fluency))
+
+**Implementation intention** — A plan of the form "When X, I will do Y", which roughly doubles follow-through on effortful goals. ([Ch. 25](#25-motivation-why-you-learn-and-how-to-keep-going), [27](#27-habits-environment-design-and-procrastination))
+
+**Incubation** — Improvement in problem solving after a break from the problem. ([Ch. 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching))
+
+**Inert knowledge** — Knowledge that is possessed but not applied outside the context in which it was learned. ([Ch. 19](#19-transfer-analogy-and-mental-models))
+
+**Interference** — Forgetting caused by competition between memories; *retroactive* (new disrupts old) and *proactive* (old disrupts new). ([Ch. 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking))
+
+**Interleaving** — Mixing different topics or problem types within a practice session (ABCBCA). Improves discrimination, retention and transfer. ([Ch. 10](#10-interleaving-and-variability-mixing-it-up))
+
+**Intrinsic / extrinsic motivation** — Doing something for its own sake versus for a separable outcome. ([Ch. 25](#25-motivation-why-you-learn-and-how-to-keep-going))
+
+**Judgment of learning (JOL)** — A learner's prediction of future recall; accurate when delayed and retrieval-based, inflated when immediate and fluency-based. ([Ch. 13](#13-metacognition-knowing-what-you-know))
+
+**Keyword method** — A vocabulary mnemonic linking a foreign word to a similar-sounding known word through an image. ([Ch. 17](#17-mnemonics-and-memory-techniques))
+
+**Lag effect** — Longer gaps between study sessions generally produce better long-term retention, up to a point dependent on the retention interval. ([Ch. 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it))
+
+**Learning vs performance** — The distinction between relatively permanent change (learning) and what one can do right now (performance); the two can move in opposite directions. ([Ch. 2](#2-what-learning-actually-is), [7](#7-desirable-difficulties-and-the-illusion-of-fluency))
+
+**Learning styles** — The (unsupported) claim that matching instruction to a learner's preferred modality improves learning. ([Ch. 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil))
+
+**Long-term potentiation (LTP)** — The strengthening of a synapse by repeated activation; the cellular basis of learning. ([Ch. 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes))
+
+**Major system** — A mnemonic code mapping digits to consonant sounds so numbers can be turned into words. ([Ch. 17](#17-mnemonics-and-memory-techniques))
+
+**Mastery goal / performance goal** — Aiming to understand and improve versus aiming to demonstrate ability relative to others. ([Ch. 25](#25-motivation-why-you-learn-and-how-to-keep-going))
+
+**Mental model** — A general explanatory pattern or principle applicable across domains. ([Ch. 19](#19-transfer-analogy-and-mental-models))
+
+**Metacognition** — Knowledge of and control over one's own cognitive processes; monitoring and regulation of learning. ([Ch. 13](#13-metacognition-knowing-what-you-know))
+
+**Method of loci (memory palace)** — A mnemonic placing vivid images of items at locations along a familiar route. ([Ch. 17](#17-mnemonics-and-memory-techniques))
+
+**Mind map** — A radial diagram of topics and subtopics around a central idea. Less demanding than a concept map. ([Ch. 12](#12-dual-coding-multimedia-principles-and-worked-examples))
+
+**Myelin** — The insulating sheath around axons that speeds conduction; increases with use of a pathway. ([Ch. 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes))
+
+**Neuroplasticity** — The brain's capacity to change its structure and connections in response to experience, throughout life. ([Ch. 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes))
+
+**Notional machine** — A learner's mental model of what the computer does when a program runs. ([Ch. 32](#32-learning-to-program-and-other-technical-skills))
+
+**OK plateau** — The level at which a skill becomes automatic and "good enough" and stops improving. ([Ch. 18](#18-deliberate-practice-and-the-development-of-expertise))
+
+**Parsons problem** — A programming exercise in which scrambled lines of a correct program are reassembled. ([Ch. 32](#32-learning-to-program-and-other-technical-skills))
+
+**Peer instruction** — A teaching method in which students answer a conceptual question, discuss with peers, and answer again. ([Ch. 37](#37-learning-with-others-study-groups-peers-mentors-and-communities))
+
+**Pomodoro technique** — Working in timed blocks (classically 25 minutes) with short breaks. ([Ch. 28](#28-time-management-for-learners))
+
+**Pretesting / prequestion effect** — Attempting questions before studying improves learning of the material, even when the attempts fail. ([Ch. 7](#7-desirable-difficulties-and-the-illusion-of-fluency), [8](#8-retrieval-practice-the-testing-effect))
+
+**Procedural memory** — Memory for skills and habits; learned slowly through practice, largely unconscious, highly durable. ([Ch. 2](#2-what-learning-actually-is))
+
+**Productive failure** — Attempting to solve problems before receiving instruction, which improves conceptual understanding and transfer from the subsequent instruction. ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck), [7](#7-desirable-difficulties-and-the-illusion-of-fluency))
+
+**Protégé effect** — Learning more when learning in order to teach. ([Ch. 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching))
+
+**Redundancy effect** — Presenting the same information simultaneously in two forms (e.g., text read aloud) impairs learning. ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck))
+
+**Retrieval practice (testing effect)** — Recalling information from memory strengthens it more than restudying it. ([Ch. 8](#8-retrieval-practice-the-testing-effect))
+
+**Retrieval strength / storage strength** — How accessible a memory is right now versus how well learned it is; gains in storage strength are greatest when retrieval strength is low. ([Ch. 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking))
+
+**Schema** — An organised knowledge structure that makes new information meaningful and can be handled as a single unit in working memory. ([Ch. 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking))
+
+**Self-determination theory** — The theory that motivation depends on satisfaction of three needs: autonomy, competence and relatedness. ([Ch. 25](#25-motivation-why-you-learn-and-how-to-keep-going))
+
+**Self-efficacy** — Belief in one's ability to succeed at a specific task; a strong predictor of achievement, built mainly by mastery experiences. ([Ch. 26](#26-mindset-self-efficacy-and-beliefs-about-ability))
+
+**Self-explanation** — Explaining to oneself the meaning and rationale of material or of steps in a worked example. ([Ch. 11](#11-elaboration-self-explanation-and-generation))
+
+**Semantic memory** — General knowledge stripped of the context in which it was learned. ([Ch. 2](#2-what-learning-actually-is))
+
+**Slow-wave sleep** — Deep NREM sleep, concentrated early in the night, most important for consolidating declarative memory. ([Ch. 22](#22-sleep-the-other-half-of-learning))
+
+**Spacing effect** — Study distributed over time produces better retention than the same amount massed. ([Ch. 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it))
+
+**Split-attention effect** — Separating information that must be integrated (a diagram and its explanation) impairs learning. ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck))
+
+**SQ3R** — Survey, Question, Read, Recite, Review: a structured active-reading method. ([Ch. 16](#16-reading-to-learn-deep-reading-active-reading-and-reading-strategically))
+
+**Successive relearning** — Retrieval practice to a criterion, repeated in several spaced sessions. ([Ch. 8](#8-retrieval-practice-the-testing-effect), [9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it))
+
+**Targeted memory reactivation (TMR)** — Presenting cues during sleep that were associated with learning, to strengthen those memories. ([Ch. 22](#22-sleep-the-other-half-of-learning))
+
+**Transfer** — Applying knowledge or skill learned in one context to a different one; *near* (similar contexts) or *far* (dissimilar). ([Ch. 19](#19-transfer-analogy-and-mental-models))
+
+**Transient information effect** — Spoken or animated information, once presented, is gone; long segments overload working memory. ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck))
+
+**Undermining effect** — Extrinsic rewards for an intrinsically motivated activity can reduce intrinsic motivation. ([Ch. 25](#25-motivation-why-you-learn-and-how-to-keep-going))
+
+**Variable practice** — Practising a skill across a range of conditions to build generalisable knowledge. ([Ch. 10](#10-interleaving-and-variability-mixing-it-up), [33](#33-learning-motor-skills-music-and-sport))
+
+**Worked example** — A problem presented with its full step-by-step solution; more effective than problem solving for novices when self-explained. ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck), [12](#12-dual-coding-multimedia-principles-and-worked-examples))
+
+**Working memory** — The limited-capacity system (about four chunks, a few seconds) in which conscious thinking occurs. ([Ch. 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking))
+
+**Zettelkasten** — A note-taking system of atomic, linked, permanent notes in one's own words. ([Ch. 15](#15-note-taking-that-actually-helps-you-learn))
+
+**Zone of proximal development** — The range of tasks a learner can do with support but not yet alone; where learning happens. ([Ch. 29](#29-flow-boredom-and-the-difficulty-sweet-spot))
+
+---
+
+# 45. Frequently asked questions
+
+*Short, direct answers to the questions learners ask most — about time, tools, techniques, ages, subjects and the inevitable "but what about…" — with pointers to the chapters that go deeper.*
+
+### On the basics
+
+**What's the single most important thing to change?**
+Stop rereading and start retrieving. Close the book and write down what you remember; check; repeat after a delay. If you do nothing else from this guide, that one change will produce the largest improvement per minute invested. ([Ch. 8](#8-retrieval-practice-the-testing-effect))
+
+**How do I know if I'm actually learning?**
+Test yourself after a delay — a day or more — with the material closed, in the format you'll eventually need. That score is your learning. How familiar or clear the material feels tells you nothing. ([Ch. 7](#7-desirable-difficulties-and-the-illusion-of-fluency), [13](#13-metacognition-knowing-what-you-know))
+
+**Why does effective studying feel worse than ineffective studying?**
+Because effort during retrieval, spacing and interleaving is the mechanism by which they work, and because the feeling of fluency you get from rereading is produced by recency and familiarity, not by memory. You cannot feel learning; you can only feel performance. ([Ch. 7](#7-desirable-difficulties-and-the-illusion-of-fluency))
+
+**Is it really true that rereading and highlighting don't work?**
+They work a little — much less than retrieval and spacing for the same time — and they inflate confidence far more than they improve memory. Highlighting in particular has near-zero effect in most studies. ([Ch. 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil))
+
+**How much should I study each day?**
+Fewer hours than you think, more consistently. Two to four hours of genuinely focused, effortful work is a full day for most people; more than that, quality collapses. Daily consistency beats weekend marathons because of the spacing effect. ([Ch. 28](#28-time-management-for-learners))
+
+### On techniques
+
+**How do I use flashcards properly?**
+One idea per card; say the answer aloud *before* flipping; make cards in your own words; include both directions when both matter; use spaced-repetition software (Anki with FSRS) and review daily; limit new cards to 10–20 a day; card facts, not understanding. ([Ch. 8](#8-retrieval-practice-the-testing-effect), [9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it))
+
+**How far apart should reviews be?**
+For one review, roughly 10–20% of the time until you need the material. For ongoing retention, expanding intervals — days, then weeks, then months — which software handles automatically. Err toward longer gaps; too long hurts less than too short. ([Ch. 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it))
+
+**Should I mix subjects in one session or focus on one?**
+Focus on one for the *first exposure* to a new, complex topic; mix for *practice* of things you've already met — especially things you might confuse. ([Ch. 10](#10-interleaving-and-variability-mixing-it-up))
+
+**Are worked examples cheating? Shouldn't I struggle?**
+Both, in sequence. Try briefly first; then study the worked example with self-explanation of every step; then do faded problems; then full problems. Pure struggle without a schema wastes time; pure example-following without attempting gives the illusion of understanding. ([Ch. 5](#5-cognitive-load-theory-managing-the-bottleneck), [12](#12-dual-coding-multimedia-principles-and-worked-examples))
+
+**Do mnemonics work or are they gimmicks?**
+They work extremely well for what they're for — arbitrary lists, pairs, sequences, numbers — and poorly for understanding. Use them for the factual layer of a subject, then space the review. ([Ch. 17](#17-mnemonics-and-memory-techniques))
+
+**What's the best note-taking method?**
+Any method that makes you paraphrase, select and structure rather than transcribe, and that turns notes into questions you later answer from memory. Medium (pen vs keyboard) matters much less than method. ([Ch. 15](#15-note-taking-that-actually-helps-you-learn))
+
+**Is the Feynman technique real?**
+The name is informal, but every component — retrieval, self-explanation, plain-language constraint, gap identification — is well supported. It works. Check your explanation against a source afterward. ([Ch. 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching))
+
+**Does teaching others really help me learn?**
+Yes, substantially — the "protégé effect" — and even *preparing* to teach helps. Actually explaining, especially to someone who asks questions, helps most. ([Ch. 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching))
+
+### On the body
+
+**Can I make up for lost sleep by studying more?**
+No. Sleep loss impairs both the encoding of new material and the consolidation of what you studied. An extra hour of sleep during a period of learning is worth more than an extra hour of study. The all-nighter is the single worst study strategy there is. ([Ch. 22](#22-sleep-the-other-half-of-learning))
+
+**Does exercise really help me learn, or is that just general health advice?**
+It helps directly: a single bout of moderate exercise improves attention and memory encoding for an hour or two afterward; regular exercise improves memory, executive function and hippocampal volume, with the largest effects in children and in people with ADHD. It also improves sleep. ([Ch. 23](#23-exercise-nutrition-and-the-physical-brain))
+
+**Is coffee good or bad for studying?**
+Good for alertness in the morning and early afternoon; bad for sleep after that. None after about 2 pm. It doesn't improve memory beyond the attention effect. ([Ch. 23](#23-exercise-nutrition-and-the-physical-brain))
+
+**What about brain supplements?**
+No robust evidence for any of them in healthy people. Sleep, exercise and food outperform all of them. ([Ch. 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil), [23](#23-exercise-nutrition-and-the-physical-brain))
+
+**I freeze in exams. What can I do?**
+Ten minutes of expressive writing about your worries before the exam; reappraise the racing heart as readiness; and, in the weeks before, frequent practice tests under realistic conditions so that the test situation is familiar and your confidence is justified. ([Ch. 24](#24-stress-anxiety-and-emotion-in-learning))
+
+### On motivation and habits
+
+**How do I make myself study when I don't feel like it?**
+Don't wait to feel like it — motivation follows action. Make the first step tiny and pre-decided; attach it to an existing routine; commit to five minutes with permission to stop; put the phone in another room; work alongside someone. ([Ch. 25](#25-motivation-why-you-learn-and-how-to-keep-going), [27](#27-habits-environment-design-and-procrastination))
+
+**How long does it take to build a study habit?**
+Around two to three months for an effortful habit, with most of the gain in the first few weeks. Missing one day doesn't matter; missing two in a row does. ([Ch. 27](#27-habits-environment-design-and-procrastination))
+
+**I procrastinate constantly. Is it a discipline problem?**
+It's an emotion-regulation problem: the task feels bad and avoidance feels good. Self-criticism makes it worse; shrinking the task, defining the first step, time-boxing and self-forgiveness make it better. ([Ch. 27](#27-habits-environment-design-and-procrastination))
+
+**Does growth mindset work?**
+The belief that ability can develop is accurate and useful. The one-hour interventions have small average effects (around d = 0.1), concentrated in struggling students in supportive environments. Don't oversell it; do adopt strategy-level explanations for failure. ([Ch. 26](#26-mindset-self-efficacy-and-beliefs-about-ability))
+
+### On ages and differences
+
+**Am I too old to learn a language / instrument / new field?**
+No. Adults learn more slowly in some respects (accent, some motor skills), need more repetitions and more sleep protection, and must supply their own attention and structure — but adult plasticity is real and adults reach high competence in every domain studied. ([Ch. 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes), [36](#36-learning-across-the-lifespan))
+
+**Do children learn differently?**
+The same machinery, with smaller working memory, less prior knowledge, immature metacognition and more sleep need. They need effective methods built into routines by adults, explicit instruction (especially in reading), play, and protection of sleep and physical activity. ([Ch. 36](#36-learning-across-the-lifespan))
+
+**I have ADHD / dyslexia. Does this guide apply to me?**
+The principles apply fully; the implementation changes. Externalise executive function, shrink task initiation, use audio for text, control the sensory environment, use the accommodations, and route around the bottleneck rather than through it. ([Ch. 38](#38-learning-with-adhd-dyslexia-autism-and-other-differences))
+
+**Am I a visual learner?**
+You have preferences, but matching instruction to them doesn't improve learning — the research on learning styles is consistently null. Everyone learns best from both words and pictures together. ([Ch. 12](#12-dual-coding-multimedia-principles-and-worked-examples), [14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil))
+
+### On tools and technology
+
+**Should I use ChatGPT / an AI assistant to study?**
+Yes, as a tutor; no, as an answer machine. Configure it not to give answers; use it for quizzing, hints, critique of your explanations, practice problems and explanations *after* you've attempted. Students who use it to get answers perform worse afterward than students with no AI at all. ([Ch. 35](#35-learning-with-ai-what-the-evidence-actually-shows))
+
+**Is Anki worth the learning curve?**
+For anyone with a substantial factual layer to retain — languages, medicine, law, sciences, history — yes. Enable FSRS, limit new cards, review daily. For purely conceptual or skill-based learning, less so. ([Ch. 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it))
+
+**Duolingo?**
+A reasonable component for the first few hundred words and for daily-habit anchoring; not a method; weak on output and conversation. Streaks are not proficiency. ([Ch. 30](#30-learning-languages))
+
+**Do brain-training apps work?**
+No far transfer to intelligence or real-world outcomes in any rigorous meta-analysis. Learn the actual thing. ([Ch. 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil))
+
+**Paper or screen?**
+Paper has a small edge for deep reading of long texts; screens are fine if you read deliberately and remove distractions. Use each for what it's good at. ([Ch. 16](#16-reading-to-learn-deep-reading-active-reading-and-reading-strategically))
+
+**Can I watch lectures at 2× speed?**
+Up to about 1.5× costs little; 2× costs some; beyond that, a lot. Use the time saved to retrieve, not to watch more. ([Ch. 34](#34-learning-from-lectures-video-online-courses-and-books))
+
+### On specific situations
+
+**My exam is in two weeks and I'm behind. What do I do?**
+Triage by marks and weakness; diagnostic brain dump per topic before reading anything; targeted input for gaps only; closed-book problems; mixed timed papers; error log; sleep. Full plan in [Chapter 40](#40-study-plans-exam-in-two-weeks-semester-course-skill-in-six-months).
+
+**I understand the lectures but fail the problem sets.**
+Understanding is comprehension, not skill. Attempt every worked example before reading it; self-explain each step; do mixed, closed-book problems; check prerequisites. ([Ch. 12](#12-dual-coding-multimedia-principles-and-worked-examples), [31](#31-learning-mathematics-and-quantitative-subjects), [41](#41-troubleshooting-when-learning-isnt-working))
+
+**I keep finishing tutorials and can't build anything.**
+Tutorial hell: following is recognition, not retrieval. Predict before each step; rebuild from memory after; add a feature; start projects before you feel ready. ([Ch. 32](#32-learning-to-program-and-other-technical-skills))
+
+**I've plateaued in my language / instrument / sport.**
+Practice has become performance. Find the limiting component; design deliberate practice for it with fast feedback; raise the difficulty; interleave; record yourself. Expect the intermediate plateau and keep the hours going. ([Ch. 18](#18-deliberate-practice-and-the-development-of-expertise), [30](#30-learning-languages), [33](#33-learning-motor-skills-music-and-sport))
+
+**I learned all this for an exam and it's gone.**
+Cramming produces retrieval strength without storage strength; the forgetting was predictable. Next time, spaced retrieval through the course. For now, relearning is faster than the first time. ([Ch. 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking), [40](#40-study-plans-exam-in-two-weeks-semester-course-skill-in-six-months))
+
+### On this guide
+
+**Where should I start?**
+The [cheat sheet](#42-the-one-page-cheat-sheet) if you have ten minutes; Chapters [8](#8-retrieval-practice-the-testing-effect), [9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it), [14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil) and [22](#22-sleep-the-other-half-of-learning) if you have an hour; Part I first if you want the whole picture. Then build the system in [Chapter 39](#39-designing-your-personal-learning-system), one habit at a time.
+
+**How confident should I be in all this?**
+Very confident in the core — retrieval, spacing, interleaving, sleep, attention, the fluency illusion — which rests on decades of replicated research and large meta-analyses. Moderately confident in the applied recommendations, which extrapolate from that research to situations less directly studied. Appropriately cautious about the newest areas (AI, some neuroscience) and the oversold ones (mindset, brain training, handwriting vs typing), where this guide has tried to say so. Check the [bibliography](#43-annotated-bibliography-and-further-reading); go to the source.
+
+**What if a claim here turns out to be wrong?**
+Some will be revised; that is how research works. The habit of asking "compared to what, measured how, how long after, and has it replicated?" will serve you longer than any specific finding — and is, in the end, what learning how to learn means.
 
 ---

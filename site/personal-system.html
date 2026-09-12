@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Designing your personal learning system · Learning How to Learn</title>
+<meta name="description" content="How to turn everything in this guide into a working system — the components every system needs, a template you can adapt, the daily/weekly/monthly cadence, tool choices without tool obsession, and how to review and improve the system itself.">
+<meta property="og:title" content="Designing your personal learning system">
+<meta property="og:description" content="How to turn everything in this guide into a working system — the components every system needs, a template you can adapt, the daily/weekly/monthly cadence, tool choices without tool obsession, and how to review and improve the system itself.">
+<meta property="og:type" content="article">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A7%A0%3C/text%3E%3C/svg%3E">
+<script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}</script>
+
+</head>
+<body class="">
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+  <button class="menu-btn" id="menu-btn" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+  <a class="brand" href="index.html">🧠 Learning How to Learn</a>
+  <div class="topbar-right">
+    <input type="search" id="search" placeholder="Search the guide…" aria-label="Search" autocomplete="off">
+    <a class="top-link" href="full.html" title="Whole guide on one page">Single page</a>
+    <a class="top-link" href="https://github.com/gorg667/learning-guide/blob/main/LEARNING_GUIDE.md" title="Markdown version" target="_blank" rel="noopener">Markdown</a>
+    <button class="theme-btn" id="theme-btn" aria-label="Toggle dark mode">◐</button>
+  </div>
+  <div id="search-results" class="search-results" hidden></div>
+</header>
+<div class="shell">
+  <nav class="sidebar" id="sidebar" aria-label="Chapters">
+    <a class="side-home" href="index.html">Contents</a>
+    <details><summary>Part I — Foundations: how learning actually works</summary><ul>
+<li><a href="introduction.html"><span class="num">01</span> Introduction — why learning how to learn is the master skill</a></li>
+<li><a href="what-learning-is.html"><span class="num">02</span> What learning actually is</a></li>
+<li><a href="the-learning-brain.html"><span class="num">03</span> The brain that learns — neuroplasticity and what actually changes</a></li>
+<li><a href="memory-systems.html"><span class="num">04</span> Memory systems — working memory, long-term memory, schemas and chunking</a></li>
+<li><a href="cognitive-load.html"><span class="num">05</span> Cognitive load theory — managing the bottleneck</a></li>
+<li><a href="attention-focus.html"><span class="num">06</span> Attention, focus and the myth of multitasking</a></li>
+<li><a href="desirable-difficulties.html"><span class="num">07</span> Desirable difficulties and the illusion of fluency</a></li>
+</ul></details>
+<details><summary>Part II — The evidence-based toolkit</summary><ul>
+<li><a href="retrieval-practice.html"><span class="num">08</span> Retrieval practice — the testing effect</a></li>
+<li><a href="spaced-repetition.html"><span class="num">09</span> Spaced repetition — the spacing effect and how to schedule it</a></li>
+<li><a href="interleaving.html"><span class="num">10</span> Interleaving and variability — mixing it up</a></li>
+<li><a href="elaboration-generation.html"><span class="num">11</span> Elaboration, self-explanation and generation</a></li>
+<li><a href="dual-coding-examples.html"><span class="num">12</span> Dual coding, multimedia principles and worked examples</a></li>
+<li><a href="metacognition.html"><span class="num">13</span> Metacognition — knowing what you know</a></li>
+<li><a href="what-doesnt-work.html"><span class="num">14</span> What doesn&#x27;t work — myths, low-utility techniques and snake oil</a></li>
+<li><a href="note-taking.html"><span class="num">15</span> Note-taking that actually helps you learn</a></li>
+<li><a href="reading-to-learn.html"><span class="num">16</span> Reading to learn — deep reading, active reading and reading strategically</a></li>
+<li><a href="mnemonics.html"><span class="num">17</span> Mnemonics and memory techniques</a></li>
+<li><a href="deliberate-practice.html"><span class="num">18</span> Deliberate practice and the development of expertise</a></li>
+<li><a href="transfer-mental-models.html"><span class="num">19</span> Transfer, analogy and mental models</a></li>
+<li><a href="problem-solving-teaching.html"><span class="num">20</span> Problem solving, the Feynman technique and learning by teaching</a></li>
+<li><a href="feedback.html"><span class="num">21</span> Feedback — getting it, using it, giving it</a></li>
+</ul></details>
+<details><summary>Part III — The learner&#x27;s body and mind</summary><ul>
+<li><a href="sleep.html"><span class="num">22</span> Sleep — the other half of learning</a></li>
+<li><a href="exercise-nutrition.html"><span class="num">23</span> Exercise, nutrition and the physical brain</a></li>
+<li><a href="stress-emotion.html"><span class="num">24</span> Stress, anxiety and emotion in learning</a></li>
+<li><a href="motivation.html"><span class="num">25</span> Motivation — why you learn, and how to keep going</a></li>
+<li><a href="mindset-beliefs.html"><span class="num">26</span> Mindset, self-efficacy and beliefs about ability</a></li>
+<li><a href="habits-environment.html"><span class="num">27</span> Habits, environment design and procrastination</a></li>
+<li><a href="time-management.html"><span class="num">28</span> Time management for learners</a></li>
+<li><a href="flow-difficulty.html"><span class="num">29</span> Flow, boredom and the difficulty sweet spot</a></li>
+</ul></details>
+<details><summary>Part IV — Applying it to specific domains</summary><ul>
+<li><a href="languages.html"><span class="num">30</span> Learning languages</a></li>
+<li><a href="mathematics.html"><span class="num">31</span> Learning mathematics and quantitative subjects</a></li>
+<li><a href="programming.html"><span class="num">32</span> Learning to program and other technical skills</a></li>
+<li><a href="motor-skills-music.html"><span class="num">33</span> Learning motor skills, music and sport</a></li>
+<li><a href="lectures-video-books.html"><span class="num">34</span> Learning from lectures, video, online courses and books</a></li>
+<li><a href="learning-with-ai.html"><span class="num">35</span> Learning with AI — what the evidence actually shows</a></li>
+<li><a href="lifespan.html"><span class="num">36</span> Learning across the lifespan</a></li>
+<li><a href="learning-with-others.html"><span class="num">37</span> Learning with others — study groups, peers, mentors and communities</a></li>
+<li><a href="neurodivergence.html"><span class="num">38</span> Learning with ADHD, dyslexia, autism and other differences</a></li>
+</ul></details>
+<details open><summary>Part V — Putting it together</summary><ul>
+<li class="active"><a href="personal-system.html"><span class="num">39</span> Designing your personal learning system</a></li>
+<li><a href="study-plans.html"><span class="num">40</span> Study plans — exam in two weeks, semester course, skill in six months</a></li>
+<li><a href="troubleshooting.html"><span class="num">41</span> Troubleshooting — when learning isn&#x27;t working</a></li>
+<li><a href="cheat-sheet.html"><span class="num">42</span> The one-page cheat sheet</a></li>
+<li><a href="bibliography.html"><span class="num">43</span> Annotated bibliography and further reading</a></li>
+<li><a href="glossary.html"><span class="num">44</span> Glossary</a></li>
+<li><a href="faq.html"><span class="num">45</span> Frequently asked questions</a></li>
+</ul></details>
+  </nav>
+  <main id="main" class="content">
+
+<article class="chapter">
+  <header class="chapter-head">
+    <div class="crumbs"><a href="index.html">Contents</a> › <span>Part V — Putting it together</span></div>
+    <h1><span class="chapter-num">Chapter 39</span>Designing your personal learning system</h1>
+    <p class="lede">How to turn everything in this guide into a working system — the components every system needs, a template you can adapt, the daily/weekly/monthly cadence, tool choices without tool obsession, and how to review and improve the system itself.</p>
+    <p class="meta">1,758 words · 8 min read</p>
+  </header>
+  <div class="chapter-grid">
+    <div class="prose">
+<h2 id="from-principles-to-a-system">From principles to a system<a class="anchor" href="#from-principles-to-a-system" aria-label="link to section">#</a></h2>
+<p>You now know more about how learning works than most teachers. That knowledge is inert until it becomes routine — the thing you do by default when you sit down, without deciding. This chapter turns the guide into a system: a small set of components, a cadence, and a way of improving it over time.</p>
+<p>The system described here is a template, not a prescription. Its components are the ones the evidence says matter; the specific implementation — tools, times, formats — should fit your life, your domain and your brain. A simple system you run beats an elaborate one you abandon.</p>
+<h2 id="the-seven-components">The seven components<a class="anchor" href="#the-seven-components" aria-label="link to section">#</a></h2>
+<p>Every effective learning system, however it looks on the surface, contains these:</p>
+<h3 id="1-a-target">1. A target<a class="anchor" href="#1-a-target" aria-label="link to section">#</a></h3>
+<p>What you are trying to be able to <em>do</em>, concretely, by when. Not "learn statistics" but "be able to design and analyse an A/B test, explain the result to a non-statistician, and pass the course exam in June." A target you can test against, that tells you what to practise, and that gives the process meaning (<a href="motivation.html">Chapter 25</a>).</p>
+<h3 id="2-a-map">2. A map<a class="anchor" href="#2-a-map" aria-label="link to section">#</a></h3>
+<p>The structure of the domain: what the parts are, what depends on what, where you are. A syllabus, a textbook's contents, a skill tree, a list of the sub-skills a practitioner needs. Without a map, you learn what's in front of you rather than what's next, and you can't see prerequisites (<a href="memory-systems.html">Chapter 4</a>, <a href="lectures-video-books.html">Chapter 34</a>).</p>
+<h3 id="3-sources-of-input">3. Sources of input<a class="anchor" href="#3-sources-of-input" aria-label="link to section">#</a></h3>
+<p>The materials from which you get initial exposure and explanation: a spine (one primary textbook or course you'll complete), supplementary explanations for when the spine fails you, and — for skills — models of expert performance. Chosen for cognitive-load quality (<a href="cognitive-load.html">Chapter 5</a>) and for your level, and expected to change as your level changes.</p>
+<h3 id="4-practice-with-feedback">4. Practice with feedback<a class="anchor" href="#4-practice-with-feedback" aria-label="link to section">#</a></h3>
+<p>Where you actually build the skill: problems, exercises, projects, production, performance — at calibrated difficulty (<a href="flow-difficulty.html">Chapter 29</a>), interleaved (<a href="interleaving.html">Chapter 10</a>), with a feedback loop (<a href="feedback.html">Chapter 21</a>). This is the component most self-learners under-provision and the one where the learning happens.</p>
+<h3 id="5-a-retrieval-and-spacing-engine">5. A retrieval and spacing engine<a class="anchor" href="#5-a-retrieval-and-spacing-engine" aria-label="link to section">#</a></h3>
+<p>The mechanism that ensures everything you learn is retrieved, on a schedule, after forgetting has begun: a spaced-repetition system for the factual layer; a schedule of brain dumps, cumulative reviews and re-solving for the conceptual and procedural layers (<a href="retrieval-practice.html">Chapters 8</a>–<a href="spaced-repetition.html">9</a>).</p>
+<h3 id="6-a-record">6. A record<a class="anchor" href="#6-a-record" aria-label="link to section">#</a></h3>
+<p>Where you track process (sessions done, hours focused), errors (what went wrong and why), and reflections (what's working). The record is what makes metacognition possible (<a href="metacognition.html">Chapter 13</a>) and what lets the system improve.</p>
+<h3 id="7-the-conditions">7. The conditions<a class="anchor" href="#7-the-conditions" aria-label="link to section">#</a></h3>
+<p>Sleep, exercise, environment, habits, community — the things that determine whether components 1–6 happen at all (<a href="sleep.html">Part III</a>). Not an afterthought; a component.</p>
+<h2 id="a-template">A template<a class="anchor" href="#a-template" aria-label="link to section">#</a></h2>
+<h3 id="daily-30120-minutes-depending-on-life">Daily (30–120 minutes, depending on life)<a class="anchor" href="#daily-30120-minutes-depending-on-life" aria-label="link to section">#</a></h3>
+<div class="table-wrap"><table><thead><tr><th style="text-align:left">Slot</th><th style="text-align:left">What</th><th style="text-align:left">Why</th></tr></thead><tbody><tr><td style="text-align:left"><strong>Warm-up retrieval</strong> (5 min)</td><td style="text-align:left">Brain-dump yesterday's material from memory; check</td><td style="text-align:left">Spaced retrieval; activates prior knowledge</td></tr><tr><td style="text-align:left"><strong>Spaced-repetition reviews</strong> (10–20 min)</td><td style="text-align:left">Whatever is due; say the answer before flipping</td><td style="text-align:left">Factual layer maintenance</td></tr><tr><td style="text-align:left"><strong>Deep block</strong> (25–90 min, at peak time)</td><td style="text-align:left">New material <em>or</em> practice — one topic, one technique, defined goal, phone away</td><td style="text-align:left">The main learning event</td></tr><tr><td style="text-align:left"><strong>Closing retrieval</strong> (5 min)</td><td style="text-align:left">Brain dump of the block; convert to questions/cards; log errors</td><td style="text-align:left">Consolidates; feeds the engine; feeds the record</td></tr><tr><td style="text-align:left"><strong>Log</strong> (1 min)</td><td style="text-align:left">Session done; focused minutes; one line of reflection</td><td style="text-align:left">The record</td></tr></tbody></table></div>
+<p>On days when only 20 minutes exist: reviews plus one closing retrieval of something recent. The chain stays unbroken.</p>
+<h3 id="weekly-6090-minutes-fixed-slot">Weekly (60–90 minutes, fixed slot)<a class="anchor" href="#weekly-6090-minutes-fixed-slot" aria-label="link to section">#</a></h3>
+<ul><li><strong>Cumulative retrieval</strong> (30 min): brain-dump every topic of the last month, from memory; check; note gaps.</li><li><strong>Mixed practice</strong> (30 min): problems or tasks from several topics, shuffled, closed-book.</li><li><strong>Error review</strong> (10 min): read the error log; identify patterns; schedule targeted practice.</li><li><strong>Plan</strong> (15 min): next week's deep blocks, what's new, what's practice, what's review; time-blocked into the calendar. Check the map: where am I, what's next, what's the prerequisite?</li><li><strong>System check</strong> (5 min): what worked this week, what didn't, one adjustment.</li></ul>
+<h3 id="monthly-12-hours">Monthly (1–2 hours)<a class="anchor" href="#monthly-12-hours" aria-label="link to section">#</a></h3>
+<ul><li><strong>Assess against the target.</strong> A realistic test: a practice exam, a project milestone, a conversation, a performance. Not "how do I feel" but "what can I do".</li><li><strong>Update the map.</strong> Mark what's fluent, what's shaky, what's next.</li><li><strong>Prune and re-scope.</strong> Drop material that's learned; adjust the desired retention on low-value cards; re-scope the target if reality demands.</li><li><strong>Review the conditions.</strong> Sleep, exercise, environment, community — honest check.</li><li><strong>Reflect on the system.</strong> Read the month's reflections; change one thing.</li></ul>
+<h3 id="per-topic-the-unit-of-new-learning">Per topic (the unit of new learning)<a class="anchor" href="#per-topic-the-unit-of-new-learning" aria-label="link to section">#</a></h3>
+<ol><li><strong>Preview</strong> the map: where does this fit, what does it depend on, what will it enable?</li><li><strong>Activate</strong>: what do I already know or think? Write it. Generate questions.</li><li><strong>Attempt first</strong>: a problem or explanation before the instruction, briefly.</li><li><strong>Input</strong>: the spine's explanation, actively — self-explain, pause, mark confusion.</li><li><strong>Worked examples</strong> with self-explanation → faded completion → problems.</li><li><strong>Same-day brain dump</strong>; card the factual layer; write questions for the conceptual layer.</li><li><strong>Explain it</strong> in plain language, from memory, within a few days — to a person if possible.</li><li><strong>Mixed and spaced practice</strong> over the following weeks; re-solve; re-explain.</li><li><strong>Connect</strong>: what is this an example of? where else does it apply? (<a href="transfer-mental-models.html">Chapter 19</a>)</li></ol>
+<h2 id="tools">Tools<a class="anchor" href="#tools" aria-label="link to section">#</a></h2>
+<p>The tools matter far less than the routine. A workable minimal kit:</p>
+<ul><li><strong>Spaced repetition:</strong> Anki (with FSRS enabled) or equivalent. One deck per domain. 10–20 new cards a day.</li><li><strong>Notes and questions:</strong> any plain system — a notebook, a text file, Obsidian, Notion. Notes as <em>questions</em> and <em>structure</em>, not transcription (<a href="note-taking.html">Chapter 15</a>). Resist the pull to perfect the system.</li><li><strong>Calendar:</strong> for time-blocking deep sessions and the weekly slot. Treat them as appointments.</li><li><strong>Timer:</strong> for blocks. Any timer.</li><li><strong>Error log:</strong> a running document. Date, what went wrong, why (misread / wrong method / slip / missing knowledge / misconception), the correction.</li><li><strong>Process tracker:</strong> a calendar you mark, a habit app, a spreadsheet. Sessions and focused minutes.</li><li><strong>Blocker:</strong> website/app blocker scheduled for study hours.</li><li><strong>Recording device:</strong> for any performance skill — your phone.</li><li><strong>A person:</strong> partner, group, tutor, community.</li></ul>
+<p>Warning signs of tool obsession: spending a session configuring rather than learning; switching systems more than once a year; a note system you can't retrieve from memory; more time organising than practising. The system is for the learning, not the reverse.</p>
+<h2 id="adapting-the-template">Adapting the template<a class="anchor" href="#adapting-the-template" aria-label="link to section">#</a></h2>
+<p><strong>Exam-driven student:</strong> the map is the syllabus weighted by marks; the target is the exam; heavy on mixed practice from past papers; retrieval engine tuned to the exam date (<a href="study-plans.html">Chapter 40</a>).</p>
+<p><strong>Self-taught skill (programming, language, instrument):</strong> the target is a concrete performance (ship the project, hold the conversation, play the piece); the map is a practitioner's roadmap; practice is project-driven with exercises for exposed weaknesses; feedback from tests, recordings, community; the retrieval engine handles the factual layer while re-doing and performing handle the procedural.</p>
+<p><strong>Professional keeping current:</strong> the target is capability in a role; input is papers, courses, practitioners; practice is application at work; the retrieval engine is lighter (a weekly cumulative retrieval and a small deck); the record is a learning journal; community is the field.</p>
+<p><strong>Older learner or returning learner:</strong> the same components; more spacing and repetitions; smaller blocks; load reduced; prerequisites filled without embarrassment; community for accountability (<a href="lifespan.html">Chapter 36</a>).</p>
+<p><strong>ADHD:</strong> everything externalised; blocks shorter; body doubling; the first step of every session pre-decided and tiny; the tracker visible; movement built in (<a href="neurodivergence.html">Chapter 38</a>).</p>
+<h2 id="starting-the-system">Starting the system<a class="anchor" href="#starting-the-system" aria-label="link to section">#</a></h2>
+<p>Do not implement all of it at once. In order of impact and ease:</p>
+<ol><li><strong>Week 1–2:</strong> the closing retrieval — every session ends with a five-minute brain dump. Nothing else changes.</li><li><strong>Week 3–4:</strong> add spaced-repetition reviews, daily, 10 new cards a day maximum.</li><li><strong>Week 5–6:</strong> add the weekly cumulative retrieval and planning slot.</li><li><strong>Week 7–8:</strong> fix the environment: phone away, blocker on, time-blocked deep sessions at peak.</li><li><strong>Week 9–10:</strong> add the error log and mixed practice.</li><li><strong>Week 11–12:</strong> add the monthly assessment; find a partner or community.</li></ol>
+<p>Each step is one habit (<a href="habits-environment.html">Chapter 27</a>). After three months, the system runs itself.</p>
+<h2 id="improving-the-system">Improving the system<a class="anchor" href="#improving-the-system" aria-label="link to section">#</a></h2>
+<p>The system is itself something you learn, by the same loop: try, get feedback, adjust.</p>
+<ul><li><strong>The weekly system check</strong> is the feedback loop. One adjustment a week — not a redesign.</li><li><strong>Signals that something's wrong:</strong> the chain breaking repeatedly (habit design problem); high confidence and poor test results (retrieval missing or fake); lots of hours and little progress (passive input dominating; wrong difficulty; distraction); reviews piling up (too many new cards); dread (difficulty too high, or cost too high, or meaning missing); boredom (difficulty too low).</li><li><strong>Signals it's working:</strong> you can do things you couldn't a month ago and can show it; practice tests are predictable; the reviews are manageable; the sessions happen on bad days; you catch your own errors.</li><li><strong>Diagnose with the frameworks.</strong> Cognitive load, desirable difficulty, motivation's three needs, habit design — each has a chapter, and each turns a vague "it's not working" into a specific fix.</li></ul>
+<div class="callout callout-key"><div class="callout-title">Key idea</div><p>A learning system is: a <strong>target</strong> you can test, a <strong>map</strong> of the domain, <strong>sources</strong> for input, <strong>practice with feedback</strong> at the right difficulty, a <strong>retrieval and spacing engine</strong>, a <strong>record</strong>, and the <strong>conditions</strong> (sleep, exercise, environment, people) that let all of it happen. Build it one habit at a time, run it daily, review it weekly, test it monthly, and change one thing at a time.</p></div>
+<div class="callout callout-practice"><div class="callout-title">Try this</div><p>Write your system on one page, using the seven headings. For each, one or two lines: what it is for you, concretely. Where a heading is blank — no map, no practice with feedback, no record — that is the first gap to fill. Put the page where you'll see it, and begin with step 1: the closing retrieval, every session, starting today.</p></div>
+<p>The next chapter gives worked plans for three common situations: an exam in two weeks, a semester course, and a skill learned from scratch over six months.</p>
+    </div>
+    <aside class="toc"><div class="toc-title">On this page</div><ul><li class="lvl2"><a href="#from-principles-to-a-system">From principles to a system</a></li><li class="lvl2"><a href="#the-seven-components">The seven components</a></li><li class="lvl3"><a href="#1-a-target">1. A target</a></li><li class="lvl3"><a href="#2-a-map">2. A map</a></li><li class="lvl3"><a href="#3-sources-of-input">3. Sources of input</a></li><li class="lvl3"><a href="#4-practice-with-feedback">4. Practice with feedback</a></li><li class="lvl3"><a href="#5-a-retrieval-and-spacing-engine">5. A retrieval and spacing engine</a></li><li class="lvl3"><a href="#6-a-record">6. A record</a></li><li class="lvl3"><a href="#7-the-conditions">7. The conditions</a></li><li class="lvl2"><a href="#a-template">A template</a></li><li class="lvl3"><a href="#daily-30120-minutes-depending-on-life">Daily (30–120 minutes, depending on life)</a></li><li class="lvl3"><a href="#weekly-6090-minutes-fixed-slot">Weekly (60–90 minutes, fixed slot)</a></li><li class="lvl3"><a href="#monthly-12-hours">Monthly (1–2 hours)</a></li><li class="lvl3"><a href="#per-topic-the-unit-of-new-learning">Per topic (the unit of new learning)</a></li><li class="lvl2"><a href="#tools">Tools</a></li><li class="lvl2"><a href="#adapting-the-template">Adapting the template</a></li><li class="lvl2"><a href="#starting-the-system">Starting the system</a></li><li class="lvl2"><a href="#improving-the-system">Improving the system</a></li></ul></aside>
+  </div>
+  <nav class="pager"><a class="prev" href="neurodivergence.html"><span>← Previous</span><strong>Learning with ADHD, dyslexia, autism and other differences</strong></a><a class="next" href="study-plans.html"><span>Next →</span><strong>Study plans — exam in two weeks, semester course, skill in six months</strong></a></nav>
+</article>
+
+  </main>
+</div>
+<footer class="site-footer">
+  <p>Learning How to Learn — The comprehensive, evidence-based guide to maximizing your ability to learn anything. Written for learners of every age. Text released under CC BY 4.0.</p>
+  <p><a href="index.html">Home</a> · <a href="full.html">Single page</a> · <a href="https://github.com/gorg667/learning-guide" target="_blank" rel="noopener">Source on GitHub</a></p>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
