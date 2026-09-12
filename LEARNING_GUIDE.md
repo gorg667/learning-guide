@@ -2,7 +2,7 @@
 
 *The comprehensive, evidence-based guide to maximizing your ability to learn anything.*
 
-> This is the single-file Markdown edition of the guide (7 chapters, 17,820 words). The website edition, with navigation and search, lives in `site/`. Both are generated from the chapter sources in `content/` by `build.py`.
+> This is the single-file Markdown edition of the guide (21 chapters, 50,699 words). The website edition, with navigation and search, lives in `site/`. Both are generated from the chapter sources in `content/` by `build.py`.
 
 ## Contents
 
@@ -15,6 +15,22 @@
 5. [Cognitive load theory — managing the bottleneck](#5-cognitive-load-theory-managing-the-bottleneck) — John Sweller's cognitive load theory explained — intrinsic, extraneous and germane load, the worked-example, split-attention, redundancy and expertise-reversal effects — and how to use it to choose materials, structure sessions and stop drowning in detail.
 6. [Attention, focus and the myth of multitasking](#6-attention-focus-and-the-myth-of-multitasking) — How attention works and why it is the true gatekeeper of learning; the real cost of task-switching and media multitasking; what the research says about phones, notifications and background media; and how to build the capacity for sustained focus.
 7. [Desirable difficulties and the illusion of fluency](#7-desirable-difficulties-and-the-illusion-of-fluency) — Why the study methods that feel best usually work worst — the Bjorks' theory of desirable difficulties, the fluency illusion, why learners systematically choose badly, and how to tell productive struggle from unproductive struggle.
+**Part II — The evidence-based toolkit**
+
+8. [Retrieval practice — the testing effect](#8-retrieval-practice-the-testing-effect) — The single most powerful learning technique known — what the research shows, why pulling information out of your head beats putting it back in, how to do it for facts, concepts, procedures and skills, and the mistakes that neutralise it.
+9. [Spaced repetition — the spacing effect and how to schedule it](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it) — Why spreading study over time beats massing it, what the research says about optimal intervals, how spaced-repetition algorithms (Leitner, SM-2, FSRS) work, how to use Anki and similar tools without drowning in reviews, and how to space learning that doesn't fit on flashcards.
+10. [Interleaving and variability — mixing it up](#10-interleaving-and-variability-mixing-it-up) — Why practising A, B and C mixed together beats practising AAA then BBB then CCC, when interleaving helps most and when it doesn't, the related power of varied practice, and how to build both into study and skill training.
+11. [Elaboration, self-explanation and generation](#11-elaboration-self-explanation-and-generation) — How to make new knowledge stick by connecting it to what you already know — elaborative interrogation, self-explanation, the generation effect, and the discipline of asking "why" and "how" — plus the evidence for each and the traps to avoid.
+12. [Dual coding, multimedia principles and worked examples](#12-dual-coding-multimedia-principles-and-worked-examples) — How combining words with visuals improves learning (and how it differs from "visual learning style"), Richard Mayer's evidence-based multimedia principles, how to make and use your own diagrams, and the right way to learn from worked examples.
+13. [Metacognition — knowing what you know](#13-metacognition-knowing-what-you-know) — The skill of monitoring and regulating your own learning — why self-assessment is systematically biased, how to calibrate it, the planning–monitoring–evaluating cycle, and the concrete habits that turn you into your own effective teacher.
+14. [What doesn't work — myths, low-utility techniques and snake oil](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil) — An honest audit of popular study methods and learning claims — rereading, highlighting, summarising, learning styles, brain training, speed reading, cramming, "10,000 hours", the 10% brain myth and more — with the evidence for each, and what to do instead.
+15. [Note-taking that actually helps you learn](#15-note-taking-that-actually-helps-you-learn) — What notes are for (and what they aren't), the encoding and storage functions, handwriting versus typing without the hype, the Cornell method, outlining, sketchnotes and Zettelkasten, how to take notes from lectures versus books, and how to turn any notes into retrieval practice.
+16. [Reading to learn — deep reading, active reading and reading strategically](#16-reading-to-learn-deep-reading-active-reading-and-reading-strategically) — How to read textbooks, papers and non-fiction so that the content stays with you — previewing, questioning, reading for structure, the SQ3R family and what the evidence says about it, reading screens versus paper, how to read a scientific paper, and why speed reading is a dead end.
+17. [Mnemonics and memory techniques](#17-mnemonics-and-memory-techniques) — The memory techniques of orators and memory champions — the method of loci, peg systems, the major system, keyword method, acronyms and stories — what the research says about how well they work, what they are good for and not good for, and how to integrate them with spaced retrieval.
+18. [Deliberate practice and the development of expertise](#18-deliberate-practice-and-the-development-of-expertise) — What separates practice that builds expertise from practice that merely logs hours — Ericsson's deliberate practice, the honest state of the "10,000 hours" and talent debate, the stages of skill acquisition, plateaus and how to break them, and how to design practice for any skill.
+19. [Transfer, analogy and mental models](#19-transfer-analogy-and-mental-models) — Why knowledge so often fails to transfer beyond the situation where it was learned, what the research on near and far transfer actually shows, how analogical reasoning and abstraction can be trained, and how to build a working repertoire of mental models that apply across domains.
+20. [Problem solving, the Feynman technique and learning by teaching](#20-problem-solving-the-feynman-technique-and-learning-by-teaching) — How to get better at solving problems — Pólya's method, heuristics, focused and diffuse thinking, the Einstellung trap — and why explaining things to others (or to a rubber duck) is one of the most powerful learning acts available, with the evidence for the "protégé effect".
+21. [Feedback — getting it, using it, giving it](#21-feedback-getting-it-using-it-giving-it) — Why feedback is the most powerful and most variable influence on learning — what kinds work, when to get it, why praise and grades often backfire, how to seek and process feedback as a learner, and how to give feedback that improves someone else's learning.
 
 ---
 
@@ -73,7 +89,7 @@ You do not need to read this linearly, and you certainly should not try to read 
 
 **If you have ten minutes:** read the [cheat sheet](42-cheat-sheet.md). It contains the twenty things that matter most.
 
-**If you have an hour:** read this chapter, then [Retrieval practice](08-retrieval-practice.md), [Spaced repetition](09-spaced-repetition.md), [What doesn't work](14-what-doesnt-work.md), and [Sleep](22-sleep.md). Those four chapters alone will change how you study.
+**If you have an hour:** read this chapter, then [Retrieval practice](#8-retrieval-practice-the-testing-effect), [Spaced repetition](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it), [What doesn't work](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil), and [Sleep](22-sleep.md). Those four chapters alone will change how you study.
 
 **If you have an exam or deadline soon:** go straight to the [study plans](40-study-plans.md) and the [troubleshooting](41-troubleshooting.md) chapter, and come back to the foundations afterwards.
 
@@ -90,7 +106,7 @@ And, because this is a guide about learning, use it as a demonstration of its ow
 
 ### A note on honesty and effect sizes
 
-Throughout this guide you will see effect sizes such as *d* = 0.5 or *g* = 0.42. These are standardised measures of how big a difference an intervention makes, expressed in standard deviations. As a rough guide: 0.2 is small (noticeable in aggregate but not to an individual), 0.5 is medium (clearly visible), 0.8 is large. Most educational interventions that actually work fall in the 0.2–0.6 range. Anyone promising you a technique that "triples your memory" or "lets you read 2,000 words a minute" is either misinformed or selling something; the chapter on [what doesn't work](14-what-doesnt-work.md) explains why.
+Throughout this guide you will see effect sizes such as *d* = 0.5 or *g* = 0.42. These are standardised measures of how big a difference an intervention makes, expressed in standard deviations. As a rough guide: 0.2 is small (noticeable in aggregate but not to an individual), 0.5 is medium (clearly visible), 0.8 is large. Most educational interventions that actually work fall in the 0.2–0.6 range. Anyone promising you a technique that "triples your memory" or "lets you read 2,000 words a minute" is either misinformed or selling something; the chapter on [what doesn't work](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil) explains why.
 
 We also try to distinguish between the strength of the *laboratory* evidence, the *classroom or real-world* evidence, and the *mechanistic* evidence. Some things — retrieval practice, spacing — are robust across all three. Others — say, targeted memory reactivation during sleep — are mechanistically fascinating but not yet practical. We flag which is which.
 
@@ -231,7 +247,7 @@ In the 1880s Hermann Ebbinghaus taught himself lists of nonsense syllables and m
 
 Two things about the forgetting curve matter enormously:
 
-**First, the curve flattens with each successful relearning.** If you relearn material after some forgetting has occurred, the new forgetting curve is shallower. Repeat this a few times and the curve becomes nearly flat: the memory is effectively permanent. This is the mechanism behind spaced repetition ([Chapter 9](09-spaced-repetition.md)).
+**First, the curve flattens with each successful relearning.** If you relearn material after some forgetting has occurred, the new forgetting curve is shallower. Repeat this a few times and the curve becomes nearly flat: the memory is effectively permanent. This is the mechanism behind spaced repetition ([Chapter 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)).
 
 **Second, forgetting is not the enemy of learning — it is part of it.** Bjork's "new theory of disuse" holds that some forgetting *before* you retrieve something makes the retrieval more effortful and therefore more powerful. Reviewing material you still know perfectly does almost nothing. Reviewing it when it has become hard to recall — but still possible — produces the largest gains. Forgetting creates the opportunity for the kind of effortful retrieval that builds durable memory.
 
@@ -296,7 +312,7 @@ Beyond adjusting synaptic weights, the brain physically remodels itself with lea
 
 Neurons communicate through electrical signals along axons, and many axons are wrapped in myelin — a fatty insulating sheath produced by cells called oligodendrocytes — which can speed conduction by up to a hundredfold. Since the 2000s it has become clear that myelination is *activity-dependent*: pathways that are used more get more heavily myelinated (Fields, 2008; McKenzie et al., 2014 showed that blocking new myelin formation in mice prevented them learning a complex motor skill).
 
-This is the physiological basis of a familiar experience: with practice, things that required slow, effortful, conscious step-by-step processing become fast, fluid and automatic. Myelination is slow — weeks to months — and depends on *repeated, precise* firing of the same circuits. Sloppy, inattentive repetition myelinates sloppy circuits. This is why *deliberate* practice — attentive, error-correcting, focused on the hard parts — matters far more than mere hours logged ([Chapter 18](18-deliberate-practice.md)).
+This is the physiological basis of a familiar experience: with practice, things that required slow, effortful, conscious step-by-step processing become fast, fluid and automatic. Myelination is slow — weeks to months — and depends on *repeated, precise* firing of the same circuits. Sloppy, inattentive repetition myelinates sloppy circuits. This is why *deliberate* practice — attentive, error-correcting, focused on the hard parts — matters far more than mere hours logged ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)).
 
 > [!NOTE]
 > Popular accounts sometimes present myelin as "the" secret of skill (e.g., *The Talent Code*). It is one important mechanism among several — synaptic changes, spine dynamics and network reorganisation all contribute. The practical implications are the same either way: skills are built by many repetitions of accurate, attentive practice spread over time.
@@ -441,7 +457,7 @@ Alan Baddeley and Graham Hitch (1974) proposed that working memory is not a sing
 - **The central executive** is the attentional controller that directs focus, switches between tasks, inhibits distraction, and coordinates the other components. It is the component most depleted by fatigue, stress and divided attention.
 - **The episodic buffer** (added in 2000) integrates information from the other components and from long-term memory into coherent episodes.
 
-The practical importance of the two "slave" stores is that they are *partly independent*. Verbal and visual information can be held simultaneously with less interference than two verbal streams or two visual streams. This is the basis of **dual coding** ([Chapter 12](12-dual-coding-examples.md)): a diagram with a spoken explanation is easier to process than a diagram with dense written text next to it, because reading text loads the same verbal channel as the explanation.
+The practical importance of the two "slave" stores is that they are *partly independent*. Verbal and visual information can be held simultaneously with less interference than two verbal streams or two visual streams. This is the basis of **dual coding** ([Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples)): a diagram with a spoken explanation is easier to process than a diagram with dense written text next to it, because reading text loads the same verbal channel as the explanation.
 
 #### What overloads working memory
 
@@ -464,7 +480,7 @@ Long-term memory is not a filing cabinet with labelled folders. It is a vast **a
 
 Retrieval works by following these associations from a cue. This has direct consequences:
 
-- **More connections mean more routes to a memory.** Knowledge that is richly connected — to examples, to other concepts, to images, to personal experiences, to the situations where it is used — can be reached from many cues and is robust. Knowledge learned as an isolated fact has one route in and is fragile. This is the mechanistic reason that *elaboration* — asking how and why, relating new material to old — improves memory ([Chapter 11](11-elaboration-generation.md)).
+- **More connections mean more routes to a memory.** Knowledge that is richly connected — to examples, to other concepts, to images, to personal experiences, to the situations where it is used — can be reached from many cues and is robust. Knowledge learned as an isolated fact has one route in and is fragile. This is the mechanistic reason that *elaboration* — asking how and why, relating new material to old — improves memory ([Chapter 11](#11-elaboration-self-explanation-and-generation)).
 - **Retrieval cues must match encoding.** Tulving's **encoding specificity principle** (1973): a cue is effective to the extent that it was present at encoding. If you always study definitions in the same order on the same flashcards, the order and the cards become the cues, and in the exam — with none of them present — retrieval fails. Varied practice with varied cues builds knowledge retrievable in varied conditions.
 - **Context is a cue.** Godden and Baddeley (1975) had divers learn word lists on land or underwater and found recall was better when tested in the same environment. Mood, time of day, physical location and the format of questions all act as retrieval cues. This argues for varying study locations and formats, so that your knowledge isn't tied to one room.
 
@@ -674,7 +690,7 @@ These positions are less contradictory than they appear. The resolution most con
 
 - Unguided discovery as the *whole* method fails, because novices lack the schemas to learn from search.
 - Pure direct instruction with no prior struggle works but can produce inert, poorly transferred knowledge and does not exploit the benefits of generation.
-- **Brief, bounded struggle, then explicit instruction, then guided practice** captures both: the struggle prepares the ground (and is a form of pretesting — see [Chapter 8](08-retrieval-practice.md)), the instruction supplies the structure, and the practice builds fluency.
+- **Brief, bounded struggle, then explicit instruction, then guided practice** captures both: the struggle prepares the ground (and is a form of pretesting — see [Chapter 8](#8-retrieval-practice-the-testing-effect)), the instruction supplies the structure, and the practice builds fluency.
 
 For a self-directed learner: attempt the problem or try to explain the concept *before* reading the explanation, but time-box the attempt (a few minutes) and then study the explanation properly. Don't skip the attempt, and don't skip the explanation.
 
@@ -997,5 +1013,2075 @@ Every technique in Part II is a version of what B did. Knowing the theory behind
 > Next time you finish studying something and feel confident, do not move on. Wait a day. Then, without looking, try to write out or explain what you learned. Score yourself honestly. Note the gap between yesterday's confidence and today's retrieval. That gap is the fluency illusion, measured. After a few repetitions you will stop trusting the feeling of fluency — and start trusting the test.
 
 That concludes the foundations. Part II turns the principles into a toolkit, beginning with the single most powerful technique in the science of learning: retrieval practice.
+
+---
+
+# Part II — The evidence-based toolkit
+
+# 8. Retrieval practice — the testing effect
+
+*The single most powerful learning technique known — what the research shows, why pulling information out of your head beats putting it back in, how to do it for facts, concepts, procedures and skills, and the mistakes that neutralise it.*
+
+### The finding
+
+In 2006, Henry Roediger and Jeffrey Karpicke published an experiment whose results still surprise people. Students read a short prose passage. Some then reread it; others took a free-recall test on it (writing down everything they could remember) with no feedback. Five minutes later, the rereaders recalled slightly more — they had, after all, just seen the passage twice. **One week later, the tested group remembered about 50% more than the rereaders.** A single retrieval attempt, without feedback, outperformed an entire extra study session.
+
+The pattern — testing beats restudying, and the advantage grows with delay — is called the **testing effect** or **retrieval practice effect**. It is one of the most replicated findings in psychology, dating back to Abbott (1909) and Gates (1917), with hundreds of laboratory studies and now dozens of classroom studies behind it.
+
+Karpicke and Roediger's 2008 *Science* paper sharpened the point. Students learning Swahili–English word pairs were divided into groups. Once a pair had been recalled correctly, some groups dropped it from further study, some dropped it from further testing, and some kept doing both. Groups that stopped *testing* recalled items after a week were tested at around 35%; groups that kept *retrieving* every item to the end scored around 80%. Whether they kept *restudying* made no difference at all. **Repeated retrieval, not repeated study, produced the learning** — and the students' own predictions of their performance were completely blind to the difference.
+
+#### How big and how robust?
+
+- Rowland's 2014 meta-analysis of laboratory studies: overall effect g ≈ 0.50 for testing versus restudy, larger with feedback and with more demanding (recall rather than recognition) tests.
+- Adesope, Trevisan and Sundararajan (2017), 118 comparisons: g ≈ 0.61; recall and short-answer formats and multiple-choice all effective.
+- Yang et al. (2021, *Psychological Bulletin*), classroom quizzing, 222 independent studies: g ≈ 0.50, holding across school levels, subjects and test formats.
+- Agarwal, Nunes and Blunt (2021) reviewed 50 applied classroom studies: 57% found medium-to-large effects, 35% small, 8% null or negative — consistently positive in real settings.
+
+An effect of half a standard deviation is, in educational terms, large — comparable to moving a student from the 50th to the 69th percentile. It is achieved with no additional study time, using a technique that costs nothing.
+
+### Why it works
+
+Several mechanisms have empirical support, and they are not mutually exclusive.
+
+**Retrieval strengthens and reorganises the trace.** Reconstructing a memory is not a neutral read-out; it modifies the memory, increasing its storage strength ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)) and making it more accessible in future. Bjork's framing: the harder the successful retrieval, the greater the increase in storage strength.
+
+**Elaborative retrieval.** When you search memory for a target, you activate related information and generate cues along the way (Carpenter, 2009). These become additional retrieval routes. Restudying does not require the search, so it does not generate the routes.
+
+**Episodic context updating.** Each retrieval binds the item to a new temporal context, so the memory has more contexts attached and is easier to reach later (Karpicke, Lehman & Aue, 2014).
+
+**Retrieval reveals what you don't know.** Rereading provides no diagnostic information — everything looks familiar. A retrieval attempt tells you exactly where the gaps are, so subsequent study can be targeted. This *indirect* effect is large in practice, though it is not the whole story: the testing effect appears even without feedback and even when no restudy follows.
+
+**Transfer-appropriate processing.** Retrieval practice is practice at exactly the thing you will need to do later — retrieve. Rereading is practice at recognising. You get better at what you practise.
+
+### Getting the conditions right
+
+Retrieval practice is robust, but several factors govern how much you get from it.
+
+#### Effort: make it recall, not recognition
+
+The benefit scales with the difficulty of the retrieval (within the range where retrieval succeeds or is followed by feedback). Rank the common formats from most to least effective:
+
+1. **Free recall** — "write down everything you know about X" — with nothing in front of you. Maximal effort and maximal benefit, and it also organises knowledge.
+2. **Cued recall / short answer** — a question or prompt, produce the answer. Very effective; this is what good flashcards are.
+3. **Fill-in-the-blank** — some cue, produce the missing piece. Effective; easy to overdo with cloze deletions that are trivially guessable.
+4. **Multiple choice** — recognise the answer among alternatives. Still beneficial, and the *lures* (wrong options) can be an asset if you actively explain why each is wrong; but the retrieval demand is lower, and poorly written options teach errors.
+5. **Recognition / true-false** — least demanding, smallest benefit.
+
+The practical rule: **make yourself produce the answer, not pick it.** If you use multiple-choice practice tests because that's the exam format, cover the options, answer the question as short-answer first, then look.
+
+#### Feedback: always, but not necessarily immediately
+
+Retrieval without feedback works (Roediger & Karpicke's 2006 study had none), but feedback substantially increases the effect, corrects errors, and — crucially — turns *failed* retrieval into a learning event rather than a wasted one. Always check your answers.
+
+Timing is interesting. Immediate feedback is fine. **Delayed feedback** — checking answers minutes to a day later — often produces *better* retention (Butler, Karpicke & Roediger, 2007), because the delay adds a spaced re-exposure and because you have to re-retrieve the question to make sense of the feedback. In practice: for flashcards, immediate feedback is unavoidable and fine; for practice tests and problem sets, doing the whole set before checking any answers is slightly better than checking each one as you go, and reviewing the set again the next day is better still.
+
+#### Success rate: aim for hard but mostly achievable
+
+If retrieval fails constantly, you get little benefit (unless feedback follows, in which case you get the somewhat smaller *pretesting* benefit). If it never fails, you're not working hard enough. The sweet spot from the spacing literature is roughly 80–90% success at the moment of retrieval — you had to work for it, you mostly got it.
+
+#### Spacing: retrieval and spacing are multiplicative
+
+Retrieval practice massed in one session helps; retrieval practice spread over days helps *much* more. The two techniques were made for each other, and the next chapter on [spaced repetition](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it) is essentially about how to schedule retrieval. **Successive relearning** — retrieving to criterion in several spaced sessions — is the combination, and it is the most effective study method for factual and conceptual knowledge we know of (Rawson & Dunlosky, 2011, 2022). In Janes et al. (2020), students who used successive relearning for part of a biopsychology course scored about a letter grade higher on the covered material in the final exam.
+
+#### Repetition: three successful retrievals, spaced, is a good target
+
+Rawson and Dunlosky's work suggests that retrieving an item successfully once in a session is enough for that session; further correct retrievals in the same sitting add little. But *coming back* and retrieving it successfully again on later days adds a great deal. Their recommendation from a series of studies: aim for around **three correct recalls spread across three or more sessions**, then maintain with longer gaps.
+
+#### Format variation: retrieve in more than one way
+
+Retrieving the same fact from the same cue every time ties it to that cue. Vary the direction (term→definition and definition→term), the wording, the context ("give an example of X", "what's the difference between X and Y", "when would you *not* use X"). Varied retrieval builds knowledge that transfers ([Chapter 19](#19-transfer-analogy-and-mental-models)). Retrieval practice's benefits for **transfer** to new problems are real but smaller than for retention (Pan & Rickard, 2018; Corral et al., 2025); they increase when the retrieval practice itself is varied and requires inference rather than reproduction.
+
+#### Match the demand of the target
+
+If you'll need to write essays, practise retrieving by writing paragraphs. If you'll need to solve problems, retrieve by solving. If you'll need to speak, retrieve by speaking. Flashcards of definitions are excellent for definitions and inadequate as sole preparation for anything more complex.
+
+### Retrieval practice for different kinds of knowledge
+
+#### Facts and vocabulary
+
+Flashcards, done properly, are close to ideal: cued recall, immediate feedback, easy to space. Rules for good cards:
+
+- **One idea per card.** A card asking for a list of seven things is a card you will fail forever. Split it.
+- **Cue on the front, answer on the back, and nothing else on the front that gives it away.**
+- **Make both directions when both matter** (word→meaning; meaning→word).
+- **Include context and *why*** on the back, so feedback is elaborative, not just "correct".
+- **Say or write the answer before flipping.** Thinking "yeah, I know this" and flipping is recognition, not retrieval, and it destroys the value of the card.
+- **Don't drop cards you got right once.** Keep retrieving on a spaced schedule.
+- **Write your own cards** when you can. Making the card is itself a generative act. (Pre-made decks are fine for large vocabulary sets where making cards is pure clerical work.)
+
+#### Concepts and understanding
+
+Flashcards are weaker here, because the retrieval that matters is not "what's the definition" but "how does this work, why, and how does it relate to that". Better forms:
+
+- **Free recall / brain dump.** After reading a chapter or attending a lecture, close everything and write out everything you can remember, in whatever structure emerges. Then check, mark gaps, fill them, and repeat in a few days. This is Karpicke and Blunt's (2011) technique, which in their *Science* paper outperformed elaborate concept mapping *while the text was present* — retrieval beat elaboration.
+- **Question generation.** Turn each heading, each key claim, each diagram into a question. Answer the questions later, from memory.
+- **Explain it** — to a real or imagined person, aloud or in writing, from memory. The Feynman technique ([Chapter 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching)) is retrieval practice plus elaboration.
+- **Compare and contrast from memory.** "What are the differences between X and Y?" forces retrieval of both and of their relationship.
+- **Apply to a new example.** "Where else does this principle show up?" is retrieval plus transfer.
+
+#### Procedures and problem-solving
+
+For maths, physics, statistics, programming and any domain where you solve problems, **doing problems is retrieval practice** — provided you do them without looking at a worked example or the relevant formulas. Solving with the textbook open is closer to restudy. Practices that make it retrieval:
+
+- Close the book. Try the problem cold. Only then look up what you couldn't recall — and note it as a gap.
+- Mix problem types ([interleaving](#10-interleaving-and-variability-mixing-it-up)) so that choosing the method is part of the retrieval.
+- Redo problems you got wrong a few days later, from scratch.
+- Retrieve the *method* as well as the *answer*: "what kind of problem is this, and what's the general approach?" before diving in.
+
+#### Skills
+
+For languages, instruments, sport: **producing** is retrieval; **consuming** is restudy. Speaking the sentence, playing the passage from memory, executing the movement — each is a retrieval attempt. Listening, watching a demonstration or reading the score is study. Both are needed; the ratio for most learners is far too heavily weighted toward consumption.
+
+### Techniques, from simplest to most structured
+
+**The brain dump.** After any learning session: close everything, blank page, write everything you remember for five to ten minutes. Check. This alone, done consistently, would transform most students' results.
+
+**Read–recite–review (3R).** Read a section, recite from memory what it said (aloud or in writing), review the section to check. McDaniel, Howard and Einstein (2009) found this beat both rereading and note-taking for both factual and inferential questions.
+
+**The closed-book summary.** Summarise a chapter or lecture *without* the source, then open it and correct your summary in a different colour. Your corrections show exactly what to review.
+
+**Question banks.** As you learn, write questions (not notes) — one per key idea. Keep them in a list or a spaced-repetition system. Answer them, from memory, on a schedule.
+
+**Practice tests.** Past papers, textbook end-of-chapter questions, self-made tests. Do them under exam-like conditions (no notes, timed), *then* check — and treat every error as a study item.
+
+**Flashcards / spaced-repetition software** for the factual layer of any subject ([next chapter](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)).
+
+**Teaching / explaining** for the conceptual layer ([Chapter 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching)).
+
+**Retrieval in the wild.** Before you look something up, try to recall it. Before rereading your notes, try to reconstruct them. Before the lecture, try to recall the previous one. Every look-up is an opportunity for a retrieval attempt first.
+
+### Common mistakes that neutralise it
+
+- **Flipping without producing.** The single most common failure. If you don't commit to an answer before checking, you're doing recognition and gaining almost nothing.
+- **Testing only what you already know.** It feels good and does nothing. Prioritise items you get wrong or feel shaky on.
+- **Dropping items after one success.** One retrieval is a start, not a finish. Come back.
+- **Doing it all in one session.** Massed retrieval helps; spaced retrieval helps much more.
+- **Using recognition formats because they're easier.** Multiple choice as *sole* practice trains recognition, not recall.
+- **Skipping feedback.** Errors you never check are errors you rehearse.
+- **Making cards that are too big, too easy, or trivially guessable from the wording.**
+- **Confusing retrieval of the answer with understanding the answer.** For conceptual material, retrieval should be of explanations and relationships, not just labels.
+- **Treating tests as assessment only.** The mindset shift is to see every test — self-made or teacher-made, high-stakes or low — as a *learning* event.
+
+### Retrieval and anxiety
+
+A common objection is that testing is stressful. Two findings respond to it.
+
+First, **low-stakes** retrieval practice — self-testing, ungraded quizzes — is not experienced as stressful by most learners once it is routine, and it *reduces* anxiety about the high-stakes test, because you go in knowing what you know (Agarwal et al., 2014, found students reported lower test anxiety in classes using frequent low-stakes quizzing).
+
+Second, retrieval practice appears to **protect memory from stress**. Smith, Floerke and Thomas (2016, *Science*) found that material learned by retrieval practice was recalled as well under acute stress as without it, whereas material learned by restudy suffered under stress. Knowledge that has been retrieved repeatedly has many routes and is robust to the working-memory drain of anxiety. If you tend to freeze in exams, retrieval practice is the antidote, not the cause.
+
+> [!PRACTICE]
+> For the next week, end every learning session — every chapter, lecture, video, practice — with a five-minute brain dump: blank page, everything you remember, then check and mark the gaps. Keep the pages. Two days later, before starting new material, spend five minutes retrieving from the previous dumps without looking at them. You will find this harder than expected and will feel you are learning less. Test yourself at the end of the week. You will be learning more.
+
+Retrieval is the engine. The next chapter is about the schedule — when to retrieve, and how to let software do the scheduling for you.
+
+---
+
+# 9. Spaced repetition — the spacing effect and how to schedule it
+
+*Why spreading study over time beats massing it, what the research says about optimal intervals, how spaced-repetition algorithms (Leitner, SM-2, FSRS) work, how to use Anki and similar tools without drowning in reviews, and how to space learning that doesn't fit on flashcards.*
+
+### The spacing effect
+
+Take a fixed amount of study time — say, four hours on a set of material. You can spend it in one block, or spread it over four one-hour sessions across two weeks. The total effort is identical. The outcome is not: on a test given some time later, the spaced schedule will produce substantially better retention, typically by a wide margin.
+
+This is the **spacing effect** (or *distributed practice effect*), first documented by Ebbinghaus in 1885 and confirmed since in hundreds of studies with every kind of learner and material — word lists, facts, concepts, mathematics, motor skills, surgical procedures, music, language. Cepeda and colleagues' 2006 meta-analysis of 254 studies found spaced practice outperformed massed practice in the overwhelming majority, and Dunlosky et al. (2013), in their landmark review of ten learning techniques, gave distributed practice their highest rating for utility, alongside practice testing.
+
+The size of the effect depends on the retention interval, but it is large. In Cepeda et al.'s 2008 study, the best spacing schedule roughly *doubled* retention relative to the worst at long delays. Meanwhile the massed schedule almost always *feels* more effective and produces higher performance on an immediate test — the learning-versus-performance trap in its purest form.
+
+#### Why spacing works
+
+Several mechanisms contribute:
+
+- **Retrieval effort.** After a gap, some forgetting has occurred, so re-encountering the material requires effortful reconstruction rather than fluent recognition. As [Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking) explained, storage strength grows most when retrieval strength has decayed. Massed repetition finds the memory at full retrieval strength, so each repetition adds almost nothing. (This is the *study-phase retrieval* account; it predicts, correctly, that spacing helps most when the second session involves actively recalling the first.)
+- **Encoding variability.** Each session occurs in a slightly different context — mood, location, time, surrounding thoughts — so the memory acquires more retrieval cues.
+- **Consolidation.** The gap allows sleep-dependent consolidation to occur between sessions, so the second session builds on a partially consolidated trace rather than an unstable one. At the cellular level, spaced stimulation triggers the protein synthesis needed for lasting change while massed stimulation does not ([Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes)).
+- **Deficient processing.** During massed repetition, attention to the repeated item drops — it seems known, so the mind skims it. After a gap, it gets full processing again.
+
+### What the research says about intervals
+
+#### The lag effect and the retention-interval trade-off
+
+Not all gaps are equal. Longer gaps between sessions generally produce better long-term retention — up to a point — a finding called the **lag effect**. But the best gap depends on how long you need to remember.
+
+Cepeda, Vul, Rohrer, Wixted and Pashler (2008) ran the definitive study: over 1,300 participants learned facts, reviewed them after gaps from minutes to 105 days, and were tested after retention intervals from a week to nearly a year. The results:
+
+- For every retention interval there was an optimal gap, and gaps shorter or longer than the optimum did worse.
+- The optimal gap increased with the retention interval, but *not proportionally*. Roughly: **optimal gap ≈ 10–20% of the retention interval** for shorter intervals, falling to around 5–10% for very long ones.
+- Gaps that were *too long* hurt less than gaps that were *too short*. When in doubt, space more.
+
+| You need to remember for | Best gap before first review |
+|---|---|
+| 1 week | about 1 day |
+| 1 month | about 1 week |
+| 2–3 months | about 2 weeks |
+| 1 year | about 3–4 weeks |
+| Indefinitely | expanding intervals: days → weeks → months |
+
+These figures are for a *single* review. With multiple reviews, the gaps should typically **expand**: each successful retrieval makes the memory more durable, so the next review can be later.
+
+#### Expanding versus equal intervals
+
+The intuitive "expanding schedule" (1 day, 3 days, 7 days, 14 days…) has been compared against equal-interval schedules (5, 5, 5, 5 days) many times. The result is that **both work well and the difference is small**; expanding schedules have a slight advantage when the first interval is short enough that the first retrieval succeeds, and equal schedules do as well or better in some conditions (Karpicke & Roediger, 2007; Karpicke & Bauernschmidt, 2011). The important variables are that (a) there are gaps at all, (b) retrieval happens in each session, and (c) the total span covers a good fraction of the retention interval. Do not agonise over the exact schedule; do not let a schedule that's slightly wrong stop you from spacing.
+
+#### How many sessions?
+
+Rawson and Dunlosky's successive-relearning work suggests a good target for durable factual/conceptual knowledge is **three successful retrievals in three or more spaced sessions**, followed by occasional maintenance retrievals at growing intervals. More sessions bring diminishing returns; fewer leave the memory fragile. For skills the number is far higher — hundreds or thousands of spaced repetitions — but the principle is the same.
+
+### Spaced-repetition software
+
+For anything that can be cast as a question with a checkable answer, software can manage the schedule for you. The idea is simple: each item gets its own review date; when you review it, you rate how well you recalled it; the software uses that rating to set the next date — sooner if you struggled, later if it was easy. Over thousands of items this is impossible to manage by hand and trivial for a program.
+
+#### The Leitner system (1972)
+
+The pre-digital version. Cards live in numbered boxes. Box 1 is reviewed daily, box 2 every few days, box 3 weekly, and so on. A card you get right moves up a box; a card you get wrong goes back to box 1. It works and needs no technology; it is the mental model behind all the algorithms.
+
+#### SM-2 (SuperMemo, 1987) and Anki's classic scheduler
+
+Piotr Woźniak's SM-2 algorithm assigns each item an *easiness factor*; after each review, the interval is multiplied by a factor derived from your rating (roughly ×2.5 for "good"), and lapses reset the interval. Anki, the most widely used free spaced-repetition program, used a variant of SM-2 as its default for its first fifteen years. It works well and is still what most people mean by "spaced repetition".
+
+Its weaknesses: the parameters are fixed, not learned from you; it treats all items similarly regardless of their real difficulty; and it has no explicit model of memory, so it cannot tell you your predicted retention or let you choose it.
+
+#### FSRS (Free Spaced Repetition Scheduler, 2022–)
+
+FSRS, developed by Jarrett Ye and the open-spaced-repetition community, is a machine-learning scheduler built on an explicit three-component model of memory:
+
+- **Difficulty** — how hard this particular item is for you;
+- **Stability** — how long the memory will last before retrievability drops to 90%;
+- **Retrievability** — the probability you can recall it right now.
+
+Each review updates these; the parameters of the model are fitted to your own review history. The user chooses a **desired retention** (say 90%) and FSRS schedules each card for the moment its predicted retrievability falls to that level. Benchmarks on hundreds of millions of real Anki reviews from thousands of users show FSRS predicts recall considerably more accurately than SM-2, and users report **20–30% fewer reviews for the same retention**. It has been built into Anki since version 23.10 (November 2023) and is available in several other tools.
+
+For a learner, FSRS's practical advantages are: fewer reviews, an explicit retention target you can tune (lower it to 85% for low-stakes material to save time; raise it to 95% for exam-critical items), and the ability to skip "ease hell", the SM-2 failure mode where difficult cards get stuck on very short intervals forever.
+
+#### Tools
+
+- **Anki** — free (except the iOS app), open source, cross-platform, hugely extensible, supports FSRS. The default choice for serious use. Steeper learning curve.
+- **RemNote, Mochi, Obsidian spaced-repetition plugins** — combine notes with spaced repetition; good if you want cards linked to your notes.
+- **SuperMemo** — the original, Windows-only, with unique "incremental reading" features; niche.
+- **Quizlet, Brainscape, Memrise, Duolingo and other consumer apps** — implement some form of spacing, usually less transparent and less tunable; fine for casual use.
+- **Paper (Leitner boxes)** — still works for a few hundred cards.
+
+The tool matters much less than the habit. A daily review of whatever comes due, done properly (recall before flipping), is what produces the result.
+
+### Using spaced repetition without drowning
+
+The most common failure with Anki is not the algorithm; it is the pile of 800 overdue cards after a fortnight away, followed by abandonment. Some rules from experienced users and from the research:
+
+**Limit new cards per day.** Every new card creates future reviews — roughly 8–15 reviews over the following months. Twenty new cards a day is a sustainable load for most people (~100–200 reviews/day at steady state); fifty is punishing. When you feel the review load rising, reduce new cards before you burn out.
+
+**Review daily, even briefly.** Spacing works because reviews happen approximately when scheduled. A daily five-to-thirty-minute habit beats sporadic marathons. Anki's review count is a good thing to check while waiting for the kettle.
+
+**Make cards that are small, precise and answerable in seconds.** Long, vague or list-based cards are failed repeatedly, clog the queue and demoralise. If you keep failing a card, rewrite it or split it — don't just keep failing it.
+
+**Say the answer before flipping.** Every time. Flipping without committing is not retrieval.
+
+**Prefer cards you made, understand and can explain.** Downloading a 5,000-card deck for a subject you haven't studied is a fast route to memorising things you don't understand. Spaced repetition is for *retaining* what you have learned, not for learning it in the first place. Understand first, then card.
+
+**Use desired retention deliberately (FSRS).** 90% is a good default. For exam-critical material, briefly raising to 95% in the final weeks costs more reviews but tightens recall. For "nice to know" material, 80–85% roughly halves the review load.
+
+**Don't card everything.** Not all knowledge belongs on flashcards. Facts, vocabulary, definitions, formulas, key dates, anatomy, drug names, syntax — yes. Deep conceptual understanding, procedures, skills — spaced repetition still applies, but via spaced *problem-solving*, *explanation* and *practice*, not via cards. Over-carding is a way of feeling productive while avoiding the harder work.
+
+**Use it for maintenance, not just acquisition.** Once you've passed the exam or finished the course, keep the deck. Twenty minutes a week can maintain years of learning that would otherwise evaporate. This is spaced repetition's most underused superpower: it makes knowledge *permanent* at very low cost.
+
+### Spacing without flashcards
+
+Spacing is a scheduling principle, not a card format. Everything you learn should be spaced, and most of it can't be put on a card.
+
+#### Spacing a course
+
+If a course has weekly topics, a simple spacing plan is: study the new topic this week; briefly retrieve last week's; briefly retrieve the topic from a month ago. Many students do only the first. A weekly review session that covers, from memory, the last four weeks' topics in a few minutes each is a large gain for a small cost.
+
+#### Spacing problem-solving
+
+Textbooks and courses usually present a topic and then a set of problems all about that topic. To space (and interleave) them: do a third of the problems now, a third next week mixed with next week's problems, and a third in a month. Doug Rohrer's work on maths learning shows this kind of schedule roughly doubles retention on delayed tests relative to conventional blocked practice (Rohrer & Taylor, 2006, 2007).
+
+#### Spacing skills
+
+Musicians, athletes and language learners already know that daily practice beats a weekly marathon. Within a domain, spacing also applies to *components*: revisit last month's piece, last month's grammar point, the drill you thought you had mastered. Spaced retrieval of skills you think you have already learned is what prevents the slow decay that most practitioners experience without noticing.
+
+#### Spacing reading
+
+Reading a book once produces very little durable memory. Reading it once, then a week later spending fifteen minutes recalling and reviewing your notes, then a month later doing it again, produces a great deal. If a book matters, schedule the return visits when you finish it.
+
+#### Spacing writing and projects
+
+Working on a piece of writing or a project in several sessions separated by days consistently produces better results than one long session — partly for the same consolidation reasons, and partly because sleeping on a problem is genuinely productive ([Chapter 22](22-sleep.md)).
+
+#### Interleaving as automatic spacing
+
+If you rotate among several topics rather than finishing one before starting the next, spacing happens automatically: each topic gets a gap while you work on the others. This is one of several reasons [interleaving](#10-interleaving-and-variability-mixing-it-up) works.
+
+### Building a spaced schedule for an exam
+
+Suppose you have six weeks. A schedule that respects the evidence looks like this:
+
+1. **Weeks 1–4: learn and card.** Study each topic once, properly (understand, do problems, self-explain). Same day: brain dump. Create cards or questions for the factual layer. Start daily reviews (limit new cards).
+2. **Every week from week 2: cumulative retrieval.** One session per week retrieving *all* topics covered so far — brain dump per topic, or a mixed problem set spanning them.
+3. **Weeks 5–6: consolidate.** Stop adding new material. Daily reviews continue. Mixed practice tests under exam conditions, checking afterwards, re-testing errors two days later. Raise desired retention if using FSRS.
+4. **The last 24 hours: light retrieval, then sleep.** A quick pass over the review queue and the error list; no new material; a full night's sleep, which is worth more than any last-minute cramming.
+
+Compare with the typical schedule — cover material week by week, never revisit, cram in the last three days — and the difference is not in hours but in *when* the hours fall.
+
+> [!RESEARCH]
+> Kornell (2009) had students learn vocabulary either by studying a stack of flashcards in a single large deck (which produces spacing between repetitions of any given card) or by splitting the same cards into four small decks studied one after another (massing). Over 90% of students learned more with the large, spaced deck. But when asked, most believed the small massed decks had worked better. The spacing effect is invisible from the inside.
+
+### Common questions
+
+**"Doesn't spacing mean I forget things between sessions?"** Yes. That's the point. The forgetting creates the effortful retrieval that builds durable memory. Aim for gaps where you *mostly* remember with effort — not so long that you're starting from zero.
+
+**"What if I don't have time to space it — the exam is in three days?"** Then space within the three days: three sessions a day apart beat one long one. And test yourself rather than rereading in each. (Then read [Chapter 40](40-study-plans.md) about how to avoid this next time.)
+
+**"Is cramming useless?"** Cramming produces real short-term performance; if the only goal is tomorrow's test and you'll never need the material again, it works. Almost nothing you learn is like that. Cramming is a way of paying full price for knowledge and then throwing it away.
+
+**"I've heard of the '1-7-30 rule' / 'review after 1 day, 1 week, 1 month'."** These fixed schedules are reasonable approximations of expanding intervals and far better than nothing. Software does it better because it adapts to each item and to you.
+
+> [!PRACTICE]
+> Install Anki (or your preferred tool), enable FSRS, and set new cards to 10–20 per day. Make ten cards from something you learned this week — small, precise, in your own words. Review daily for two weeks, saying the answer aloud before flipping. Separately, put a weekly 30-minute "cumulative retrieval" slot in your calendar and, in it, brain-dump every topic from the last month. Two habits, less than half an hour a day, covering the two most powerful techniques in the science of learning.
+
+Retrieval tells you *what* to do and spacing tells you *when*. The next technique — interleaving — is about the *order*, and it is the one learners resist most.
+
+---
+
+# 10. Interleaving and variability — mixing it up
+
+*Why practising A, B and C mixed together beats practising AAA then BBB then CCC, when interleaving helps most and when it doesn't, the related power of varied practice, and how to build both into study and skill training.*
+
+### Blocked versus interleaved
+
+Almost every textbook, course and practice regime is organised in **blocks**: learn topic A, practise A; learn topic B, practise B; and so on. It is orderly, it feels efficient, and it produces fast, visible improvement within each block.
+
+**Interleaving** mixes them: A B C A C B B A C… In the short run it is slower and messier. Performance during practice is worse. Learners dislike it and judge it less effective. And on a delayed test — the one that measures learning — it wins, often by a large margin.
+
+The definitive early demonstration was in mathematics. Rohrer and Taylor (2007) taught students to find the volumes of four solids. One group practised in blocks (all the wedge problems, then all the spheroid problems…); the other practised the same problems shuffled. During practice, the blocked group scored 89% and the interleaved group 60%. **One week later, the blocked group scored 20% and the interleaved group 63%.** Same problems, same time, three times the retention.
+
+The finding has been replicated many times in maths (Rohrer, Dedrick & Stershic, 2015 in a classroom over three months: interleaved practice roughly doubled test scores; Rohrer et al., 2020, a large randomised trial across 54 classes), and extended to other domains. Brunmair and Richter's 2019 meta-analysis of 59 studies found an overall interleaving advantage of **g = 0.42** — a medium effect — with important variation by material, discussed below.
+
+### Why interleaving works
+
+#### Discrimination: learning to tell things apart
+
+The deepest reason is that in blocked practice, **you never have to decide which method to use**. If every problem in this set is about the volume of a wedge, you know it's a wedge problem before you read it. You practise *executing* the wedge formula but never *recognising* when it applies. In the exam — or in life — problems don't come labelled. The skill you actually need, and never practised, is looking at a problem and identifying what kind it is.
+
+Interleaving forces that identification on every single problem. You learn the *differences* between problem types, the cues that tell you which one you're looking at, and the conditions under which each method applies. This is why the effect is strongest when the categories are **similar and confusable**: the more alike two problem types look, the more you need interleaved practice to tell them apart, and the more blocked practice leaves you helpless.
+
+The same logic applies to categories of every kind. Kornell and Bjork (2008) had students learn the styles of twelve painters, either seeing all of one painter's works together or interleaved. The interleaved group was far better at classifying *new* paintings by artist — and, notably, nearly 80% of participants believed blocking had worked better. The effect has been replicated with bird species, rock types, statistical concepts, chemistry, medical diagnoses, and language grammar.
+
+#### Spacing for free
+
+If you rotate among topics, each topic automatically gets a gap before you return to it. Interleaving is therefore spacing at the level of a session, and inherits the spacing effect's benefits — retrieval after some forgetting, encoding in varied contexts.
+
+#### Retrieval of the method
+
+In blocked practice, the method stays active in working memory from one problem to the next; you don't have to retrieve it. In interleaved practice, each problem requires retrieving the appropriate method from long-term memory — which, as [Chapter 8](#8-retrieval-practice-the-testing-effect) explained, strengthens it.
+
+#### Building the right schema
+
+Chi, Feltovich and Glaser (1981) found novices sort physics problems by surface features and experts by deep principle. Interleaving accelerates the shift: because surface features vary while you compare problems, you are pushed to find the principle that actually distinguishes them.
+
+### When interleaving helps — and when it doesn't
+
+The 2019 meta-analysis and the broader literature identify moderators. This is the difference between using interleaving well and misusing it.
+
+#### It helps most when:
+
+- **Categories are similar and easily confused.** Types of maths problems that look alike; species that resemble each other; grammatical structures that are close; near-synonyms; drugs with similar names. Discriminating them is the core difficulty, and interleaving targets it directly. Brunmair and Richter found the largest effects for visual categories (paintings, birds) and mathematics.
+- **The task involves choosing a method or category.** Any time the question "what kind of thing is this?" precedes "what do I do about it".
+- **Initial understanding is already in place.** Interleaving is for *practice*, after each concept has been introduced. The first exposure to a topic should be coherent and focused enough to build a basic schema.
+
+#### It helps less or not at all when:
+
+- **Categories are highly dissimilar and unlikely to be confused.** Interleaving French vocabulary with calculus adds spacing but no discrimination benefit. (It's not harmful, and the spacing helps — but the *interleaving* effect specifically comes from confusable items.)
+- **Material is expository text or a lecture** where the challenge is comprehension rather than discrimination. Brunmair and Richter found weak or negative effects for interleaving *reading* of expository passages: reading half of one text, then half of another, then back, fragments comprehension. Read a text through; interleave *practice*.
+- **The learner is a complete beginner with no schema for any of the items.** Mixing three things you don't understand at all produces confusion, not discrimination. Learn each to basic understanding first, then mix.
+- **The categories are very numerous and very hard.** Too much interleaving can overload working memory. Interleaving three or four related types is typical in successful studies; interleaving twelve at once may be too much at first.
+
+#### Blocked-then-interleaved: the practical sequence
+
+The evidence supports a **hybrid**: introduce a concept with a short focused block (a worked example and a few very similar problems so the basic method is grasped), and then move quickly to interleaved practice that mixes it with previously learned concepts. Doug Rohrer's classroom trials used exactly this design — brief introduction, then most practice mixed — and found the large advantages described above.
+
+> [!KEY]
+> Interleaving is not about randomly mixing everything. It is about mixing **things you might confuse**, **after** you have a basic grasp of each, so that every practice item makes you decide *which* thing it is before you do it.
+
+### Variability: the cousin of interleaving
+
+Closely related is **variable practice**: practising a skill across a range of conditions rather than the same condition every time.
+
+The classic demonstration (Kerr & Booth, 1978) had children practise throwing beanbags at a target three feet away, either always from three feet or from two and four feet, never three. On a test at three feet, the varied group did *better* — even though they had never practised at that distance. They had learned not a single movement but the *relationship* between distance and force, which generalised.
+
+The same pattern appears widely:
+
+- **Motor skills:** varied practice produces better retention and transfer than constant practice (Schmidt's *schema theory*, 1975; the *contextual interference* literature; meta-analyses show robust effects for adults, smaller for young children).
+- **Concept learning:** studying a concept with varied examples produces better transfer to new cases than studying it with similar examples (Gick & Holyoak, 1983; many since). Learning "what is a mammal" from a whale, a bat and a dog produces a better concept than learning it from three dogs.
+- **Problem-solving:** varying surface features across problems while keeping the deep structure constant helps learners extract the structure (the "variability effect" in cognitive load theory: Paas & Van Merriënboer, 1994).
+- **Language:** vocabulary encountered in varied sentences and contexts is retained and used better than vocabulary drilled in a fixed sentence.
+
+Variability works for the same reason interleaving does: it prevents you from learning a rigid, context-bound routine and forces you to learn the underlying rule or relationship — which is what transfers.
+
+Its limit is the same, too. Early on, some constancy helps establish the basic pattern; variability introduced too soon overloads. Then increase it.
+
+### How to interleave in practice
+
+#### Studying from a textbook or course
+
+- **Do not do all the problems at the end of a chapter at once.** Do a few to confirm the basic method. Save the rest and mix them into later sessions with problems from other chapters.
+- **Make mixed problem sets.** Take problems from the last three to five chapters, shuffle, and solve without knowing in advance which chapter each is from. If the book won't let you (problems are labelled by section), write the problems on cards or into a document and shuffle them yourself.
+- **Use cumulative reviews.** Every week, a short session drawing from everything so far.
+- **When a course provides mixed review** (some maths curricula — Saxon, for example — are built entirely on interleaving), use it rather than skipping to "just the new material".
+
+#### Flashcards
+
+Shuffled decks are already interleaved. Avoid sorting your deck into topic sub-decks and studying them one at a time; study the whole deck mixed (Anki does this by default across a deck). For confusable items, make **discrimination cards**: "What's the difference between X and Y?" or a card whose answer is the *name of the category*, not just the content.
+
+#### Learning categories, patterns, styles
+
+Whenever you're learning to recognise things — species, art styles, chart patterns, diagnoses, code smells, chess positions, grammatical constructions — study examples **mixed across categories**, and quiz yourself on classification. Keep a set of unlabelled examples and sort them from memory.
+
+#### Skills
+
+- **Music:** rather than working on one piece or one passage for an hour, rotate among three or four — scales, a passage from piece A, sight-reading, a passage from piece B — in short segments. Vary tempo, dynamics and starting points.
+- **Sport:** the "contextual interference" literature suggests mixing skills within a session (serve, volley, groundstroke; rather than an hour of serves) and varying conditions (target, distance, speed).
+- **Languages:** mix skills (listening, speaking, reading, writing) and grammar points within a session; encounter each vocabulary word in several sentence frames; alternate between topics rather than exhausting one.
+- **Programming:** alternate between problem types and between reading, writing and debugging code; solve problems that require choosing among several data structures or algorithms rather than practising one at a time.
+
+#### Writing your own interleaved schedule
+
+A simple template for a week with three active topics:
+
+| Day | Session |
+|---|---|
+| Mon | New: topic C (short block) · Mixed practice: A, B |
+| Tue | Mixed practice: A, B, C |
+| Wed | New: topic D (short block) · Mixed practice: B, C |
+| Thu | Mixed practice: A, C, D |
+| Fri | Mixed practice: A, B, C, D · cumulative brain dump |
+| Weekend | Spaced-repetition reviews only |
+
+Each topic gets a focused introduction, then appears in mixed practice several times across the week, with gaps between appearances. It is more effort to organise than "do chapter 7 this week", and it works.
+
+### The emotional problem
+
+Interleaving is the desirable difficulty that learners resist most, and it's worth being honest about why. During interleaved practice you feel *worse* at every topic than you would during blocked practice. You make more mistakes, you feel confused, and you get less of the satisfying sense of "getting the hang of it" that comes from doing ten similar problems in a row. In Kornell and Bjork's painting study, and in Rohrer's maths studies, learners overwhelmingly rated the blocked condition as more effective even after the test had shown the opposite.
+
+You will have this experience. The only defence is knowing in advance that the confusion is the discrimination learning happening, and that the fluency of blocked practice was an illusion. Judge by the delayed test, not by how the session felt.
+
+> [!RESEARCH]
+> Rohrer, Dedrick, Hartwig and Cheung (2020) ran a randomised trial with 54 seventh-grade maths classes over four months. Classes were assigned to either the usual blocked practice or interleaved practice with the same problems. On a surprise test a month after the last practice, the interleaved classes scored **61% versus 38%** — an effect size of about 0.8, in real classrooms with real teachers and ordinary materials. Students in the interleaved condition reported the practice was harder. It was; that was why it worked.
+
+> [!PRACTICE]
+> Take the practice problems from the last three chapters or topics you've studied. Write each on a card or a line in a document without its chapter label. Shuffle. Solve ten, from memory, deciding for each what kind of problem it is before you start. Notice how much harder it is than working through one chapter's problems in order — and how much of the difficulty is in the *deciding*. That deciding is the skill the exam will test and blocked practice never trains.
+
+The next chapter turns from *how you schedule* practice to *what you do with the material* — the elaborative strategies that connect new knowledge to old.
+
+---
+
+# 11. Elaboration, self-explanation and generation
+
+*How to make new knowledge stick by connecting it to what you already know — elaborative interrogation, self-explanation, the generation effect, and the discipline of asking "why" and "how" — plus the evidence for each and the traps to avoid.*
+
+### From storage to connection
+
+Retrieval, spacing and interleaving are about *when* and *how often* you engage with material. **Elaboration** is about *what you do* with it at each encounter. To elaborate is to add to, connect and explain — to take a new piece of information and weave it into the network of what you already know, so that it has many routes in and many routes out.
+
+The theoretical basis was laid down in the 1970s. Craik and Tulving (1975) showed that the *depth* at which you process something — its meaning, rather than its sound or appearance — determines how well you remember it. Anderson and Reder (1979) extended this: the more *elaborations* you generate around a fact — connections, implications, examples, reasons — the more retrieval routes exist, and the better recall becomes. A fact stored as an isolated node is forgotten; a fact stored as a hub in a web of connections is retained.
+
+This chapter covers the techniques that put elaboration to work, with their evidence, and the one strategy — generation — that underlies all of them.
+
+### Elaborative interrogation: asking "why?"
+
+**Elaborative interrogation** is the simple practice of asking *why* a stated fact is true, and answering from your own knowledge. Not "what does it say?" but "why would that be the case?" and "how does that fit with what I know?"
+
+The evidence: Pressley, Woloshyn and colleagues in the late 1980s and 1990s showed that students who generated "why" explanations for facts remembered them substantially better than those who simply read them, often with effects around d = 0.5–1.0 in laboratory tasks. Dunlosky et al.'s 2013 review rated it "moderate utility" — effective, with some limits: it works best when learners have relevant prior knowledge to draw on, and it has been studied mostly with factual material rather than complex conceptual content.
+
+Why it works: to answer "why", you must retrieve related knowledge, and the new fact gets linked to it. You also process the fact for meaning rather than surface. And the *search* itself generates cues.
+
+How to do it:
+
+- After reading a factual claim, stop and ask: **Why is this true? Why does this happen? Why does it happen this way and not another?** Answer from what you know. Then check whether the text explains it.
+- Extend with **how**: How does this work? How does it connect to X? How would I use this?
+- And **what if**: What would change if this weren't true? What if the variable were different?
+- Even a *wrong* explanation, later corrected, helps — the correction is well remembered.
+
+A concrete example. Fact: "Sleep deprivation impairs the formation of new memories more than the recall of old ones." Elaborative interrogation: *Why?* Because (from [Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes)) new memories depend on the hippocampus, which needs sleep to consolidate them into cortex; old memories are already cortical. *How does that fit?* It fits H.M., whose hippocampus was removed and who lost new learning but kept old memories. *What if?* Then cramming all night should hurt the night's learning specifically — which is exactly what the sleep studies find. Three questions have connected the fact to two other chapters and a prediction. It is now hard to forget.
+
+### Self-explanation
+
+**Self-explanation** is explaining to yourself, in your own words, what a text, example or procedure means and why each part follows — as you go.
+
+The foundational studies were by Michelene Chi and colleagues. Chi et al. (1989) found that physics students who spontaneously explained worked examples to themselves — why each step was taken, what principle justified it — learned far more than those who just read the examples. Chi, de Leeuw, Chiu and LaVancher (1994) then showed that *prompting* students to self-explain while reading a biology text roughly doubled their learning gains relative to reading twice. Bielaczyc, Pirolli and Brown (1995) showed the same for programming.
+
+Bisra et al.'s 2018 meta-analysis of 64 studies found self-explanation prompts produced a mean effect of g ≈ 0.55 on learning, robust across ages and domains. It works for text, for worked examples, for diagrams, for procedures, for maths, for science, for reading comprehension in children.
+
+Why it works: self-explanation forces you to connect each piece to your existing schema (elaboration), it exposes gaps and contradictions in your understanding that passive reading skates over (comprehension monitoring), it requires you to infer things the text left implicit (generation), and it keeps attention on meaning rather than surface.
+
+#### How to self-explain
+
+For **text**: after each paragraph or section, say (or write) in your own words what it means, why it's true, and how it connects to what came before. Ask: what is this an example of? what does it imply? does anything here conflict with what I thought?
+
+For **worked examples** in maths, physics, programming: at every step, say *why* this step follows from the previous one and what principle licenses it. "They divided both sides by 2 because we want x alone and it's being multiplied by 2." "They used a hash map here because we need O(1) lookup by key." If you can't say why, you have found the thing you don't understand.
+
+For **diagrams and figures**: explain what each element represents and how the elements relate, in words.
+
+For **procedures**: explain the *purpose* of each step, not just the action. What goes wrong if you skip it?
+
+Two refinements from the research:
+
+- **Explain principles, not just paraphrase.** Restating the text in slightly different words adds little. Explaining *why*, connecting to prior knowledge and inferring beyond the text is what produces the gain (Renkl, 1997 distinguished "principle-based" and "anticipative" explainers, who learned much more, from passive paraphrasers).
+- **Beware self-explaining wrong things confidently.** Self-explanation without a check can entrench misconceptions. Follow it with feedback: reread the source, compare with a good explanation, or test yourself.
+
+### The generation effect
+
+Underneath elaborative interrogation and self-explanation lies a more general principle: **information you generate yourself is remembered better than information you are given.** Slamecka and Graf (1978) named this the *generation effect*. In their experiments, participants who produced a word from a cue ("opposite of hot: h___") remembered it better than those who simply read the pair ("hot–cold"). The effect is robust (Bertsch et al.'s 2007 meta-analysis: d ≈ 0.40) and general — it appears for words, numbers, sentences, pictures, answers to questions, examples and solutions.
+
+The mechanisms are those already described: generating requires retrieval of related knowledge, deeper processing, and effort, and the product is linked to the process that produced it. And the effect holds even when generation *fails*, as long as feedback follows ([Chapter 7](#7-desirable-difficulties-and-the-illusion-of-fluency): errorful generation, pretesting, productive failure).
+
+Practical forms of generation:
+
+- **Predict before you read.** Look at the heading, ask what the section will say, guess. Then read. Wrong guesses are corrected memorably; right guesses are confirmed and strengthened.
+- **Attempt the problem before the solution.** Time-boxed, then study the worked example. Even a few minutes of attempt changes how you process the solution.
+- **Generate your own examples.** Given a concept, produce an example the text didn't give. Given a rule, produce a case where it applies and a case where it doesn't.
+- **Generate questions.** Turn headings and claims into questions. The act of forming a question is generative; answering it later is retrieval.
+- **Write the summary before reading the summary.**
+- **Derive the formula** rather than reading it; **reconstruct the argument** rather than rereading it.
+- **Guess the meaning** of an unfamiliar word from context before looking it up (then look it up).
+- **Fill gaps.** Leave blanks in your notes and fill them from memory later. Note-taking systems that leave deliberate space (Cornell-style cue columns) exploit this.
+
+### Concrete examples and analogies
+
+Abstract ideas are hard to remember and easy to misunderstand. **Concrete examples** provide the hooks. The learning-science literature is consistent: pairing abstract principles with concrete examples improves both memory and understanding — but with conditions.
+
+- **Several varied examples beat one.** A single example gets memorised as *the* case; the principle is confused with its surface. Two or three examples that differ on the surface and share the deep structure let you extract the structure (Gick & Holyoak, 1983; the variability literature in [Chapter 10](#10-interleaving-and-variability-mixing-it-up)).
+- **Make the connection between example and principle explicit.** Learners often remember the example and forget what it was an example of. After each example, state which feature of it illustrates which aspect of the principle.
+- **Generate your own.** Examples you produce are remembered better (generation effect) and test whether you've understood: if you can't produce one, you haven't.
+- **Then move back toward the abstract.** Kaminski, Sloutsky and Heckler (2008) found that learners taught a maths concept with a purely abstract representation transferred it better than those taught with concrete examples only. The resolution (Fyfe et al., 2014's "concreteness fading"): start concrete, then progressively strip away the specifics until the abstract structure stands alone.
+
+**Analogies** are examples borrowed from another domain: the atom is like a solar system; electrical current is like water flow; the immune system is like an army. They are powerful for initial understanding because they let you import an entire existing schema. They are dangerous for the same reason: every analogy breaks down somewhere, and learners import the breakdowns too (students who learn electricity via water develop predictable misconceptions). Use analogies deliberately: name the mapping (what corresponds to what), name where it breaks, and don't let one analogy be the only representation.
+
+### Connecting to what you already know
+
+Prior knowledge is the strongest predictor of new learning, and elaboration is how you exploit it. Strategies:
+
+- **Activate before you learn.** Before starting a chapter or lecture, spend two minutes writing what you already know (or think you know) about the topic. This primes the relevant schema and highlights where the new material will confirm, extend or contradict.
+- **Look for the contradictions.** Where does the new material conflict with what you believed? Those are the places your schema needs to change and where learning matters most. Write them down explicitly: "I thought X; actually Y, because Z."
+- **Build bridges to other domains.** How does this relate to something from another course, from your work, from your life? Cross-domain connections are among the strongest retrieval routes because they are distinctive.
+- **Link to personal experience.** The *self-reference effect* (Rogers, Kuiper & Kirker, 1977): relating information to yourself produces excellent memory. "When have I seen this?" "How would this affect me?"
+- **Hierarchies and maps.** Organising new material into a structure — what is a kind of what, what causes what — is elaboration at the schema level. Concept maps and outlines made *from memory* (retrieval) are especially effective; concept maps made while copying the text are less so (Karpicke & Blunt, 2011).
+
+### The catch: elaboration must be accurate and must be accompanied by retrieval
+
+Two important qualifications.
+
+**Elaboration on a misunderstanding entrenches the misunderstanding.** If you self-explain a worked example wrongly, or generate an example that doesn't actually fit the concept, and never check, you have built a robust web of connections around an error. Elaborative techniques need a feedback step: compare with the source, check against a correct explanation, test yourself on the actual material.
+
+**Elaboration is not a substitute for retrieval.** Karpicke and Blunt's 2011 study is the crucial datum. Students studying a science text either did retrieval practice (write down everything you remember, restudy, do it again) or made an elaborate concept map *with the text in front of them*. A week later, the retrieval group outperformed the concept-map group on every kind of question — including inference questions that the concept-mapping was supposed to help with. Elaboration performed *with the material present* is still study; the memory is being built while the answer is visible. The most effective form of elaboration is the kind that happens *during retrieval* — explaining from memory, generating examples from memory, mapping from memory — because that combines both effects.
+
+> [!KEY]
+> Elaboration makes knowledge meaningful and connected. Retrieval makes it accessible and durable. **Elaborate while retrieving** — explain, question, exemplify and connect *from memory*, then check — and you get both.
+
+### A practical elaboration routine
+
+For any substantial piece of new material (a chapter, a lecture, a tutorial):
+
+1. **Before:** two minutes writing what you already know and what you expect. Generate questions from the headings.
+2. **During:** pause at each section. Self-explain: what does this mean, why is it true, how does it connect? Ask *why* of every factual claim. Attempt every example before reading the solution. Note contradictions with your prior beliefs.
+3. **After (same day):** closed-book brain dump ([Chapter 8](#8-retrieval-practice-the-testing-effect)). In the dump, don't just list — explain and connect. Then check and correct.
+4. **Later (spaced):** from memory, generate a new example of each main idea, explain one idea to an imaginary novice, and answer your questions from step 1.
+
+This is slower per page than reading. It is dramatically faster per unit of durable understanding.
+
+> [!PRACTICE]
+> Take a single paragraph of something you're studying. Read it once. Then, without looking, write: (a) what it says in your own words; (b) *why* it is true; (c) an example the text didn't give; (d) one thing it connects to elsewhere in your knowledge; (e) one question it raises. Check (a)–(c) against the source. You have just spent five minutes on one paragraph — and you will remember it in a month, which is not true of the paragraphs you merely read.
+
+Next: the specific power of combining words with images, and the right and wrong ways to use examples — the multimedia principles that govern how information should be presented to a brain with two channels.
+
+---
+
+# 12. Dual coding, multimedia principles and worked examples
+
+*How combining words with visuals improves learning (and how it differs from "visual learning style"), Richard Mayer's evidence-based multimedia principles, how to make and use your own diagrams, and the right way to learn from worked examples.*
+
+### Two channels, one brain
+
+Allan Paivio's **dual coding theory** (1971, 1986) proposes that the mind processes verbal and visual information in two partly separate systems, and that information represented in *both* — a word and an image, a description and a diagram — is remembered better than information represented in either alone. There are two traces instead of one, and each can cue the other.
+
+The behavioural evidence is old and robust: pictures are remembered better than words (the *picture superiority effect*); concrete, imageable words are remembered better than abstract ones; adding a relevant picture to text improves recall of the text. Cognitive load theory adds the mechanism: because the verbal and visual channels of working memory are partly independent ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)), distributing information across both effectively increases usable capacity, whereas piling everything into one channel overloads it.
+
+#### This is not "learning styles"
+
+Dual coding is frequently confused with the learning-styles idea that some people are "visual learners" and others "verbal learners" and should be taught accordingly. The two claims are opposite in structure. Learning styles says: *match the modality to the person.* Dual coding says: *use both modalities for everyone, because everyone's brain has both channels.* The learning-styles claim has failed every rigorous test ([Chapter 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil)); dual coding is well supported. Everyone benefits from a good diagram alongside a good explanation.
+
+### Mayer's multimedia principles
+
+Richard Mayer and colleagues have spent three decades testing how to combine words and pictures for learning, mostly with short instructional lessons on scientific processes (how lightning forms, how a bicycle pump works, how the heart circulates blood). The result is a set of principles, each backed by multiple experiments with effect sizes typically in the medium-to-large range. They are the closest thing education has to an evidence-based style guide, and they apply equally to choosing materials and to making your own.
+
+#### Principles for reducing extraneous processing
+
+- **Coherence.** Exclude extraneous words, pictures and sounds. "Seductive details" — interesting anecdotes, decorative images, background music — reduce learning of the core content. Median effect in Mayer's studies: d ≈ 0.86. Less is more.
+- **Signalling.** Highlight the organisation and the essential material: headings, outlines, arrows, bold key terms, verbal cues ("the three stages are…"). Helps learners know what to attend to; d ≈ 0.5.
+- **Redundancy.** Do not present the same words as on-screen text *and* narration alongside graphics. Graphics + narration beats graphics + narration + identical text ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)); d ≈ 0.7.
+- **Spatial contiguity.** Place words next to the part of the picture they describe, not in a caption below or a paragraph elsewhere. Integrated labels beat separated text; d ≈ 1.1.
+- **Temporal contiguity.** Present narration and corresponding animation *at the same time*, not one after the other; d ≈ 1.3.
+
+#### Principles for managing essential processing
+
+- **Segmenting.** Present the lesson in learner-paced segments rather than one continuous stream; d ≈ 0.8. (Pause the video. Read in sections.)
+- **Pre-training.** Teach the names and characteristics of the key components before teaching how the system works; d ≈ 0.75. (Learn the parts before the process.)
+- **Modality.** Present words as narration rather than on-screen text when accompanying graphics; d ≈ 0.75. (Applies to complex, fast-paced material; for slow, learner-paced material with unfamiliar terms, text can be as good or better.)
+
+#### Principles for fostering generative processing
+
+- **Multimedia.** Words + pictures beat words alone; d ≈ 1.4 across many studies. The core dual-coding result.
+- **Personalisation.** Conversational style ("your lungs") beats formal style ("the lungs"); d ≈ 0.8. Learners engage more with material that seems addressed to them.
+- **Voice.** A human voice beats a machine voice (though this gap has been narrowing as synthetic voices improve).
+- **Embodiment.** An on-screen instructor who gestures and makes eye contact beats one who does not.
+- **Generative activity.** Learners who summarise, map, draw, self-test, self-explain, teach or enact during a lesson learn more (Fiorella & Mayer, 2015, *Learning as a Generative Activity* — eight strategies, all with positive evidence).
+
+#### Boundary conditions
+
+Most of the principles are stronger for **novices** and for **complex, fast-paced** material, and weaker or reversed for experts (expertise reversal). Signalling, for instance, helps novices and can be superfluous for experts; the modality effect largely disappears when learners control the pace and can reread text. Use the principles most strictly for material that is new and hard for you.
+
+### Using dual coding as a learner
+
+#### Consume it well
+
+- **Prefer materials that integrate diagrams with explanation** and follow the contiguity principles. When they don't, fix it yourself: annotate the diagram, draw arrows from text to figure.
+- **Actually study the diagrams.** Learners routinely skip figures or glance at them. A good figure is the densest information on the page. Spend time on it: what does each element represent? what do the axes mean? what is the figure *claiming*?
+- **Pause video** and explain the diagram in words; **read text** and sketch the diagram it implies.
+
+#### Make your own
+
+The most powerful application of dual coding is *generating* the visual representation yourself — combining the dual-coding benefit with the generation effect. Fiorella and Mayer's review of **learning by drawing** finds consistent benefits when learners draw to represent the content of text (not to decorate it), with effects around d = 0.4–0.5, higher when drawing is guided or supported.
+
+Forms of visual representation, each suited to different content:
+
+| Content | Representation |
+|---|---|
+| A process or sequence | Flowchart, timeline, numbered diagram |
+| A structure or system | Labelled diagram, cross-section |
+| Relationships between concepts | Concept map (nodes + labelled links), mind map |
+| Comparison | Table, Venn diagram, side-by-side sketches |
+| Hierarchy or taxonomy | Tree |
+| Cause and effect | Causal diagram with arrows |
+| Quantities and relationships | Graph, sketch of the function |
+| Spatial information | Map, sketch |
+| An argument | Argument map: claim, premises, objections |
+
+Rules for making them work:
+
+- **Represent meaning, not appearance.** The goal is to capture *structure* — what relates to what, how, why. Decorative drawing adds nothing; a rough sketch that encodes the relationships adds a lot.
+- **Do it from memory when you can.** Draw the diagram after reading, without looking, then compare. This is retrieval + dual coding + generation in one act.
+- **Label everything and put the labels *on* the diagram** (spatial contiguity).
+- **Keep it simple.** A diagram that needs a legend, five colours and twenty nodes is overloaded. Split it.
+- **Use it for retrieval later.** Cover the labels and name them. Redraw from memory. Explain the diagram aloud.
+
+#### Concept maps versus mind maps
+
+**Mind maps** (Buzan) radiate from a central topic with branches for sub-topics — effectively a visual outline. **Concept maps** (Novak) are networks: concepts in nodes, with *labelled* links stating the relationship ("causes", "is a type of", "requires"). The labelled links are what make concept maps more demanding and more useful for understanding — they force you to articulate *how* things relate, not just that they're related. Nesbit and Adesope's 2006 meta-analysis found concept mapping beneficial relative to reading and lectures (d ≈ 0.4–0.6), and most beneficial when learners *construct* maps rather than study pre-made ones. The Karpicke and Blunt caveat applies: making maps with the text in front of you is less effective than making them from memory.
+
+### Worked examples: how to actually learn from them
+
+Worked examples — problems with full solutions shown step by step — appeared in [Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck) as a cognitive-load device for novices. They deserve a fuller treatment because they are everywhere (every textbook, every tutorial, every Stack Overflow answer) and almost everyone uses them badly.
+
+#### The wrong way
+
+Read the example. Follow along. Each step makes sense. Reach the end. Feel that you understand. Move on to the problems. Discover you cannot do them. Conclude the problems are "different" from the example.
+
+What went wrong: following a solution is *recognition*. Each step, given the previous one and the next, is easy to accept. You never had to *produce* a step, so you never tested whether you could. The sense of understanding was fluency ([Chapter 7](#7-desirable-difficulties-and-the-illusion-of-fluency)).
+
+#### The right way
+
+1. **Attempt first, briefly.** Cover the solution, try the problem for a few minutes. Even if you fail, you now know exactly where you're stuck, and the solution's relevant step will land much harder.
+2. **Self-explain every step.** For each line: *why* this step? what principle justifies it? what would happen if you did something else? If you can't explain a step, that is your gap — do not move on until you can. (Renkl; Chi — the difference between learners who self-explain examples and those who don't is large.)
+3. **Identify the structure.** After the example, state in one sentence what *kind* of problem this was and what the general approach is, independent of these particular numbers. ("This is a related-rates problem; the approach is: write the relationship, differentiate with respect to time, substitute.")
+4. **Compare examples.** Study two examples of the same type side by side and ask what varies and what's constant. Then two examples of *different* types that look similar, and ask how you'd tell them apart.
+5. **Fade.** Do a completion problem — the same example with the last step missing, then two steps missing, then a bare problem. Then a bare problem of the same type with different surface features. Then problems mixed with other types.
+6. **Re-derive later.** A few days on, take the original problem and solve it from scratch. If you can, it has become knowledge. If not, you've learned something about the fluency illusion.
+
+#### Example–problem pairs and fading
+
+The best-supported sequence for learning a new procedure (Sweller & Cooper, 1985; Renkl & Atkinson's fading studies; Van Gog, Kester & Paas, 2011):
+
+- Worked example → nearly identical problem → worked example → problem …
+- Then examples with increasing amounts left for you to complete (**backward fading**: last step missing, then last two…).
+- Then full problems, first similar, then varied, then mixed with other types.
+
+Textbooks rarely provide this structure. Make it yourself: after each worked example, immediately do the most similar end-of-chapter problem; cover the last step of the next example and finish it; and so on.
+
+#### Incorrect examples
+
+Studying **incorrect** worked examples — solutions with a deliberate error — and finding and explaining the error is powerful for learners who already have a basic grasp (Große & Renkl, 2007; Booth et al., 2013 in algebra classrooms). It targets misconceptions directly and forces principle-level thinking. Textbooks don't offer them; you can create them from your own past mistakes: keep a log of errors you've made, and periodically re-explain what was wrong and why.
+
+### Bringing the two together
+
+A mature study routine for conceptual and procedural material uses both halves of this chapter:
+
+- **Consume** well-designed material — integrated diagrams, segmented, no redundancy — and pause to self-explain.
+- **Generate** your own representations: diagram from memory, table of comparisons, concept map with labelled links.
+- **Attempt** every worked example before reading it; self-explain every step; extract the structure; fade toward independent problems.
+- **Retrieve** using the visuals: redraw, relabel, re-derive, from memory, on a spaced schedule.
+
+> [!PRACTICE]
+> Take a process or system you're currently learning. Without looking at any source, draw it: the components, labelled, with arrows showing how they relate or what causes what. Then open the source and correct your drawing in a different colour. Every correction is a gap you have just found and filled. Put the corrected drawing aside; in three days, draw it again from memory.
+
+The next chapter turns from techniques to *knowing whether they're working*: metacognition, the skill of monitoring your own understanding accurately enough to direct your own learning.
+
+---
+
+# 13. Metacognition — knowing what you know
+
+*The skill of monitoring and regulating your own learning — why self-assessment is systematically biased, how to calibrate it, the planning–monitoring–evaluating cycle, and the concrete habits that turn you into your own effective teacher.*
+
+### The learner's most valuable skill
+
+**Metacognition** is thinking about your own thinking: knowing what you know and don't know, judging how well you've learned something, choosing what to study next, deciding when to stop, noticing when you've lost the thread. John Flavell coined the term in the 1970s; since then it has become clear that metacognitive skill is one of the strongest predictors of academic success, distinct from intelligence, and — critically — teachable.
+
+The reason is structural. A learner with a teacher has someone else doing the monitoring: setting the pace, checking understanding, deciding what to review. A self-directed learner must do all of this alone, and the quality of those decisions determines the value of every hour of study. If you think you know something you don't, you stop studying it too early. If you don't realise you've misunderstood, you build on sand. If you can't tell which topics are weak, you allocate time badly. Every technique in this guide depends on the meta-skill of knowing when and where to apply it.
+
+The bad news is that human metacognition is unreliable in specific, predictable ways. The good news is that the biases are known and can be corrected.
+
+### Two components: monitoring and control
+
+Nelson and Narens' influential framework (1990) separates metacognition into:
+
+- **Monitoring** — assessing the state of your knowledge: *Do I understand this? Will I remember it? How confident am I in this answer?*
+- **Control** — acting on that assessment: *What should I study next? How long? Should I reread, test myself, or move on?*
+
+Control is only as good as the monitoring that feeds it. A learner whose monitoring says "I've got this" when they haven't will make bad control decisions no matter how disciplined they are. Most of this chapter is therefore about fixing monitoring.
+
+### Why self-assessment fails
+
+#### The fluency trap, again
+
+[Chapter 7](#7-desirable-difficulties-and-the-illusion-of-fluency) introduced the core problem: when you judge whether you know something, you rely on how easily it is processing *right now*, and that ease is inflated by recency, by the presence of the answer, by repetition, and by clear presentation — none of which predict long-term retention. The result is systematic overconfidence immediately after study.
+
+#### The stability bias
+
+Kornell and Bjork (2009) found that learners predict their future memory as if it will stay roughly where it is now — they underestimate both how much they will forget and how much further study will help. This "stability bias" leads to under-studying (no need, I know it) and under-reviewing (no need, I still know it).
+
+#### The Dunning–Kruger pattern
+
+Kruger and Dunning (1999) showed that the least competent performers in a domain overestimate their ability the most — partly because the skills needed to perform well are the same skills needed to recognise good performance. In learning terms: when you know least about a subject, you are least able to tell what you don't know. The beginner's confidence is not a personality flaw; it is a structural consequence of not yet having the knowledge that would reveal the gaps. This is why the early stages of learning anything should include external checks — tests, feedback, experts — rather than relying on self-assessment.
+
+#### Confusing familiarity with knowledge
+
+Recognising material as familiar ("I've seen this") is easy and fast. Being able to recall or apply it is not. Learners routinely read a page, recognise everything on it, and conclude they know it. Bjork's students, given the choice, dropped flashcards from further study as soon as the cards felt familiar — long before they were learned.
+
+#### The hindsight bias in checking answers
+
+When you check an answer and see the solution, it often seems obvious — "I knew that, I just…" — and you credit yourself with knowledge you didn't demonstrate. Honest scoring requires committing to an answer *before* looking and scoring what you actually wrote.
+
+### Calibration: making monitoring accurate
+
+**Calibration** is the match between confidence and accuracy. A perfectly calibrated learner who says "I'm 80% sure" is right 80% of the time. Most learners are overconfident, especially at high confidence levels and especially for material they've just studied. Calibration can be improved, and the methods are the same ones that improve learning.
+
+#### Delay your judgments
+
+Nelson and Dunlosky (1991) discovered the **delayed-JOL effect**: judgments of learning made immediately after studying an item are poor predictors of later recall, but judgments made after a delay — when you have to *try to retrieve* the item to judge it — are dramatically more accurate. The reason is that a delayed judgment is based on an actual retrieval attempt rather than on fluency. Practical rule: **never judge whether you know something while it's in front of you or just after you've seen it.** Judge it a day later, by trying to recall it.
+
+#### Judge by retrieval, not by feeling
+
+The only reliable input to monitoring is a retrieval attempt without the material present. "Can I write this out / explain it / solve this / produce this?" — attempted, not imagined. Every retrieval-practice technique in [Chapter 8](#8-retrieval-practice-the-testing-effect) is also a calibration technique: the brain dump, the closed-book summary, the practice test. Their diagnostic value is at least as important as their direct strengthening effect.
+
+#### Make confidence explicit, then score it
+
+Before checking an answer, write down how confident you are (a number, or high/medium/low). Then score. Over a few dozen items you will see your calibration pattern — typically overconfidence on hard items — and it will start to correct. This is cheap and effective. Practice-test software that asks for confidence ratings does this automatically; so does noting "sure / unsure" beside each flashcard answer before flipping.
+
+#### Study your errors as a category
+
+When you get something wrong, ask not just "what's the right answer?" but "why did I think I knew this?" Common answers: I recognised the words; I'd seen a similar problem; the explanation had seemed clear; I remembered *where* it was in the book but not what it said. Each is a fluency cue masquerading as knowledge. Naming them makes you less susceptible.
+
+#### Seek external calibration early
+
+In a new domain, your own monitoring is at its worst. Use external checks — a teacher, a tutor, a study partner, a graded practice test, a community of practitioners — until your internal model is good enough to trust. An expert's five-minute assessment of your work can reveal misconceptions that months of self-study would not.
+
+### The regulation cycle: plan, monitor, evaluate
+
+Self-regulated learning, in the model developed by Zimmerman and others, runs in a cycle. Effective learners run it consciously; ineffective learners skip most of it and simply start reading.
+
+#### Planning (before)
+
+- **Define the goal concretely.** Not "study chapter 5" but "be able to explain the three mechanisms of X and solve problems of type Y without notes". A concrete goal is one you can check.
+- **Assess your starting point.** What do you already know? What do you think will be hard? Two minutes writing this down activates prior knowledge and gives you a baseline.
+- **Choose the strategy.** Given the material and the goal, what technique fits? New procedure → worked examples, self-explanation, fading. Factual layer → cards. Conceptual → read, brain dump, explain. Skill → practise with feedback. Don't default to rereading.
+- **Set the time and the check.** How long, and what will you do at the end to test whether the goal was met?
+
+#### Monitoring (during)
+
+- **Check comprehension at boundaries.** At the end of each section: can I say what that was about, in my own words, without looking? If not, the last section didn't go in; don't proceed to the next.
+- **Notice the signals of not-understanding** and treat them as information, not as noise to push through: rereading a sentence three times; reaching the end of a page with no memory of it; being unable to predict what comes next; a worked example where a step "just is"; a vague sense that this is *sort of* like something.
+- **Track attention.** Mind-wandering is a monitoring failure: you have stopped processing and haven't noticed. Periodic check-ins ("am I still here?") catch it.
+- **Adjust.** If a strategy isn't working — the reading isn't sticking, the problems aren't yielding — change strategy, not just effort. Switch to retrieval, to a different explanation, to prerequisites, to a break.
+
+#### Evaluating (after)
+
+- **Test against the goal.** Retrieve, solve, explain — without the material. Score honestly.
+- **Diagnose gaps.** What specifically didn't you know? Why not — never encoded, misunderstood, forgotten, or can't retrieve under these cues?
+- **Update the plan.** What goes on the review list? What needs a different approach? What's actually done?
+- **Reflect on process.** What worked in this session? What would you do differently? A two-line note is enough. Over weeks, these notes are how you learn about your own learning.
+
+### Metacognitive knowledge: knowing how learning works
+
+Beyond monitoring and control, metacognition includes *knowledge about cognition* — what you know about how memory, attention and learning work in general and for you in particular. This guide is, in effect, a course in metacognitive knowledge. Its value shows up in control decisions:
+
+- Knowing about the spacing effect, you schedule reviews rather than cramming.
+- Knowing about the fluency illusion, you distrust the feeling of "got it" and test instead.
+- Knowing about cognitive load, you recognise overwhelm as a load problem and split the material rather than blaming yourself.
+- Knowing about the expertise-reversal effect, you fade scaffolding as you improve rather than staying with beginner methods.
+- Knowing your own patterns — that you drift after 40 minutes, that you're sharpest in the morning, that you avoid problems you find hard — you design around them.
+
+The research on teaching learning strategies shows that knowledge alone is not enough; learners who know that retrieval practice works still tend to reread (Karpicke et al., 2009). The knowledge must be converted into **habits and defaults** — which is what Part V is about. But without the knowledge, the habits have nothing to aim at.
+
+### Metacognition and beliefs
+
+Monitoring is shaped by what you believe about learning and about yourself. Some beliefs that systematically distort it:
+
+- **"If it's hard, I'm not good at this."** Leads to interpreting desirable difficulty as failure and abandoning effective methods. Correct model: effort is the mechanism.
+- **"If I understood it when I read it, I know it."** The comprehension/retention confusion. Correct model: comprehension is necessary, retrieval is the test.
+- **"Fast learning is good learning."** Leads to preferring massed, fluent methods. Correct model: fast performance gains and durable learning often diverge.
+- **"I'm a visual learner / bad at maths / not a language person."** Fixed self-categorisations that pre-empt monitoring: rather than asking "what specifically don't I understand?", the learner concludes "this isn't for me". [Chapter 26](26-mindset-beliefs.md) discusses beliefs about ability in detail.
+
+### Building metacognitive habits
+
+The abstractions above become useful only as routines. A minimal set:
+
+1. **Start every session with a goal and a planned check.** Thirty seconds.
+2. **Stop at every section boundary and summarise from memory.** If you can't, don't proceed.
+3. **Commit to answers before checking them,** with a confidence rating.
+4. **End every session with a closed-book retrieval and an honest score.**
+5. **Keep an error log** — what you got wrong, why you thought you knew it, what the correct understanding is. Review it on a spaced schedule.
+6. **Keep a short learning journal** — a few lines per session on what worked and what didn't. Read it weekly.
+7. **Schedule external checks** — practice exams, feedback from others — especially early in a new domain.
+8. **Judge your knowledge only after a delay.** Tomorrow's retrieval, not tonight's feeling, is the measure.
+
+> [!RESEARCH]
+> Dunlosky and Rawson (2012) had students learn definitions and rate their confidence in each answer. Students who were overconfident — judging incorrect answers as correct — stopped studying those items and consequently learned less. Those who monitored accurately kept studying until they actually knew the material. The difference in final retention was substantial, and it came entirely from the accuracy of self-assessment, not from ability or effort. Bad monitoring doesn't just feel bad; it directly causes under-learning.
+
+> [!PRACTICE]
+> Before your next self-test or practice problem set, write a predicted score. After scoring, compare. Do this for a week. Most people find their predictions are consistently too high, by a consistent margin — and that the margin shrinks as they start basing predictions on "what can I actually retrieve" rather than "how familiar does it feel". That shrinking margin is your metacognition improving, and it will improve every decision you make about what to study.
+
+You now have the core toolkit: retrieval, spacing, interleaving, elaboration, dual coding and the metacognitive skill to direct them. Before going further, the next chapter clears away the techniques that *don't* work — including several you almost certainly use.
+
+---
+
+# 14. What doesn't work — myths, low-utility techniques and snake oil
+
+*An honest audit of popular study methods and learning claims — rereading, highlighting, summarising, learning styles, brain training, speed reading, cramming, "10,000 hours", the 10% brain myth and more — with the evidence for each, and what to do instead.*
+
+### Why this chapter exists
+
+Most learners are not using bad techniques out of laziness. They are using the techniques that were modelled for them, that feel productive, and that were never tested. Knowing what *doesn't* work is at least as valuable as knowing what does, because it frees up the time and attention those methods consume.
+
+The primary source for the first section is Dunlosky, Rawson, Marsh, Nathan and Willingham's 2013 monograph, *Improving Students' Learning With Effective Learning Techniques*, which evaluated ten techniques against hundreds of studies and rated each for utility. Their ratings have held up well in the decade since.
+
+### Low-utility techniques that almost everyone uses
+
+#### Rereading
+
+**What people do:** Read the chapter. Read it again before the exam. Maybe a third time.
+
+**What the evidence says:** Rereading produces a small benefit over a single reading when done after a delay, and almost none when done immediately. It is consistently outperformed by retrieval practice (Roediger & Karpicke, 2006; Karpicke & Blunt, 2011 — and in Karpicke's studies, students who reread *predicted* they'd do better than those who self-tested, and did worse). The problem is not that rereading is useless; it is that it is among the least efficient uses of time, and that it powerfully inflates the fluency illusion: each pass makes the text feel more familiar without making the content more retrievable. Dunlosky et al.: **low utility**.
+
+**Instead:** Read once, attentively. Then close the book and retrieve. Reread *only* the specific parts your retrieval attempt revealed as gaps.
+
+#### Highlighting and underlining
+
+**What people do:** Mark the important bits while reading, so they stand out for review.
+
+**What the evidence says:** Highlighting has essentially no effect on learning in most studies, and in some it *hurts* — particularly for inference questions, because marking isolated facts discourages connecting them (Peterson, 1992). Learners are also poor at choosing what to mark: they highlight too much, or highlight surface features. Highlighting feels active, but the cognitive work is minimal — a judgment of importance, not processing of meaning. Dunlosky et al.: **low utility**.
+
+**Instead:** If you must mark, mark sparingly *after* reading a section, not during — and use the marks as retrieval cues (cover the page and reconstruct what was marked), not as things to reread. Better: write a question in the margin instead of highlighting the answer.
+
+#### Summarising (as usually done)
+
+**What people do:** Write a summary of the chapter while reading it or with it open.
+
+**What the evidence says:** Summarising *can* help — it requires selecting and organising — but the benefit depends heavily on skill: learners who are good at summarising gain; those who aren't produce copied fragments and gain little. It is also usually done with the text open, which makes it study rather than retrieval. Dunlosky et al.: **low utility** as generally practised, with the note that it can be improved with training.
+
+**Instead:** Summarise *from memory*, book closed, then check and correct. This converts a low-utility technique into a high-utility one (closed-book summary = retrieval practice + organisation).
+
+#### Copying notes / rewriting notes neatly
+
+**What people do:** Rewrite lecture notes in a cleaner form, or copy key passages from the textbook.
+
+**What the evidence says:** Transcription — verbatim copying — involves very shallow processing and produces little learning; it is the note-taking equivalent of rereading. Mueller and Oppenheimer's 2014 finding that laptop notes were worse than handwritten ones was driven by verbatim transcription, and the multi-site replication (Urry et al., 2021) found no medium effect once that's accounted for ([Chapter 15](#15-note-taking-that-actually-helps-you-learn)). The activity feels productive because it produces a tangible artefact.
+
+**Instead:** Rewrite notes *from memory*, then compare with the originals. Or convert notes into questions. The artefact is not the point; the processing is.
+
+#### Cramming (massed practice)
+
+**What people do:** Concentrate study into a long session shortly before the test.
+
+**What the evidence says:** Cramming works for the test tomorrow and fails for everything after. It produces high retrieval strength and low storage strength ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)); retention a few weeks later is typically a fraction of what the same hours spaced out would have produced (Cepeda et al., 2006, 2008). The all-nighter variant adds sleep deprivation, which impairs both consolidation of what was studied and performance on the day. Cramming is rational only if you will never need the material again.
+
+**Instead:** Spaced retrieval ([Chapter 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)). If you're stuck cramming, at least test yourself rather than rereading, split the time into several sessions with sleep between, and sleep the night before.
+
+#### Passive watching and listening
+
+**What people do:** Watch the lecture video, listen to the podcast, attend the talk — and consider the material covered.
+
+**What the evidence says:** Attending to a well-designed presentation is a reasonable way to get *initial exposure* to material; it is not, by itself, learning in the durable sense. Retention from passive lecture attendance without active engagement is poor, mind-wandering rises steeply after the first ten to fifteen minutes, and the transient nature of speech means whatever you didn't encode in the moment is gone ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)). Freeman et al.'s 2014 meta-analysis of 225 studies found active-learning classrooms produced substantially better outcomes than traditional lectures and roughly halved failure rates.
+
+**Instead:** Watch or listen in segments; pause and retrieve; take notes as questions; do something with the content the same day ([Chapter 34](34-lectures-video-books.md)).
+
+#### Studying while distracted
+
+Covered in [Chapter 6](#6-attention-focus-and-the-myth-of-multitasking). Divided attention at encoding devastates memory. Hours of distracted study count for a fraction of their nominal length.
+
+### Myths about how people learn
+
+#### Learning styles (visual / auditory / kinaesthetic)
+
+**The claim:** People have a dominant learning style, and teaching to it improves learning.
+
+**The evidence:** People do have *preferences*. But the claim that matters — that matching instruction to preferred style improves outcomes (the "meshing hypothesis") — has been tested repeatedly and has failed every properly designed test. Pashler, McDaniel, Rohrer and Bjork's 2008 review found almost no studies with the appropriate design, and those that existed found no meshing effect; subsequent direct tests (Rogowsky, Calhoun & Tallal, 2015; Husmann & O'Loughlin, 2019, in which students' study strategies matched to their VARK style did not predict grades) have confirmed the null. Meanwhile, the belief remains near-universal among teachers and students (Newton & Salvi's 2020 review: ~90% of educators believe it).
+
+**Why it persists:** It flatters (everyone has a special way of learning), it's easy to remember, it appears to explain individual differences, and the *content-modality* effect is real — some material is best learned visually (anatomy, geography) and some verbally (arguments, definitions) — which gets confused with a *learner*-modality effect. And dual coding is real: everyone benefits from both channels, which is the opposite of specialising in one.
+
+**What to do instead:** Match the modality to the *content*, use both channels where possible, and don't restrict yourself by a label.
+
+#### "You only use 10% of your brain"
+
+False. Brain imaging shows activity across the whole brain over the course of a day; the brain is metabolically expensive and evolution does not maintain unused tissue; damage to almost any region produces deficits. There is no dormant 90% to unlock.
+
+#### Left-brain / right-brain learners
+
+The hemispheres do have some specialisation (language is typically left-lateralised, some spatial processing right-lateralised), but they work together on virtually every task, and there is no evidence that people are "left-brained" or "right-brained" as a trait. Nielsen et al. (2013) analysed resting-state scans of over 1,000 individuals and found no evidence of whole-brain hemispheric dominance.
+
+#### The Mozart effect
+
+Rauscher, Shaw and Ky (1993) found a brief improvement in one spatial reasoning task after listening to Mozart. It was a small, short-lived arousal/mood effect, reproducible with any enjoyable stimulating audio, and did not generalise to intelligence. The commercial "Baby Mozart" industry was built on a misreading. Music with lyrics during study impairs verbal learning; instrumental music is neutral to mildly negative for complex tasks.
+
+#### "Everything is fixed by age X"
+
+Sensitive periods exist for a few specific abilities; general learning capacity continues throughout life ([Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes), [Chapter 36](36-lifespan.md)).
+
+#### "Multitasking is a skill you can develop"
+
+Heavy multitaskers are worse, not better, at filtering and switching ([Chapter 6](#6-attention-focus-and-the-myth-of-multitasking)).
+
+### Products and promises
+
+#### Brain training
+
+**The claim:** Playing cognitive games improves memory, attention, intelligence and academic performance.
+
+**The evidence:** People get better at the trained games and at very similar tasks (near transfer). Transfer to untrained cognitive abilities, intelligence, or real-world outcomes is essentially zero. Melby-Lervåg, Redick and Hulme's 2016 meta-analysis of working-memory training found no reliable far transfer; Simons et al.'s 2016 exhaustive review of the brain-training literature concluded the evidence for real-world benefit was inadequate; Sala and Gobet's meta-analyses (2017, 2019) found the same for children and for chess/music as cognitive enhancers. In 2016 the US Federal Trade Commission fined Lumosity $2 million for deceptive advertising. Rodas et al. (2024) find that even the near-transfer estimates are inflated by publication bias.
+
+**What to do instead:** Learn the actual thing you want to be good at. Memory for chess positions comes from chess; memory for anatomy comes from anatomy. Exercise, sleep and education have far better evidence for general cognitive benefits than any game.
+
+#### Speed reading
+
+**The claim:** Techniques (eliminating subvocalisation, using a pointer, expanding peripheral vision, RSVP apps) can raise reading speed to 1,000–2,000+ words per minute with full comprehension.
+
+**The evidence:** Rayner, Schotter, Masson, Potter and Treiman's 2016 review concluded there is no evidence that comprehension is maintained at such speeds. Skilled readers read about 200–400 words per minute; the limits are set by language processing and by the anatomy of the eye (only the fovea sees text sharply, so the eye must land near every content word). "Speed readers" tested under controlled conditions either read at normal speeds or skim with sharply reduced comprehension. The one genuinely useful skill in the speed-reading repertoire is *skimming* — strategically deciding what to read closely and what to skip — which is a legitimate reading strategy ([Chapter 16](#16-reading-to-learn-deep-reading-active-reading-and-reading-strategically)) but is not "reading faster with full comprehension".
+
+**What to do instead:** Read at the speed the material requires; read *less* by selecting well; read *deeply* by retrieving and elaborating.
+
+#### "Learn while you sleep" (hypnopaedia)
+
+Playing lessons during sleep does not teach new information; the sleeping brain does not encode complex verbal material. What sleep *does* do is consolidate what you learned while awake ([Chapter 22](22-sleep.md)). Targeted memory reactivation — playing sounds during sleep that were associated with material learned awake — produces a small, real boost in lab conditions (Hu et al., 2020 meta-analysis: d ≈ 0.3), but it requires precise timing to sleep stages and is not a consumer product. Any app promising to teach you a language overnight is selling fiction.
+
+#### Nootropics and "smart drugs"
+
+Caffeine improves alertness and attention (and thereby encoding) in normal doses; it does not enhance memory beyond that, and it disrupts sleep if taken late. Prescription stimulants (methylphenidate, amphetamines) improve attention in people with ADHD and have modest effects on sustained attention in others, with little to no benefit for learning itself and some evidence of *overconfidence* effects. The rest of the supplement market — racetams, "cognitive blends", ginkgo, omega-3 in healthy adults — has no robust evidence for improving learning in healthy people. Sleep, exercise and adequate nutrition ([Chapter 23](23-exercise-nutrition.md)) outperform all of them.
+
+#### Subliminal learning, binaural beats, "brainwave entrainment"
+
+No credible evidence for learning benefits. Binaural beats may have small effects on relaxation for some people; they do not improve memory. Subliminal messages have no measurable learning effect.
+
+#### "Photographic memory"
+
+True eidetic memory — literally seeing an image after it's gone — is reported in a small fraction of children and essentially never in adults, and even then it doesn't confer superior long-term memory. Memory champions do not have photographic memory; they use trained mnemonic techniques ([Chapter 17](#17-mnemonics-and-memory-techniques)), and their memory for material outside their trained systems is ordinary (Maguire et al., 2003).
+
+### Half-truths worth untangling
+
+#### "10,000 hours to mastery"
+
+Ericsson's research on expertise found that elite performers had accumulated enormous amounts of *deliberate* practice — around 10,000 hours in the specific case of violinists by age 20 in one 1993 study. Malcolm Gladwell popularised the number as a rule. Ericsson himself objected: the number varies enormously by domain, the average conceals huge individual variation, and it is *deliberate* practice — effortful, feedback-rich, focused on weaknesses — not mere hours, that matters. Macnamara, Hambrick and Oswald's 2014 meta-analysis found deliberate practice explained a substantial but far from complete share of performance variance (around 20–25% in games and music, less in professions). Practice is necessary and hugely important; it is not sufficient, there is no magic number, and its *quality* is the variable you control ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)).
+
+#### Growth mindset
+
+Believing that ability can be developed is associated with better outcomes, and it is a more accurate belief than believing ability is fixed. But the *interventions* — short sessions teaching students about brain plasticity — have effects on achievement that are small (around d = 0.05–0.10 overall in the two major meta-analyses, Sisk et al. 2018 and Macnamara & Burgoyne 2023) and concentrated in specific groups (lower-achieving students in supportive environments: Yeager et al., 2019). Mindset is not a myth, but it has been oversold as a transformative lever. [Chapter 26](26-mindset-beliefs.md) gives the full picture.
+
+#### Handwriting versus typing notes
+
+Mueller and Oppenheimer's 2014 "pen is mightier than the keyboard" finding — that handwritten notes produce better conceptual learning because typing encourages verbatim transcription — was widely publicised. Direct replications (Morehead, Dunlosky & Rawson, 2019; Urry et al., 2021 with n ≈ 600 across multiple sites) found **no reliable difference**. What matters is *how* you take notes — generatively, in your own words, selectively — not the medium ([Chapter 15](#15-note-taking-that-actually-helps-you-learn)). Handwriting does have real advantages for young children learning letters, and it removes the laptop's distractions.
+
+#### The learning pyramid ("we remember 10% of what we read, 20% of what we hear… 90% of what we teach")
+
+This widely reproduced diagram has no research basis. The percentages were never measured; they trace to a 1960s training-industry graphic with fabricated numbers. The *ordering* has some truth (active methods beat passive ones; teaching is an excellent way to learn), but the numbers are invented and should never be cited.
+
+#### "Discovery learning is best" / "Direct instruction is best"
+
+Both extremes are wrong. Pure unguided discovery fails for novices; pure telling produces inert knowledge. Brief productive struggle followed by explicit instruction and guided, faded practice is what the evidence supports ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)).
+
+#### "Attention span is now 8 seconds" (shorter than a goldfish)
+
+There is no study behind this statistic; it appears to originate in a marketing report and has no basis. Attention is context-dependent, and people focus for hours on things that engage them. Attention *is* under assault from designed distraction ([Chapter 6](#6-attention-focus-and-the-myth-of-multitasking)), but not because the human attention span has physiologically shrunk.
+
+### How to evaluate the next claim
+
+A short checklist for any technique, product or study tip you encounter:
+
+1. **Is there a controlled comparison?** Testimonials, before-and-after, and "studies show" without citation don't count.
+2. **What was the outcome measure, and when?** Immediate performance is not learning. Look for delayed tests (days or weeks) and transfer to new material.
+3. **How big is the effect, and in what population?** A d = 0.1 effect in undergraduates on a lab task is not "transforms learning".
+4. **Has it replicated?** One striking study is a hypothesis, not a finding.
+5. **Does the mechanism make sense** given how memory works (attention, working-memory limits, retrieval, spacing, consolidation)? If the claim requires a mechanism that contradicts what we know — learning without attention, memory without retrieval, transfer without domain knowledge — be sceptical.
+6. **Who benefits from your believing it?**
+7. **Does it feel too easy?** Durable learning is effortful. Anything promising to remove the effort is almost certainly removing the learning.
+
+> [!KEY]
+> The methods that fail share a signature: they feel productive, they generate fluency and familiarity, they produce visible artefacts (highlighted pages, neat notes), and they require little effortful retrieval or generation. The methods that work share the opposite signature. If your study session felt smooth, produced a lot of coloured ink and left you confident, be suspicious.
+
+> [!PRACTICE]
+> Write down how you actually studied for your last exam or learned your last skill, hour by hour. Sort each activity into: retrieval/generation (effortful, book closed), consumption (reading, watching, listening), and artefact production (highlighting, copying, formatting). Most people find the first category is under 20% of their time. Set a target to invert the ratio.
+
+Having cleared the ground, the next chapters turn to craft skills — starting with note-taking, which almost everyone does and almost nobody has been taught.
+
+---
+
+# 15. Note-taking that actually helps you learn
+
+*What notes are for (and what they aren't), the encoding and storage functions, handwriting versus typing without the hype, the Cornell method, outlining, sketchnotes and Zettelkasten, how to take notes from lectures versus books, and how to turn any notes into retrieval practice.*
+
+### What notes are for
+
+Almost everyone takes notes; almost no one has been taught how. The result is that most notes serve neither of the two functions notes can serve, and the time spent on them is largely wasted.
+
+Di Vesta and Gray (1972) named the two functions:
+
+- **The encoding function.** The act of taking notes — selecting, condensing, paraphrasing, organising — processes the material more deeply than passive listening or reading. Notes help you learn *while you make them*, regardless of whether you ever look at them again.
+- **The external storage function.** Notes preserve the material for later review. They help you learn *when you use them* — but only if what you do with them later is effective.
+
+Both functions are real. Kobayashi's 2005 and 2006 meta-analyses found note-taking (versus none) produces a modest encoding benefit (d ≈ 0.2–0.3) and a larger benefit when notes are reviewed (d ≈ 0.5–0.8 relative to no review). But the size of both effects depends almost entirely on *how* the notes are taken and *how* they're used — and the default methods squander most of the potential.
+
+### The single most important variable: generative versus verbatim
+
+The encoding benefit comes from **generative processing** — putting ideas in your own words, deciding what matters, connecting to what you know, noticing structure. It does not come from **transcription** — writing down what was said. Verbatim notes involve shallow processing; the words pass from ear to hand without going through meaning. Bretzing and Kulhavy (1979) found students who paraphrased and summarised recalled far more than those who copied verbatim; the finding has been replicated many times since.
+
+This principle resolves the most publicised debate in note-taking research.
+
+#### Handwriting versus typing: the actual state of the evidence
+
+Mueller and Oppenheimer's 2014 paper, "The Pen Is Mightier Than the Keyboard", found that students who took notes on laptops performed worse on conceptual questions than those who wrote by hand, and attributed this to laptop users' tendency to transcribe verbatim (typing is fast enough to allow it; handwriting forces selection). The finding was widely reported as "handwriting is better for learning".
+
+Subsequent research complicates this considerably:
+
+- Morehead, Dunlosky and Rawson (2019) ran a direct replication and found the handwriting advantage was not statistically reliable; performance was similar across media.
+- Urry et al. (2021) ran a multi-site preregistered replication with about 600 participants and found **no significant difference** between longhand and laptop notes on any measure, though laptop notes did contain more verbatim overlap.
+- A 2024 meta-analysis across 24 studies reports a small overall advantage for handwriting — real but modest, and heterogeneous.
+- Neuroscientific studies (e.g., Van der Weel & Van der Meer, 2024) show handwriting produces broader brain connectivity patterns than typing, but that is a description of motor activity, not a learning outcome.
+
+The reasonable conclusion: **the medium matters much less than the method.** Handwriting has two practical advantages — it makes verbatim transcription harder, and it removes the laptop's built-in distractions — and one disadvantage: slowness and difficulty of reorganisation. Typing is faster, searchable and reorganisable, and is fine *if you paraphrase deliberately and the device is locked down*. For young children learning letters, handwriting has a clear developmental benefit; for adults, choose the medium that suits the task and take generative notes in either.
+
+### Notes from lectures
+
+Lectures present a specific problem: the information is **transient** ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)). Whatever you don't capture or encode is gone, and trying to write everything means you process nothing. Some evidence-based practices:
+
+**Prepare.** Read the relevant material or slides beforehand, even briefly. Notes taken with a schema in place are far more selective and meaningful. Write two or three questions you expect the lecture to answer.
+
+**Capture structure, not sentences.** The most valuable things to record are the *organisation* — main points, how they relate, the argument's shape — and anything not in the readings: the lecturer's explanations, examples, emphases and warnings. Write in phrases, in your own words.
+
+**Leave gaps.** You will not catch everything. Mark the gap (a symbol, a blank line) and keep listening rather than falling behind trying to reconstruct it. Fill the gaps from a classmate, the recording or the text within 24 hours.
+
+**Write questions, not just answers.** A note that reads "Why does spacing beat massing? → retrieval effort; encoding variability; consolidation" is worth more than the same facts as a list, because the question makes review into retrieval.
+
+**Mark what you don't understand.** A "?" in the margin is a metacognitive act ([Chapter 13](#13-metacognition-knowing-what-you-know)) and a to-do item.
+
+**Revise within 24 hours.** Not by neatly rewriting — by reading through, filling gaps, adding connections, and, above all, *testing yourself on the content* (cover the notes and reconstruct them). The 24-hour revisit is when the encoding benefit is converted into durable memory. Most students never do it; the notes are filed and reread the night before the exam, when their value has largely evaporated.
+
+**Recorded lectures:** watch at normal or slightly elevated speed; pause every five to ten minutes to summarise from memory; don't transcribe — the recording is your verbatim record, so your notes can be entirely about meaning.
+
+### Notes from reading
+
+Reading has a huge advantage over lectures: the information isn't transient. You control the pace. This changes what notes are for.
+
+**Don't take notes on the first pass.** Read a section for understanding. Then close the book and write what you remember, in your own words. Then check, and add what you missed. This is [retrieval practice](#8-retrieval-practice-the-testing-effect) disguised as note-taking, and it dominates the alternative — copying as you read — by a wide margin.
+
+**Take fewer notes than you think.** The book is the storage. Your notes need only hold: the structure (what are the main claims and how do they relate), your own paraphrase of the key ideas, connections to other things, questions and disagreements, and the location of anything you'll need to find again. A dense chapter might warrant half a page.
+
+**Marginalia can be better than separate notes** for engaging with the argument (questions, objections, connections written beside the text), but they're poor for review because they're tied to the page. Use both: engage in the margins, then extract the structure and questions to a separate note from memory.
+
+**Record the question each section answers**, not just the answer. Headings converted to questions are the raw material for later self-testing.
+
+### Methods
+
+No note-taking method has been shown to be dramatically better than others in controlled research; what matters is the processing they encourage. Choose one that pushes you toward selection, paraphrase, structure and later retrieval.
+
+#### The Cornell method
+
+Walter Pauk's method (1950s) divides the page into a wide right-hand column for notes, a narrow left-hand **cue column**, and a **summary** section at the bottom.
+
+- During the lecture or reading: notes in the right column — phrases, structure, your words.
+- Within 24 hours: in the cue column, write *questions or keywords* for each chunk of notes. At the bottom, a one- or two-sentence summary of the page.
+- Review: cover the right column; use the cues to retrieve the content; check; repeat on a spaced schedule.
+
+Cornell's value is that its structure *builds in* the 24-hour revisit, the conversion of notes to questions, and retrieval-based review. Students who follow the whole procedure benefit; students who just draw the lines and take normal notes do not (which is why some studies find no advantage).
+
+#### Outlining
+
+Hierarchical bullet points: main ideas, sub-points, supporting details. Good for well-structured material (lectures with clear organisation, textbook chapters); forces you to identify the structure; weak for material where relationships aren't hierarchical (many concepts interrelate) and easy to slip into transcription with indentation. Works well typed. Convert to questions for review.
+
+#### Mapping (concept maps, mind maps)
+
+Discussed in [Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples). Mapping during a lecture is hard (the structure isn't known yet); mapping *after*, from memory, is excellent. Concept maps with labelled links beat mind maps for understanding relationships.
+
+#### Sketchnotes / visual notes
+
+Combining words with drawings, arrows, containers and layout. Exploits dual coding, forces selection (you can't sketch everything), and makes notes memorable and distinctive. Time-consuming; the risk is decoration displacing meaning. Best done after a session as a synthesis rather than in real time.
+
+#### Charting
+
+A table with categories as columns and items as rows. Excellent for material that compares several things on several dimensions — theories, drugs, historical periods, programming languages. Creating the table forces you to identify the dimensions of comparison; reviewing it (cover cells, recall them) is efficient retrieval practice.
+
+#### The sentence method / flow notes
+
+Writing one idea per line, in your own words, as it comes, with arrows and connections added as you notice them. Flexible and generative; low structure means review requires reorganising. Scott Young's "flow-based" notes emphasise capturing *relationships* and *your own reactions* rather than the lecturer's sequence.
+
+#### Zettelkasten and networked notes
+
+Niklas Luhmann's *Zettelkasten* ("slip box") and its digital descendants (Obsidian, Roam, Logseq, Notion) are systems for long-term knowledge building rather than course notes. The principles: one idea per note, written entirely in your own words as if to a stranger; each note linked to related notes with an explanation of *why* they're related; notes are permanent and accumulate over years; the system is browsed and connected rather than filed in folders.
+
+Evidence: there is no controlled research on Zettelkasten as such, but its components are well supported — paraphrase (generative processing), one idea per unit (chunking), explicit linking (elaboration), and revisiting (spacing). Its danger is the same as for all elaborate systems: the pleasure of building the system displaces the work of learning. If you spend more time organising notes than retrieving, explaining and applying their content, the system has become procrastination with a good conscience. A useful test: can you explain the content of a note from memory? If not, the note is storage, not knowledge.
+
+#### Progressive summarisation
+
+Tiago Forte's method: capture; then bold the key passages; then highlight the key bolded passages; then write a summary in your own words at the top; then, for the most important notes, remix into your own work. The later layers are generative and useful; the earlier layers are highlighting, with the weaknesses noted in [Chapter 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil). Skip to the paraphrase layer as fast as possible.
+
+### Turning notes into learning
+
+Whatever method you use, notes are inert until you do something with them, and rereading them is the least effective thing you can do. Better:
+
+1. **Convert to questions.** Every heading, every main point, every definition becomes a question. Store the questions (cue column, flashcards, a question list). Answer them later from memory.
+2. **Reconstruct from memory.** Cover the notes; rewrite or redraw them on a blank page; compare. The comparison shows exactly what to review.
+3. **Consolidate across sessions.** Weekly, from memory, write a one-page synthesis of the last several sessions' notes. Then check. This is spaced retrieval at the level of a topic.
+4. **Explain from the notes' structure.** Use only the headings or cue column as prompts and explain the material aloud as if teaching it.
+5. **Card the factual layer.** Definitions, formulas, dates, terms go into a spaced-repetition system ([Chapter 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)). The conceptual layer stays in notes and is retrieved via 1–4.
+6. **Keep an error log inside your notes.** What you got wrong, why, and the correction.
+7. **Prune.** Notes you never retrieve from are dead weight. Once material is learned, the notes have done their job.
+
+### Common failures
+
+- **Transcription.** Writing what was said instead of what it means. The most common and most damaging.
+- **Taking notes instead of thinking.** Note-taking as a way of feeling engaged while the mind is elsewhere. If you can't say what the last paragraph you wrote *means*, you were transcribing.
+- **Perfect notes syndrome.** Rewriting notes neatly, colour-coding, formatting. Produces beautiful artefacts and little learning. Ugly notes that get retrieved from beat beautiful ones that get reread.
+- **Never revisiting.** The 24-hour revisit and the spaced retrievals are where the value is. Notes filed until exam week have lost most of it.
+- **Rereading as review.** Recognition, not retrieval. Cover and reconstruct instead.
+- **Notes as a substitute for the source.** For complex material, your notes are a compressed, lossy version. Go back to the source when something is unclear; use notes for structure and cues.
+- **Tool obsession.** Switching apps, tweaking templates, importing plugins. The tool is not the learning.
+
+> [!RESEARCH]
+> Kiewra and colleagues, across a series of studies in the 1980s and 90s, found that students who took notes and reviewed them outperformed students who took notes without review by a wide margin — and that students who *did not attend* the lecture but reviewed a complete set of the instructor's notes often did *as well or better* than students who attended and took their own notes without reviewing. The lesson is not "skip lectures"; it is that the review — specifically active, retrieval-based review — is where most of the learning from notes happens, and that the encoding benefit of note-taking alone is modest.
+
+> [!PRACTICE]
+> For the next lecture or chapter: take notes in phrases, in your own words, with a "?" wherever you're lost. Within 24 hours, cover the notes and reconstruct them on a blank page from memory. Then compare, fill the gaps, and write one question in the margin for each main point. In a week, answer the questions without looking. Notice how different this feels from rereading — and how much more you retain.
+
+Notes are how you capture learning from a source. The next chapter is about the source most learners spend the most time with, and use least effectively: reading.
+
+---
+
+# 16. Reading to learn — deep reading, active reading and reading strategically
+
+*How to read textbooks, papers and non-fiction so that the content stays with you — previewing, questioning, reading for structure, the SQ3R family and what the evidence says about it, reading screens versus paper, how to read a scientific paper, and why speed reading is a dead end.*
+
+### Reading is not learning — unless you make it so
+
+Reading is the primary way most people acquire knowledge, and it is also where most study time disappears with the least to show for it. The reason is that reading, done in the default way, is passive: the eyes move, the words are recognised, comprehension happens sentence by sentence, and almost nothing is encoded for the long term. You reach the bottom of the page and cannot say what it contained. You finish the book and, a month later, retain a vague impression and two anecdotes.
+
+The techniques in this chapter make reading *active* — a process of asking, predicting, checking, retrieving and connecting — so that the reading itself does the encoding work, and so that what you read becomes something you can use.
+
+### Before you read: preview and question
+
+#### Preview for structure
+
+Spending a few minutes surveying a text before reading it produces a **schema** for the content ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)), which makes everything that follows more meaningful and more memorable. Ausubel's *advance organisers* (1960) and decades of follow-up show that a brief overview of the structure improves learning of the details.
+
+For a textbook chapter: read the title, the introduction, every heading and subheading, the figures and their captions, the summary and the end-of-chapter questions. Then ask yourself: what is this chapter about? what are its main parts? what does it seem to be arguing or explaining? This takes five minutes and roughly doubles the value of the reading that follows.
+
+For a book: table of contents, preface, first and last chapters, a skim of each chapter's opening and closing paragraphs. Know what the argument is before you start.
+
+#### Activate prior knowledge
+
+Write down, in a minute or two, what you already know about the topic and what you think the text will say. This primes the relevant knowledge, gives the new material something to attach to, and sets up the contrast that makes surprises memorable.
+
+#### Generate questions
+
+Turn headings into questions. "The spacing effect" → "What is the spacing effect and why does it happen?" Write them down. You will now read to answer them, which changes reading from passive reception into a search — and the search is what focuses attention and drives encoding. The **prequestion** research (St. Hilaire & Carpenter, 2024 meta-analysis) confirms that attempting questions before reading, even unsuccessfully, improves learning of the answers.
+
+### While you read: read for meaning and structure
+
+#### Read in sections, and stop
+
+Read a section — a subheading's worth, a few pages at most — then stop. Do not continue to the next section until you can say, without looking, what that section was about and how it connects to the previous one. If you can't, you weren't reading; you were looking at words. Go back. This is the single most important habit in this chapter: **check comprehension at every boundary**.
+
+#### Identify the structure
+
+Every well-written expository text has a structure: a claim and its support; a problem and a solution; a sequence of causes and effects; a comparison; a classification. Skilled readers identify it early and use it to organise what follows. As you read, ask: what is the main point of this section? what is evidence and what is claim? what is the author's argument, and where are its steps? Marking the structure — main point, supporting points, examples — in the margin or in notes is far more useful than highlighting content.
+
+#### Ask the elaborative questions
+
+At each stopping point ([Chapter 11](#11-elaboration-self-explanation-and-generation)): *Why* is this true? *How* does it work? How does it connect to what I already know? Does it conflict with anything I believed? What is an example the author didn't give? What would follow if this is right?
+
+#### Distinguish types of content
+
+Not all sentences deserve equal attention. Learn to recognise:
+
+- **Core claims and principles** — read slowly, paraphrase, question.
+- **Definitions of key terms** — pin down precisely; these are the chunks everything else is built from.
+- **Evidence and examples** — read for what they show about the claim; don't memorise the details unless the details are the point.
+- **Elaboration and transition** — read quickly.
+- **Repetition and summary** — use to check your own understanding, not as new content.
+
+A text is not uniformly dense, and reading it at a uniform speed wastes attention on padding and starves the core.
+
+#### Handle difficulty deliberately
+
+When a passage doesn't make sense: first, identify *what* doesn't make sense — a word, a concept, a step in the argument, a missing prerequisite. Then choose: look it up, reread once slowly, read on to see if it becomes clear, or mark it and return. Rereading the same sentence four times while your mind wanders is none of these. The metacognitive skill is noticing that comprehension has failed *when it fails*, not two pages later.
+
+### After you read: retrieve, then review
+
+The reading is not finished when you reach the end. The step most readers skip is the one that produces most of the durable learning:
+
+**Close the book and retrieve.** Write or say everything you remember — the main points, the structure, the argument, the examples — in your own words. Answer the questions you generated beforehand. Then open the book and check: what did you miss? what did you get wrong? Fill the gaps. This is the *recite* and *review* of SQ3R (below); it is retrieval practice ([Chapter 8](#8-retrieval-practice-the-testing-effect)); and McDaniel, Howard and Einstein (2009) found that this read–recite–review pattern beat both rereading and note-taking-while-reading on both factual and inferential tests.
+
+**Schedule the return.** A few days later, retrieve again from memory before looking at anything. A few weeks later, again. Reading a text once with retrieval and two spaced revisits produces retention that rereading it five times cannot approach.
+
+### The named methods
+
+#### SQ3R and its family
+
+Francis Robinson's SQ3R (1946) — **Survey, Question, Read, Recite, Review** — is the ancestor of most active-reading methods and remains sound. Its steps are exactly the preview, question, sectioned reading, retrieval and spaced review described above. Variants (SQ4R adds *Reflect* or *Record*; PQRST: Preview, Question, Read, Self-recite, Test; KWL: Know, Want to know, Learned) reorder or rename the same components.
+
+The evidence: studies of SQ3R specifically are mixed and often small, partly because students taught the acronym rarely follow the steps that matter (recite and review) and partly because the survey/question steps have modest effects alone. The *components* — previewing, questioning, sectioned reading with comprehension checks, and above all retrieval afterwards — are each well supported. Use the method for its structure, and don't skip the recite/review steps, which carry most of the load.
+
+#### Reading like a researcher: how to read a scientific paper
+
+Academic papers are not meant to be read linearly. A strategy used by most working scientists:
+
+1. **Abstract** — what did they do and find?
+2. **Figures and tables** — the results, directly. Read every caption. Can you understand the main finding from the figures alone?
+3. **Introduction (last paragraph) and Discussion (first paragraph)** — the question and the answer.
+4. **Methods** — only now, and only as deeply as you need to judge whether the design supports the conclusion (what was compared to what? how many participants? what was measured, and when?).
+5. **Results text** — for details the figures don't show.
+6. **The rest of the Discussion** — limitations, interpretations, what the authors think it means.
+
+Throughout, hold the question: *does the evidence support the claim?* Sample size, control condition, outcome measure, delay before test, effect size, replication — the checklist from [Chapter 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil). And after reading, retrieve: in three sentences, what was the question, what did they do, what did they find, and what's the main caveat?
+
+#### Reading non-fiction books
+
+Most non-fiction books make one argument, supported by chapters of elaboration and example. Reading strategy:
+
+- Preview hard: contents, introduction, conclusion, the first and last paragraphs of each chapter. Identify the central argument before chapter one.
+- Read the chapters that carry the argument closely; skim the ones that only illustrate it. Not every chapter deserves the same attention.
+- After each chapter, one paragraph from memory: what did this chapter add to the argument?
+- After the book, a one-page summary from memory: the argument, the key evidence, what you found convincing and unconvincing, how it connects to other things you know.
+- Revisit that summary in a few weeks. That page, retrieved twice, is worth more than the book reread.
+
+#### Reading technical material and textbooks
+
+Technical texts have extremely high element interactivity ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)). Adjustments:
+
+- Slower than you think, and in small sections.
+- **Do the examples.** Every worked example, attempt first, then self-explain each step ([Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples)).
+- **Don't skip the notation.** Pin down every symbol. If you're holding four undefined symbols in mind, the sentence can't be understood.
+- **Reconstruct derivations** on paper rather than following them with your eyes.
+- **Do the problems**, interleaved and spaced, rather than all at the chapter's end.
+- Expect that the chapter will make more sense on a second pass after the problems than on the first.
+
+#### Reading fiction and literature for learning
+
+Literature isn't read for retrieval of facts, but the same principles apply to understanding: previewing (what kind of book, what tradition), questioning (what is this doing? why this choice?), stopping to consolidate (what happened in this chapter, what changed, what does it mean), and revisiting. Reading with questions ("what is the narrator not telling me?", "what does this scene establish?") transforms comprehension.
+
+### Screen versus paper
+
+A substantial literature compares reading comprehension on screens versus paper. Delgado et al.'s 2018 meta-analysis (54 studies) and Clinton's 2019 meta-analysis both find a **small but reliable advantage for paper** on comprehension of expository texts, especially under time pressure and for longer texts — around d = 0.2. Proposed reasons: shallower processing on screens (the "shallowing hypothesis" — screens are associated with skimming), worse spatial memory for where things were in a text, more scrolling and less fixed layout, and the screen's proximity to distraction.
+
+Practical implications:
+
+- For deep reading of long or difficult texts, paper (or a dedicated e-reader with no other functions) has a modest edge.
+- On screen, the disadvantage shrinks or disappears when you read *deliberately* — page rather than scroll, avoid multitasking, take notes, and slow down. The medium seems to matter mainly because of the habits it invites.
+- The advantage of screens — search, annotation, portability, adjustable text — is real. Use each for what it's good at.
+
+### Speed reading, skimming and reading less
+
+[Chapter 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil) covered the evidence: comprehension collapses above about 500 words per minute; "speed reading" is skimming. But skimming is a legitimate and important skill *when used deliberately*:
+
+- **Skim to decide.** Is this worth reading closely? What parts?
+- **Skim for structure.** Headings, first sentences, figures — to build the schema before deep reading.
+- **Skim to locate.** Finding the section that answers your question.
+- **Skim what you already know.** Passages that repeat familiar material.
+
+The genuine route to reading more is not reading faster; it is **reading less, better chosen, and more deeply**. Most readers read too many things superficially and too few things well. A hundred books skimmed leave less than ten books read with retrieval and revisiting.
+
+### Reading in a second language
+
+Reading is one of the most effective ways to build vocabulary and grammar in a new language ([Chapter 30](30-languages.md)), provided the difficulty is calibrated. The research on *extensive reading* suggests material where you know roughly 95–98% of the words: hard enough to learn from, easy enough to follow and enjoy. Graded readers exist for this purpose. Below 90% known words, comprehension breaks down and the text becomes dictionary work.
+
+### A reading routine
+
+For anything that matters:
+
+1. **Preview** (5 min): structure, headings, figures, summary. What is this about?
+2. **Activate and question** (2 min): what do I know? what do I expect? questions from headings.
+3. **Read in sections**, stopping at each boundary to paraphrase from memory. Ask why/how. Mark structure and "?"s.
+4. **Retrieve** (5–10 min): book closed, write what you learned and answer your questions. Check; fill gaps.
+5. **Extract**: questions for later self-testing; key terms/facts for spaced repetition.
+6. **Return** in a few days and a few weeks — retrieve first, then review.
+
+It is slower per page than reading straight through. It is far faster per unit of knowledge that survives.
+
+> [!PRACTICE]
+> Take the next chapter you need to read. Before reading, spend five minutes previewing and writing three questions. Read one section at a time, stopping to say what it meant. When you finish, close it and write for five minutes. Then open it and mark, in a different colour, what you missed or got wrong. The coloured marks are your review list; the exercise is the difference between reading and learning.
+
+The next chapter covers the oldest learning technology there is: mnemonics — the memory techniques of ancient orators and modern memory champions — and when they are, and are not, worth the effort.
+
+---
+
+# 17. Mnemonics and memory techniques
+
+*The memory techniques of orators and memory champions — the method of loci, peg systems, the major system, keyword method, acronyms and stories — what the research says about how well they work, what they are good for and not good for, and how to integrate them with spaced retrieval.*
+
+### What mnemonics are and why they work
+
+A **mnemonic** is a deliberate technique for encoding information in a form the brain remembers easily. The Greek orators used them to memorise hours-long speeches; medieval scholars used them to hold libraries in their heads; modern memory athletes use them to memorise a shuffled deck of cards in under twenty seconds. They are not tricks in the pejorative sense — they exploit real properties of memory:
+
+- **The brain remembers images far better than abstract words** (the picture superiority effect; dual coding, [Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples)). Mnemonics convert the abstract into the vivid and concrete.
+- **Spatial memory is exceptionally strong.** Evolution built us to remember where things are. The method of loci hijacks this for arbitrary information.
+- **Distinctive, bizarre, emotional and interactive images are remembered better** than mundane ones, because they are encoded with more attention and more distinctiveness.
+- **Structured cues aid retrieval.** A mnemonic provides a fixed route to the memory — a location, a peg, a letter — so that retrieval failure (the dominant form of forgetting) is reduced.
+- **They force elaboration.** Building a mnemonic requires you to think about the material, connect it to something, and process it deeply.
+
+Neuroimaging confirms the mechanism. Maguire et al. (2003) scanned memory champions and found no structural brain differences from controls and no superior general intelligence; what differed was that champions activated spatial-navigation regions (including the hippocampus) during memorisation — because they were using the method of loci. Dresler et al. (2017) trained ordinary adults in loci techniques for six weeks; their memory for word lists more than doubled, their brain connectivity patterns shifted toward those of champions, and the gains persisted four months later.
+
+### The evidence: what mnemonics are good for
+
+Mnemonics have a large, consistent research literature, mostly from the 1970s–90s (Bower, Bellezza, Higbee, Levin, Pressley, McDaniel). The consistent findings:
+
+- **They dramatically improve recall of lists, ordered sequences, paired associations and arbitrary facts** — often two- to three-fold relative to rote rehearsal, and sometimes far more.
+- **The keyword method roughly doubles foreign-vocabulary recall** in the short term compared with rote repetition (Atkinson & Raugh, 1975; Pressley, Levin & Delaney, 1982 review of dozens of studies).
+- **Effects on *long-term* retention are smaller than on immediate recall** unless the mnemonic is reviewed — mnemonics make encoding efficient; they do not remove the need for spaced retrieval.
+- **They are weakest for conceptual understanding.** A mnemonic can help you recall the names of the cranial nerves; it cannot help you understand what they do. Dunlosky et al. (2013) rated the keyword method and imagery for text as "low utility" for *general* learning, precisely because their range of application is narrow and they don't build understanding.
+- **Self-generated mnemonics are usually more effective than supplied ones** (generation effect), though supplied ones work when the learner can't produce a good one.
+
+The right mental model: mnemonics are a specialised power tool. For the material they suit — arbitrary, ordered, list-like, or paired-associate information that must simply be *known* — they are the most efficient encoding method available. For everything else they are a distraction. And they are always a *front end* to spaced retrieval, never a replacement.
+
+### The techniques
+
+#### Acronyms and acrostics
+
+The simplest. **ROY G BIV** for the colours of the spectrum; **Every Good Boy Deserves Fudge** for the lines of the treble clef; **SOH CAH TOA** for trigonometric ratios. They work for short ordered lists where you already know the items and need only their order or a cue to each. Weakness: they cue the first letter only, which fails if you don't already know the item. Best used as retrieval scaffolds for material you've already understood.
+
+#### Rhymes and rhythm
+
+"Thirty days hath September…"; "i before e except after c"; the alphabet song. Rhythm and rhyme constrain what can fill a slot, making retrieval easier. Useful for short rules and sequences. Oral cultures transmitted enormous bodies of material this way — meter is a memory technology.
+
+#### The keyword method (for vocabulary)
+
+For learning that the Spanish *carta* means *letter*: find a **keyword** — a familiar word that sounds like the foreign word (*cart*) — and form an interactive **image** linking the keyword to the meaning (a shopping cart overflowing with letters). To recall, *carta* → cart → the image → letters.
+
+Atkinson's original studies produced striking gains over rote learning; reviews confirm the effect for immediate and short-delay recall. Caveats: it is slower per word than simple retrieval practice, so it pays off most for words that resist ordinary learning; it works best from foreign word to meaning (recognition/reading) and less well in the productive direction; and the images fade unless reviewed — the keyword should be a bridge you cross a few times and then no longer need. Use it for the 20% of words that won't stick, not for all of them.
+
+#### The method of loci (memory palace)
+
+The most powerful general technique, used by Cicero and by every modern memory champion.
+
+1. **Choose a familiar place** — your home, a walk you know, a building you've spent time in — with a fixed route through it and a series of distinct locations (*loci*) along the route: the front door, the coat hook, the hall mirror, the kitchen table…
+2. **Convert each item to be remembered into a vivid image.**
+3. **Place the images at the loci, in order**, imagining them interacting with the location: the first item hanging from the coat hook, the second smashing the mirror.
+4. **To recall, walk the route** and observe what you placed at each location.
+
+Why it is so effective: it combines spatial memory (strong), imagery (strong), order (given by the route), and distinctiveness (bizarre interactions). Bower (1970) and many since found it two to three times better than rote learning for ordered lists; trained practitioners hold hundreds of items with near-perfect recall. The Dresler et al. study showed six weeks of training roughly doubles novices' list memory.
+
+Practical points:
+
+- Build several palaces; a palace reused for different material causes interference unless you let the old images fade.
+- Loci should be distinct and well separated; ten to twenty per palace is a good start.
+- Images must be *specific and interactive* — not "a book on the table" but "a huge red book crushing the table's legs". Exaggerate, animate, add sound, involve emotion or humour.
+- For abstract items, first convert to something concrete: *justice* → a set of scales, *inflation* → a balloon.
+- Walk the palace in review on a spaced schedule; the images fade without retrieval like any memory.
+
+Uses: speeches and presentations (one locus per section), ordered lists (steps of a procedure, historical sequences, taxonomies), the order of anything, and — for medical students and others facing large arbitrary bodies of facts — whole systems of interconnected palaces.
+
+#### Peg systems
+
+A pre-memorised set of **pegs** — images permanently associated with numbers — onto which new items are hung. The rhyming peg list: one–bun, two–shoe, three–tree, four–door, five–hive, six–sticks, seven–heaven, eight–gate, nine–wine, ten–hen. To remember item 4, form an image linking it to a door. Peg systems allow random access (what was item 7?) as well as ordered recall, and a peg list is reusable. Combine with loci for longer lists.
+
+#### The major system (number–consonant code)
+
+For memorising numbers. Each digit is assigned consonant sounds (0 = s/z, 1 = t/d, 2 = n, 3 = m, 4 = r, 5 = l, 6 = j/sh/ch, 7 = k/g, 8 = f/v, 9 = p/b); vowels are free. A number becomes a word or phrase: 3-1-4-1-5-9 → m-t-r-t-l-p → "meteor tulip". The word is imageable; the digits are not. Used for dates, constants, phone numbers, PINs, and by memory athletes (in more elaborate forms such as the PAO — person–action–object — system, where every two- or three-digit number has a fixed character, action and object, so that six digits become one scene). Requires an upfront investment of a few hours to learn the code; pays off for anyone who must retain many numbers.
+
+#### The link/story method
+
+Chain items together by forming an image linking item 1 to item 2, item 2 to item 3, and so on — or embed all items in a short bizarre narrative. Fast, needs no prepared structure, good for shopping-list-length material. Fragile: if one link breaks the chain is lost.
+
+#### Songs and chants
+
+Setting material to a tune is a rhythmic mnemonic on steroids: the melody constrains the words, the rhythm chunks them, and music is retained extraordinarily well. Useful for sequences and rules; the "Elements Song", grammar songs, and every child's alphabet song work this way.
+
+#### Imagery for text and concepts
+
+Forming mental images of what you're reading — visualising the process, the scene, the mechanism — improves memory for concrete, imageable content (McDaniel & Pressley). It shades into dual coding and drawing ([Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples)). For abstract argument it helps little; for descriptive and process material it helps a lot.
+
+### Using mnemonics well
+
+#### When to use them
+
+- Arbitrary information with no inherent logic: names, vocabulary, dates, numbers, spellings, codes, which nerve is which.
+- Ordered sequences: steps, stages, lists, the order of anything.
+- Material you have already *understood* but keep forgetting the labels for.
+- A bridge for the stubborn 20%: the items that won't stick with ordinary retrieval.
+
+#### When not to
+
+- Material with inherent structure or logic, which is better learned by understanding the structure. Don't memorise a formula with a mnemonic when you could understand why it takes the form it does — the understanding is a better retrieval cue and gives you the formula's use as well.
+- As a substitute for understanding. Memory palaces full of medical facts you don't understand produce a person who can list but not reason.
+- When the mnemonic is harder to build than the material is to learn directly.
+- For skills, procedures and anything procedural — those are learned by practice.
+
+#### Always combine with spaced retrieval
+
+A mnemonic is an encoding technique. The image or palace is a memory like any other and will fade without retrieval. Schedule review of the mnemonic itself — walk the palace, recite the acrostic, rebuild the image — on a spaced schedule, and let it fade once the underlying material has become directly retrievable (which, for much material, happens after a few reviews; the mnemonic scaffolding falls away and you simply *know* the thing).
+
+#### Build the skill
+
+Like any skill, mnemonic technique improves with practice. The first palace is slow and clumsy; the tenth is quick. Investing a few hours in learning one or two systems well — loci and the major system are the highest-value pair — pays off over a lifetime for anyone who must retain large amounts of arbitrary information: medical and law students, language learners, actors, anyone who gives talks, anyone who wants to remember names.
+
+### The critique — and the balance
+
+Mnemonics have critics in education, and the criticism has a point: the emphasis on *remembering* can crowd out *understanding*; students who memorise mnemonically may fail to build the schemas that make knowledge usable; and the techniques are often taught as party tricks (memorise a deck of cards) rather than applied to real learning.
+
+The balance is this. Understanding and memory are not opposed; understanding is built *out of* remembered chunks, and a learner who cannot retain the basic facts of a domain has nothing to understand with. For the arbitrary factual layer that every domain has — and that domains like medicine, law, languages, chemistry and history have in abundance — mnemonics are a legitimate, evidence-based, dramatically efficient tool. Used for that layer, and combined with elaboration for the conceptual layer and spaced retrieval for both, they are part of a complete learner's toolkit. Used as the *whole* method, they produce brittle, inert knowledge — the same failure as any other technique used alone.
+
+> [!RESEARCH]
+> Dresler et al. (2017, *Neuron*) took 51 people with ordinary memories and gave 17 of them six weeks of daily method-of-loci training (30 minutes a day), 17 an active control (working-memory training), and 17 nothing. Before training, all groups recalled about 26–30 words from a list of 72. After training, the loci group recalled about 62; the other groups were unchanged. Four months later, without further practice, the loci group still recalled about 48. Their resting brain connectivity had shifted to resemble that of the world's top memory athletes. The technique is real, trainable, and durable.
+
+> [!PRACTICE]
+> Pick a list of ten to fifteen items you need to know in order — steps in a process, a taxonomy, a set of principles. Choose a familiar route with as many locations. Convert each item to a vivid, specific, interacting image and place it. Walk the route once forward and once backward. Tomorrow, walk it again before looking at the list. Most people find they can do this on the first attempt with near-perfect recall — and that it took less time than the rote repetition that would have failed.
+
+Mnemonics are for holding information. The next chapter is about building *skill* — the research on deliberate practice and expertise, and how to structure practice so that hours turn into mastery.
+
+---
+
+# 18. Deliberate practice and the development of expertise
+
+*What separates practice that builds expertise from practice that merely logs hours — Ericsson's deliberate practice, the honest state of the "10,000 hours" and talent debate, the stages of skill acquisition, plateaus and how to break them, and how to design practice for any skill.*
+
+### Hours are not the variable
+
+Two people take up the same skill and practise the same number of hours over five years. One becomes genuinely excellent; the other is roughly where they were after year one. Everyone has seen this — in music, sport, languages, programming, surgery, teaching. The difference is not the hours. It is what happens in them.
+
+Anders Ericsson spent his career on this question and gave the answer a name: **deliberate practice**. His 1993 paper with Krampe and Tesch-Römer, studying violinists at a Berlin conservatory, found that the best students had accumulated far more hours of *solitary, effortful, goal-directed practice* than good students, who in turn had more than the least accomplished — but that time spent on other music-related activities (playing for fun, performing, listening) did not discriminate between groups. Practice of a specific kind, not exposure or experience, predicted skill.
+
+### What deliberate practice is
+
+Ericsson's definition is specific, and each element does work:
+
+1. **It is designed to improve performance**, targeting specific weaknesses, not to rehearse what you can already do.
+2. **It operates just beyond current ability** — in the zone where you fail some of the time and succeed with full effort.
+3. **It involves full concentration.** It is not automatic, relaxed or enjoyable in the moment; it is effortful.
+4. **It provides immediate, informative feedback** on performance, so that errors are detected and corrected.
+5. **It involves repetition with refinement** — doing the thing again, differently, in response to the feedback.
+6. **It is guided by a teacher, coach or well-designed training regime** that knows what to work on and how — at least until the learner has enough expertise to design their own practice.
+
+Against this, ordinary "practice" is typically: doing the whole activity (playing the piece, playing the match, writing the program), at a comfortable level, enjoying it, without specific goals, without structured feedback, repeating what is already fluent. Ericsson called this *naive practice*; more generously, it is *performance*, and performance maintains skill without building it.
+
+The distinction maps precisely onto the [learning versus performance](#2-what-learning-actually-is) distinction and onto [desirable difficulties](#7-desirable-difficulties-and-the-illusion-of-fluency). Deliberate practice is uncomfortable for the same reason retrieval and interleaving are: it operates where you fail, and failure is the signal you need.
+
+#### The mechanism: building and refining mental representations
+
+Ericsson's explanation for why deliberate practice works centres on **mental representations** — the detailed internal models an expert has of the domain: what good performance looks and feels like, what the possibilities in a situation are, what to attend to, what will happen next. A chess master's representation of a position, a surgeon's of an operation, a musician's of a phrase.
+
+Deliberate practice builds these representations by repeatedly confronting the gap between what you did and what you intended, with enough feedback to see the gap clearly, and then adjusting. Each cycle refines the model. Over thousands of cycles, the model becomes rich enough to guide performance automatically, to detect one's own errors, and — crucially — to guide one's own further practice. Expertise is, in this sense, the possession of representations good enough to teach yourself.
+
+This is also why the *quality* of repetition matters at the neural level ([Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes)): myelination and synaptic strengthening consolidate whatever circuits fire. Practise sloppily and you build a fluent sloppiness.
+
+### The honest state of the debate
+
+#### 10,000 hours
+
+Gladwell's 2008 popularisation turned Ericsson's Berlin data — the best violinists had accumulated roughly 10,000 hours by age 20 — into a rule for mastery. Ericsson rejected it: the figure was an average with huge variance, varied by domain (elite memory athletes reach world class in a few hundred hours; elite musicians and chess players need decades), and, most importantly, it was hours *of deliberate practice*, not hours of doing the thing.
+
+#### How much does practice explain?
+
+Macnamara, Hambrick and Oswald's 2014 meta-analysis of 88 studies asked how much of the variance in performance deliberate practice explains. The answer: about 26% in games, 21% in music, 18% in sports, 4% in education, under 1% in professions — substantial but far from everything, and less than the "practice is all that matters" reading of Ericsson implies. Ericsson disputed their coding of what counted as deliberate practice; the debate was pointed. Hambrick and colleagues' broader position — that practice is necessary but that genetic and other individual factors (working memory, personality, starting age, physical attributes) also matter — is now the mainstream view.
+
+#### What this means for you
+
+The dispute is over how much of the *difference between people* practice explains. That is not the question a learner faces. Your question is: given who I am, what determines how good I become? And to that, the answer is unambiguous: the quantity and quality of deliberate practice is the largest factor under your control by a wide margin. That other people have advantages you lack is true of everything and changes nothing about what to do. Talent, where it exists, largely determines the *rate* of improvement and the *ceiling*; it does not remove the need for practice or make undirected practice effective.
+
+Two further points from the research deserve emphasis:
+
+- **Perceived talent is often accumulated practice in disguise.** The child who seems gifted at maths frequently has parents who did maths with them; the "natural" musician started at four. Early advantages compound through more opportunity, more encouragement, and more practice.
+- **Deliberate practice appears to matter *more*, not less, at higher levels.** Among elite performers, who have all put in vast hours, the differences in *how* they practise are what discriminate (Ericsson's later work on the "expert performance approach").
+
+### The stages of skill acquisition
+
+Fitts and Posner's (1967) three-stage model describes how skills change with practice and why practice must change with them.
+
+**Cognitive stage.** The learner works out what to do. Performance is slow, effortful, error-prone, controlled by explicit verbal rules ("bend the knees, keep the eye on the ball"), and consumes all of working memory. Instruction, demonstration and worked examples are most valuable here. Errors are large and frequent, and feedback about *what* to do is what's needed.
+
+**Associative stage.** The basic pattern is in place; the learner refines it. Errors decrease, components become linked into larger units, verbal mediation drops away, performance becomes smoother. This stage can last months or years. Feedback about *how well* and about specific parameters is most useful; practice should target weaknesses and vary conditions.
+
+**Autonomous stage.** The skill runs with little conscious control, fast and accurate, leaving working memory free for higher-level concerns (the musician thinks about interpretation, not fingering; the driver holds a conversation). Improvement slows and can stop — this is where *arrested development* occurs. Further improvement requires deliberately pulling components back into conscious attention to refine them, which temporarily worsens performance.
+
+Dreyfus and Dreyfus's five-stage model (novice → advanced beginner → competent → proficient → expert) tells a similar story with more attention to how experts perceive situations holistically and act intuitively.
+
+The lesson: **practice that suits one stage is wrong for another.** Explicit rules help novices and hamper experts (thinking about your swing ruins it — Beilock's "choking" research). Autonomous performance is the goal, but it is also a trap: once a skill is automatic and adequate, it stops improving unless you deliberately intervene.
+
+### Plateaus and the "OK plateau"
+
+Everyone who learns a skill experiences the plateau: rapid early improvement, then a flattening at a level that is "good enough". Joshua Foer, in *Moonwalking with Einstein*, called it the **OK plateau**: the point at which the skill has become automatic, the person has stopped attending to it, and consequently it has stopped improving. Most adult typists plateau at a speed they reached in their twenties and never improve despite decades of daily typing — because typing became autonomous and they stopped practising it deliberately.
+
+Ericsson's research on how experts avoid the plateau shows three moves:
+
+1. **Focus on technique, not outcome** during practice — pulling the automatic skill back into conscious attention.
+2. **Stay goal-directed** — practise a specific thing, not the whole activity.
+3. **Get immediate feedback** on that specific thing.
+
+Foer's typing example: typists who practise typing 10–20% faster than their comfortable speed, accepting more errors and then correcting them, break through the plateau; typists who just type more do not. The general principle is to *deliberately destabilise* the autonomous skill in one component at a time, at the edge of ability, with feedback.
+
+### Designing deliberate practice
+
+#### Identify the components
+
+Any complex skill decomposes into components, and components into sub-components. Playing a piece → passages → phrases → bars → individual transitions. Programming → understanding the problem, choosing a data structure, writing the loop, debugging, testing. Speaking a language → pronunciation of specific sounds, retrieval of vocabulary, grammatical constructions, listening for specific features. Effective practice isolates the component that limits performance and works on it specifically.
+
+#### Find the limiting factor
+
+Ask: *what currently prevents me from performing better?* Not "what am I bad at" in general but what specific component, if improved, would most raise the whole. Often it is not what you enjoy practising. The tennis player who loves groundstrokes and loses on serves; the programmer who writes fluent code and can't debug; the language learner with a large vocabulary who can't hear the difference between two vowels. The limiting factor is where deliberate practice goes.
+
+#### Set a specific, measurable practice goal
+
+"Practise the piano" is not a goal. "Play bars 17–24 at 80 bpm with no wrong notes three times in a row" is. Specific goals allow specific feedback and tell you when the practice segment is done.
+
+#### Work at the edge
+
+Choose difficulty such that you succeed with full effort most of the time but not always — the same 80–90% success target as elsewhere in this guide. Too easy is rehearsal; too hard is flailing. Adjust constantly: when the goal is met reliably, raise it.
+
+#### Get feedback, fast and specific
+
+Feedback is what turns repetition into refinement. Sources, in rough order of value:
+
+- **An expert teacher or coach** watching you and telling you what to fix. The gold standard, especially early, when you can't see your own errors.
+- **Objective measures**: recordings (listen to yourself — it is unpleasant and invaluable), timers, test suites, metronomes, video of your movement, statistics of your performance.
+- **Comparison with a model**: your rendition against the recording, your code against a reference solution, your pronunciation against a native speaker's.
+- **Outcome feedback**: did it work? Weakest, because it doesn't tell you *why*.
+
+Feedback should be as immediate as possible in early learning; later, some delay helps you develop your own error detection ([Chapter 21](#21-feedback-getting-it-using-it-giving-it)).
+
+#### Repeat with variation
+
+Repeat the component until the specific goal is met — then vary: different tempo, different context, different starting point, different example — so that the improvement generalises rather than being tied to one exact form ([Chapter 10](#10-interleaving-and-variability-mixing-it-up) on variable practice). Then reintegrate the component into the whole.
+
+#### Keep sessions short and focused
+
+Ericsson's violinists practised in sessions of about an hour, no more than four to five hours a day, with rest and naps. Deliberate practice is fatiguing precisely because it demands full attention; beyond an hour or two, quality collapses and you rehearse errors. Better one hour of deliberate practice than four hours of playing through.
+
+#### Space it
+
+Skill learning shows the spacing effect strongly ([Chapter 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)). Daily shorter sessions beat weekly marathons; revisiting components after a gap consolidates them; sleep between sessions produces measurable overnight gains in motor skill (Walker et al., 2002).
+
+#### Reflect
+
+After each session: what was the goal, was it met, what did the feedback show, what's the goal next time? Two minutes. Experts do this habitually; it is how the practice regime itself improves.
+
+### Mental practice and observation
+
+Two supplements to physical practice have solid evidence.
+
+**Mental practice / imagery** — vividly imagining performing the skill — improves motor and cognitive skills, with effects roughly half the size of physical practice in meta-analyses (Driskell, Copper & Moran, 1994), and larger when combined with physical practice. It is used systematically by musicians, surgeons and athletes. It works best for skills with a strong cognitive component and for people who already have the basic skill (you need an accurate representation to rehearse).
+
+**Observational learning** — watching an expert perform, especially with attention directed to the key features — accelerates the cognitive stage. Watching alone doesn't build the skill (mirror neurons notwithstanding), but it builds the representation of what good performance looks like, which guides practice. Alternating observation and attempt is more effective than either alone.
+
+### Deliberate practice for knowledge work
+
+Ericsson's framework was developed for domains with clear performance standards — music, chess, sport. Applying it to knowledge work — writing, analysis, teaching, management, research — is harder, because feedback is slow and ambiguous and "correct performance" is less defined. Some adaptations:
+
+- **Break the work into components with faster feedback.** For writing: sentence-level clarity (can a reader paraphrase it?), paragraph structure, argument. For analysis: predict the answer before computing it; check.
+- **Create feedback loops that don't naturally exist.** Ask for critique. Compare your work to exemplars. Make predictions and record them so you can check them later (forecasting practice). Review your past work with fresh eyes.
+- **Practise the hard parts separately.** If leading meetings is the weakness, practise the specific sub-skill — opening, handling objections, closing — rather than just attending more meetings.
+- **Seek an expert's eye.** Mentorship functions as coaching.
+- **Study exemplars deliberately.** Not "read a lot" but "take this excellent piece apart and work out how it does what it does" — the knowledge-work analogue of studying a master's game.
+
+Cal Newport's *deliberate practice for knowledge workers* and Anders Ericsson's own *Peak* both give worked examples; the underlying moves are always the same: isolate, target, get feedback, refine, repeat.
+
+### The role of the teacher — and of teaching yourself
+
+Ericsson was emphatic that early deliberate practice requires a teacher, because a novice cannot identify their own errors or know what to work on. The teacher supplies the mental representation the learner lacks. Over time, the learner internalises it and becomes able to direct their own practice.
+
+For self-taught learners this is the hard part. Strategies:
+
+- **Find a teacher for the early stages** even if only occasionally — a few lessons that set up correct fundamentals prevent years of consolidating errors.
+- **Use the best available proxies for a teacher**: detailed feedback from recordings; communities of practitioners who will critique; comparison with exemplars; structured curricula designed by experts.
+- **Study the pedagogy of the domain**: how do good teachers of this skill sequence it? What do they say beginners get wrong?
+- **Be suspicious of your own comfort**: if practice feels smooth, you are probably not at the edge.
+
+> [!KEY]
+> Deliberate practice is uncomfortable, specific, feedback-driven and targeted at what you *can't yet* do. Almost everything else called practice — playing through, doing the whole task at a comfortable level, logging hours — maintains skill without building it. The plateau every skilled adult experiences is not a limit of talent; it is the point where practice stopped being deliberate.
+
+> [!PRACTICE]
+> Choose a skill you're working on. Write down: (1) the single component that most limits your performance right now; (2) a specific, measurable goal for that component that you can reach in one session with full effort; (3) how you will get feedback on it within seconds or minutes; (4) how many minutes you'll spend on it before doing anything else. Do that — and only that — first in your next session. Then reflect for two minutes. This is one cycle of deliberate practice. Skill is thousands of them.
+
+The next chapter takes up the problem that deliberate practice alone doesn't solve: how knowledge and skill learned in one place transfer — or fail to transfer — to another.
+
+---
+
+# 19. Transfer, analogy and mental models
+
+*Why knowledge so often fails to transfer beyond the situation where it was learned, what the research on near and far transfer actually shows, how analogical reasoning and abstraction can be trained, and how to build a working repertoire of mental models that apply across domains.*
+
+### The problem of inert knowledge
+
+Alfred North Whitehead, in 1929, complained of **inert ideas** — "ideas that are merely received into the mind without being utilised, or tested, or thrown into fresh combinations". A century later, the problem is unchanged and is arguably the central failure of formal education. Students pass the physics exam and cannot explain why a ball thrown upward slows down. Employees complete the training and do not apply it on the job. Programmers learn recursion in one language and don't recognise it in another. Knowledge is acquired, tested, and sits inert.
+
+**Transfer** is the application of knowledge or skill learned in one context to a different context. It is the whole point of learning — nobody learns in order to perform only in the classroom — and it is far harder to achieve than most learners and teachers assume.
+
+### What the research shows
+
+#### Transfer is mostly near and mostly hard
+
+Psychologists distinguish **near transfer** (to situations very similar to the learning situation) from **far transfer** (to situations that differ substantially in surface features, domain or context). The evidence over a century, from Thorndike's 1901 studies onward, is consistent: near transfer is common; far transfer is rare and difficult, and frequently fails even when it seems it obviously should occur.
+
+Some striking findings:
+
+- Gick and Holyoak (1980) gave people a story about a general who captured a fortress by dividing his army along several roads, then asked them to solve Duncker's radiation problem (how to destroy a tumour with rays without harming surrounding tissue — answer: several weak rays from different directions). Only about 30% solved it spontaneously. Told that the story might help, about 75% did. The knowledge was there; it wasn't *accessed*, because nothing in the new problem's surface reminded them of the old one.
+- Students who learn statistics can fail to recognise a statistical problem when it appears in a non-statistical context (Fong, Krantz & Nisbett, 1986).
+- Brazilian street children who did complex arithmetic fluently while selling in markets performed poorly on the same computations presented as school problems (Carraher, Carraher & Schliemann, 1985).
+- The "Latin trains the mind" and "chess makes you smarter" claims — that learning a hard discipline improves general reasoning — have failed every rigorous test (Sala & Gobet, 2017 meta-analyses on chess, music and working-memory training: near transfer only).
+
+#### Why transfer fails
+
+- **Knowledge is encoded with its context.** Encoding specificity ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)): what you learn is bound to the cues present when you learned it. A new problem with different surface cues doesn't trigger retrieval.
+- **Surface features dominate novice perception.** Novices see problems in terms of their objects and settings (a pulley problem, a train problem); experts see them in terms of principles (conservation of energy, relative motion). Transfer requires recognising the *deep structure*, and novices don't yet perceive it (Chi, Feltovich & Glaser, 1981).
+- **Knowledge learned from a single example is tied to that example.** One instance can't distinguish what's essential from what's incidental.
+- **Knowledge learned as procedure, without understanding, doesn't generalise.** A memorised algorithm applies only where its trigger conditions match exactly.
+- **Learners don't expect to transfer** and so don't look for applications. Transfer is partly a disposition.
+
+#### Transfer is possible — under specific conditions
+
+The same research identifies what produces transfer. It is not more of the same instruction; it is instruction and study that target the *abstraction* of deep structure.
+
+### What produces transfer
+
+#### Multiple varied examples, explicitly compared
+
+Gick and Holyoak (1983) found that people who read *two* analogous stories and were asked to *compare* them — to write out what they had in common — transferred the solution principle to the radiation problem far more often than those who read one story or read two without comparing. Comparing forces the abstraction of the shared structure ("attack from several directions with divided forces"), which is then represented in a form free of either story's surface, and hence retrievable from a new surface.
+
+This is the most robust finding in the transfer literature and the basis for the variability effect ([Chapter 10](#10-interleaving-and-variability-mixing-it-up)) and for the advice to study several concrete examples of every principle ([Chapter 11](#11-elaboration-self-explanation-and-generation)). Dedre Gentner's decades of work on **structure mapping** show that analogical comparison is how humans extract relational structure, and that even young children do it when prompted to compare.
+
+*How:* Whenever you learn a principle, find (or generate) at least two or three examples that differ in surface and share the structure. Explicitly write out what they share. Then look for a case that superficially resembles them but *doesn't* fit — the contrast sharpens the boundary.
+
+#### Abstraction and explicit principles
+
+Learners who state the general principle behind a solution transfer better than those who just solve (Catrambone & Holyoak, 1989). Self-explanation ([Chapter 11](#11-elaboration-self-explanation-and-generation)) that goes beyond the specific example to the principle produces transferable knowledge; self-explanation that stays at the level of "then they did this" does not. Concreteness fading — from concrete example to abstract representation — supports both understanding and transfer (Fyfe et al., 2014).
+
+*How:* After every worked example, every solved problem, every learned procedure: state in one sentence what *kind* of thing it was and what general rule governs it. Build a growing list of principles, each with its several examples.
+
+#### Understanding, not just procedure
+
+Knowledge with a *why* transfers; knowledge with only a *how* does not. Wertheimer's (1945) classic demonstration: children taught to find the area of a parallelogram by understanding *why* the formula works (you can cut a triangle off one end and move it to the other) could find the area of unusual shapes; children taught only the procedure could not. The conceptual basis is what lets you recognise a new case as an instance.
+
+*How:* For every procedure you learn, understand why it works and under what conditions it applies. If you can't say why, you have a procedure, not knowledge, and it will fail the first time the conditions shift.
+
+#### Interleaved and varied practice
+
+Blocked practice ties each method to its block; interleaved practice forces choice of method on every problem, which is exactly the skill transfer requires — looking at a new situation and deciding which knowledge applies ([Chapter 10](#10-interleaving-and-variability-mixing-it-up)). Varying the contexts, formats and surface features of practice builds knowledge that isn't bound to one form.
+
+#### Retrieval practice with varied cues
+
+Retrieval strengthens memory and, when the retrieval cues vary, builds knowledge accessible from many angles. Retrieval practice also produces transfer, though less reliably than retention gains (Pan & Rickard's 2018 meta-analysis: moderate transfer to rephrased questions and related concepts, smaller to distant applications; transfer improves when the retrieval practice itself requires inference and application rather than reproduction).
+
+#### Learning to expect transfer
+
+Learners who are told to look for applications and who practise identifying where a principle applies develop a disposition to transfer. Some of this is metacognitive: the question "where else does this apply?" and "what does this remind me of?" can become a habit. Bransford and Schwartz's (1999) reframing of transfer as **preparation for future learning** — knowledge that makes it easier to learn the next thing, even if it isn't directly applied — captures much of the real value of education and is far more achievable than direct far transfer.
+
+#### Hugging and bridging
+
+Perkins and Salomon (1988) proposed two teaching strategies that apply equally to self-study:
+
+- **Hugging**: make the learning situation as similar as possible to the application situation (near transfer by design). If you'll need the skill in a meeting, practise in something like a meeting; if you'll need to solve unlabelled problems, practise with unlabelled problems.
+- **Bridging**: explicitly abstract the principle and consciously connect it to other contexts (far transfer by deliberate abstraction). "This is an instance of X; where else does X apply?"
+
+### Analogical reasoning as a skill
+
+Analogy is the engine of transfer: recognising that a new situation is *like* a known one in structure, and mapping the known solution across. It is also how much of science, engineering and invention proceeds. It can be practised.
+
+- **Ask "what is this like?"** of every new problem or concept. Generate candidate analogues, then check the mapping: what corresponds to what? where does the analogy hold, and where does it break?
+- **Look for structural, not surface, similarity.** The useful analogue for a fluid-dynamics problem may be an electrical circuit; the useless one is another problem about water.
+- **Use analogy for understanding, then discard the scaffold.** Analogies are excellent for initial understanding and dangerous when they persist — every analogy imports misconceptions at its edges ([Chapter 11](#11-elaboration-self-explanation-and-generation)). Use two or three different analogies for the same concept; the places where they disagree are where you need the real model.
+- **Study cases across domains.** Reading widely and noticing recurring structures — feedback loops, exponential growth, selection effects, trade-offs, equilibria — builds a repertoire of relational patterns that can be recognised anywhere.
+
+### Mental models: a transferable toolkit
+
+A **mental model**, in the popular sense, is a general explanatory pattern or principle that recurs across many domains and that helps you understand, predict and decide. The idea has been popularised by Charlie Munger's "latticework of mental models", by Shane Parrish's *Farnam Street*, and by various books; it rests on the sound cognitive point that a repertoire of abstract structures, each learned with multiple varied examples, is the most transferable knowledge one can have.
+
+Some models with broad reach, grouped:
+
+**Thinking about causes and systems**
+- *Feedback loops* (reinforcing and balancing) — why things spiral or stabilise
+- *Stocks and flows* — accumulations versus rates; why systems lag
+- *Bottlenecks and constraints* — throughput is set by the narrowest point (Goldratt; also, in learning, working memory)
+- *Second-order effects* — the consequences of consequences
+- *Emergence* — system-level behaviour not present in the parts
+- *Equilibrium and homeostasis*
+
+**Thinking about probability and evidence**
+- *Base rates* and Bayesian updating — prior probability matters
+- *Regression to the mean* — extreme results are usually followed by less extreme ones
+- *Selection and survivorship bias* — what you see is filtered
+- *Correlation is not causation* — and the specific confounds to look for
+- *Expected value* and the distinction between decision quality and outcome quality
+- *Signal versus noise*; *sample size*
+
+**Thinking about people and incentives**
+- *Incentives shape behaviour* ("show me the incentive and I'll show you the outcome")
+- *Principal–agent problems*
+- *Goodhart's law* — when a measure becomes a target, it ceases to be a good measure
+- *Social proof and conformity*; *commitment and consistency*
+- *The fundamental attribution error*
+
+**Thinking about change and scale**
+- *Compounding* — small consistent gains become enormous; small consistent losses too
+- *Exponential versus linear growth*, and why humans misjudge the former
+- *Power laws* and the 80/20 distribution
+- *Diminishing returns*; *S-curves*
+- *Economies and diseconomies of scale*
+
+**Thinking about decisions**
+- *Opportunity cost* — the real cost of anything is what you gave up
+- *Sunk cost* — past investment is irrelevant to the decision
+- *Reversibility* — treat one-way doors differently from two-way doors
+- *Inversion* — ask how you'd fail, and avoid that
+- *Margin of safety*; *the map is not the territory*
+- *Occam's razor*; *Hanlon's razor*; *Chesterton's fence*
+
+**Thinking about learning itself** (the models of this guide)
+- *Learning versus performance*; *desirable difficulty*
+- *The forgetting curve* and *spacing*
+- *Working memory as bottleneck*; *chunking*
+- *The fluency illusion*
+- *Transfer requires abstraction*
+
+#### How to actually acquire mental models
+
+A list of models is inert knowledge par excellence — precisely the thing this chapter warns about. Reading the list does nothing. What makes a model usable is exactly what makes anything transferable:
+
+1. **Multiple, varied, concrete examples** of each — from different domains, explicitly compared.
+2. **A one-sentence statement of the abstract structure**, in your own words.
+3. **Knowing where it *doesn't* apply** — the boundary conditions and the failure modes.
+4. **Deliberate practice at recognition**: when reading news, analysing a problem, making a decision — "which models apply here?" — with the answer checked.
+5. **Spaced retrieval**: revisit the models; generate fresh examples.
+6. **Use in your own reasoning and writing**, which is the transfer itself.
+
+A dozen models deeply learned this way outperform a hundred skimmed.
+
+### Transfer in practice: a routine
+
+For any important thing you learn:
+
+- **Abstract it.** What is the general principle? State it without reference to this example.
+- **Multiply it.** Find or generate two more examples with different surfaces. Compare them explicitly.
+- **Bound it.** Find a case that looks similar but where the principle doesn't apply. Why not?
+- **Connect it.** What else in your knowledge does this resemble structurally? What is it a special case of? What is a special case of it?
+- **Bridge it.** Where in your work or life would this apply? Write down one concrete situation.
+- **Retrieve it in a new form.** Days later, ask yourself not "what was the principle?" but "here's a new situation — does anything I know apply?"
+
+> [!KEY]
+> Knowledge transfers when it has been *abstracted* — separated from the surface features of the situation where it was learned — and that abstraction is produced by comparing varied examples, stating principles explicitly, understanding why rather than just how, practising with mixed and varied problems, and habitually asking "where else does this apply?" Knowledge learned from one example, as a procedure, in a single context, will stay there.
+
+> [!PRACTICE]
+> Take one principle you learned this week. Write it as an abstract statement with no reference to the context you learned it in. Then write two examples from completely different domains. Then one near-miss: a case that resembles the examples but where the principle fails, and why. If you cannot do the last two, you have learned an example, not a principle — and now you know what to work on.
+
+The next chapter covers the most demanding — and most transferable — thing a learner can do with knowledge: use it to solve problems and to teach.
+
+---
+
+# 20. Problem solving, the Feynman technique and learning by teaching
+
+*How to get better at solving problems — Pólya's method, heuristics, focused and diffuse thinking, the Einstellung trap — and why explaining things to others (or to a rubber duck) is one of the most powerful learning acts available, with the evidence for the "protégé effect".*
+
+### Problem solving as the test of understanding
+
+Everything in this guide aims at knowledge you can use, and the purest use of knowledge is solving a problem you have not seen before. Problem-solving ability is what distinguishes a learner who has understood from one who has memorised; it is what employers, examiners and life actually test; and it is itself a skill that improves with the right kind of practice.
+
+This chapter has two halves. The first is about solving problems: the general strategies, the cognitive traps, and how to practise. The second is about the most underused learning technique of all — explaining and teaching — and why it works so well.
+
+### How experts solve problems
+
+Research comparing experts and novices in physics, mathematics, medicine, chess and programming finds consistent differences, and they are not about raw intelligence:
+
+- **Experts categorise problems by deep structure** ("this is a conservation problem") while novices categorise by surface ("this is a problem about a ramp"). The expert's first move is to identify the *type*, which brings the relevant schema and approach with it.
+- **Experts work forward from the givens** using known principles; novices work backward from the goal via means–ends search ("I need X; what gives X? I need Y for that…"), which is slow and heavy on working memory (Larkin et al., 1980).
+- **Experts spend more time on representation** — understanding the problem, drawing a diagram, restating it — before computing. Novices dive into calculation.
+- **Experts monitor themselves**, noticing when an approach isn't working and switching; novices persist.
+- **Experts have vastly more chunks** — familiar patterns that make the problem's structure visible at a glance ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)).
+
+Notice that most of these are teachable habits, and the last is the product of practice.
+
+### Pólya's four phases
+
+George Pólya's *How to Solve It* (1945) remains the best general framework, and its four phases map onto what experts do:
+
+#### 1. Understand the problem
+
+Before anything else: what is being asked? What are the givens? What are the unknowns? What are the conditions connecting them? Restate the problem in your own words. Draw a figure. Introduce notation. Ask: is there enough information? Is it consistent? What kind of problem is this?
+
+Most failed solutions fail here — the solver started working on a problem slightly different from the one posed. Spending a third of your time on understanding is not slow; it is how experts work.
+
+#### 2. Devise a plan
+
+Find the connection between givens and unknowns. Pólya's heuristics — questions to ask yourself when you don't know what to do — remain the core toolkit:
+
+- **Have you seen a problem with the same unknown?** Related problems and their methods are the first place to look.
+- **Can you think of a related, simpler problem?** Solve a special case, a smaller version, a version with a constraint removed. Then generalise.
+- **Can you restate the problem?** In different terms, in a different representation (algebraic → geometric; verbal → diagram).
+- **Work backward.** Start from the goal and ask what would immediately produce it.
+- **Decompose.** Split into sub-problems; solve each.
+- **Vary the problem.** Drop a condition and see what happens; add one; consider the extreme cases.
+- **Look for a pattern.** Try small cases; tabulate; guess the rule; then prove or check it.
+- **Use all the data.** Have you used every given? If not, why is it there?
+- **Introduce auxiliary elements.** A construction line, a helper variable, an intermediate quantity.
+- **Consider the inverse / contrapositive / complementary problem.**
+
+#### 3. Carry out the plan
+
+Execute carefully. Check each step. When it stalls, return to phase 2 rather than pushing harder on a plan that isn't working.
+
+#### 4. Look back
+
+The phase everyone skips and the one that produces most of the *learning*. Check the result: does it make sense? Are the units right? Does it satisfy the conditions? Could you have got it another way? Can you use the method or the result for another problem? What was the key insight — and what kind of problem does it generalise to?
+
+Looking back is where a solved problem becomes a transferable schema ([Chapter 19](#19-transfer-analogy-and-mental-models)). Skipping it is why students can solve fifty problems and learn from none.
+
+### Focused and diffuse thinking
+
+Barbara Oakley popularised, in *A Mind for Numbers* and the *Learning How to Learn* course, a distinction that captures something real about problem solving: two modes of thought.
+
+**Focused mode** is deliberate, attentive, sequential — working through a problem with concentration, following known paths. It is what most of this guide is about and it is essential.
+
+**Diffuse mode** is relaxed, wide-ranging, associative — the mind wandering, making distant connections, not trying. It is what happens in the shower, on a walk, or when you've stopped working on the problem.
+
+The neuroscience behind this is real, if less tidy than the metaphor: focused attention engages task-positive control networks and *suppresses* the default-mode network, which is associated with associative and self-generated thought; when focus relaxes, the default network re-engages and can produce novel combinations. The relevant behavioural findings:
+
+- **Incubation effects are real but modest.** Sio and Ormerod's 2009 meta-analysis found that taking a break from a problem improves later solution rates, especially for creative and divergent problems and when the break involves an undemanding task rather than a demanding one.
+- **Fixation is the enemy.** Much of incubation's benefit comes from *forgetting the wrong approach*: when you return, you are less locked into the path that wasn't working.
+- **Sleep produces insight.** Wagner et al. (2004) found that sleeping after working on a problem more than doubled the chance of discovering a hidden shortcut ([Chapter 22](22-sleep.md)).
+
+The practical pattern: work hard in focused mode until genuinely stuck, then *stop* — walk, do something undemanding, sleep — and return. Don't skip the focused work (diffuse mode has nothing to work with otherwise), and don't skip the break (focused mode gets stuck in ruts).
+
+#### Einstellung: the mental set trap
+
+Luchins' (1942) water-jar experiments showed that people who solved a series of problems with one method continued to use it even when a much simpler method was available — and even when it no longer worked. The **Einstellung effect** (mental set) is the tendency to see a new problem through the lens of recent solutions. It is a cost of expertise and of blocked practice: the more automatic an approach, the harder it is to notice it doesn't fit. Countermeasures: interleaved practice (which trains method selection), the habit of spending time on representation before choosing a method, and the deliberate question "what other approach could work?" before committing.
+
+### Practising problem solving
+
+Problem-solving skill in a domain comes overwhelmingly from solving problems in that domain — with the following adjustments to make the practice deliberate ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)):
+
+- **Attempt before looking.** Time-boxed genuine effort before consulting the solution. The struggle is where learning happens; the solution then lands on prepared ground.
+- **When stuck, use heuristics, not the answer key.** Run through Pólya's questions. Simplify. Draw. Try a special case. Only when heuristics are exhausted, look at a hint — the smallest hint that unsticks you, not the whole solution.
+- **After solving, look back** — always. What type? What key idea? Where else?
+- **Self-explain solutions you had to look up**, step by step, and then re-solve from scratch a few days later.
+- **Mix problem types** so that recognising the type is part of the practice.
+- **Do problems without the chapter's methods labelled** — cumulative sets, old exams, problems from other sources.
+- **Keep an error log**: not just wrong answers but *why* — misread the problem, wrong type identified, computational slip, missing knowledge. Patterns in the log tell you what to practise.
+- **Work at the right level.** Problems you can do instantly are review; problems you can't touch after ten minutes need prerequisites. The middle — solvable with real effort — is where skill grows.
+- **Do fewer problems more thoroughly** rather than many superficially. Twenty problems solved, looked back on and re-solved beat a hundred done once.
+
+### The other half: learning by teaching
+
+#### The protégé effect
+
+Everyone who has taught knows that you understand something differently after explaining it. The research confirms this and shows the effect is large.
+
+The **protégé effect** — the finding that people learn more when they learn in order to teach others — has been demonstrated repeatedly. Bargh and Schul (1980) found students who studied a passage *expecting to teach it* learned more than those expecting a test, even though none actually taught. Nestojko et al. (2014) replicated this: the expectation of teaching alone improved recall and organisation of the material. Fiorella and Mayer (2013, 2014) found that students who *actually* explained the material to others (on video) outperformed those who merely expected to, and that the benefit persisted a week later. Chase et al.'s (2009) "teachable agents" — students teaching a computer character — learned more and worked harder than students learning for themselves.
+
+Kobayashi's 2019 meta-analysis of learning-by-teaching studies found a moderate positive effect (g ≈ 0.3–0.5), larger when the teaching was interactive (the learner had to answer questions) and when it involved actual explanation rather than just preparation.
+
+#### Why it works
+
+Teaching combines almost every effective technique in this guide:
+
+- **Retrieval.** To explain, you must recall — and recall in an organised, connected way.
+- **Elaboration and organisation.** You must decide what's important, sequence it, connect it, find examples.
+- **Generation.** You produce the explanation rather than receiving it.
+- **Metacognition.** Gaps become glaringly obvious: you reach a point where you can't explain and you know precisely what you don't understand. This is the fluency illusion being punctured in real time.
+- **Motivation and attention.** Expecting to teach changes how you study — more carefully, more structurally — and an audience, even an imagined one, focuses attention.
+- **Questions.** A learner's questions expose assumptions and force you to articulate what was tacit.
+
+#### The Feynman technique
+
+Named after Richard Feynman, who was famous for explaining physics in plain language and who reportedly said that if you can't explain something simply you don't understand it. The technique, as popularised:
+
+1. **Choose a concept** and write its name at the top of a blank page.
+2. **Explain it in plain language**, as if to a bright twelve-year-old (or a friend outside the field). No jargon. Use examples. Write it out.
+3. **Identify the gaps.** Wherever you hesitated, reached for jargon, hand-waved, or couldn't produce an example — that's a gap. Go back to the source and fill it.
+4. **Simplify and use analogies.** Rewrite until the explanation is clear and simple, with an analogy where one helps.
+
+There is no direct research on "the Feynman technique" by name, but every component is well supported: it is retrieval (from memory), self-explanation, generation, elaboration with concrete examples, and metacognitive monitoring, in one procedure. The "plain language" constraint is important: jargon lets you feel you've explained when you've only labelled. The "to a twelve-year-old" constraint forces you to find the actual idea.
+
+Its limit is the same as self-explanation's: explaining wrongly with confidence entrenches error. Check the explanation against a good source, or against someone who knows.
+
+#### Rubber-duck debugging and talking aloud
+
+Programmers know that explaining a bug aloud — to a colleague, or famously to a rubber duck on the desk — often reveals the problem before the listener says a word. The mechanism is the same: articulation forces sequential, explicit reconstruction of your reasoning, and the assumption you hadn't noticed becomes visible when you have to say it. This works for any problem. Talking through your reasoning aloud (or writing it out) is a form of self-teaching available at any moment.
+
+#### How to use teaching to learn
+
+- **Study as if you'll have to teach it.** Even without an audience, adopting the frame improves organisation and retention.
+- **Actually explain — aloud or in writing — from memory.** Not with the notes open. The gaps only show when you have to produce.
+- **Teach a real person when you can.** A study partner, a classmate who's behind, a friend, a family member, an online forum. Their questions are worth more than your monologue.
+- **Answer questions in communities.** Stack Overflow, subject forums, language-exchange groups. Formulating an answer for a stranger is deliberate practice at explanation with feedback.
+- **Write explanations.** Blog posts, study guides, answers to imagined FAQs. Writing forces linearity and completeness.
+- **Make and then teach a "one-page explanation"** of each major topic — the Feynman technique with a spaced revisit.
+- **Tutor.** The tutor typically learns more than the tutee. If you can find someone to tutor in what you're learning, do.
+- **Reverse the roles in a study group.** Each person teaches a topic to the rest; the rest question.
+
+### Bringing the halves together
+
+Problem solving and teaching are the two most demanding uses of knowledge, and for that reason the two most powerful for building it. A study routine that ends every topic with (a) a set of problems solved with Pólya's look-back and (b) a plain-language explanation produced from memory will produce knowledge that is deep, connected, transferable and durable — the opposite of inert.
+
+> [!RESEARCH]
+> Fiorella and Mayer (2013) had students study a lesson on the Doppler effect under three conditions: study for a test; study expecting to teach; study and then actually teach (record a video explanation). On an immediate test, both teaching groups beat the test-prep group. A week later, only the group that had *actually taught* retained the advantage — the expectation alone faded, but the act of explaining produced durable learning.
+
+> [!PRACTICE]
+> Choose the most important concept from what you studied this week. Take a blank page. Explain it, in writing, in plain language, to an imagined intelligent fourteen-year-old, with one example — from memory, no notes. Mark every place you hesitated or used a technical term you couldn't unpack. Those marks are the precise coordinates of what you don't yet understand. Fill them, then rewrite. Save the page: it is both your best study note and a record of the moment you actually learned the thing.
+
+Solving and teaching both depend on getting good information about how you're doing. The final chapter of Part II is about feedback: how to get it, how to use it, and how to give it.
+
+---
+
+# 21. Feedback — getting it, using it, giving it
+
+*Why feedback is the most powerful and most variable influence on learning — what kinds work, when to get it, why praise and grades often backfire, how to seek and process feedback as a learner, and how to give feedback that improves someone else's learning.*
+
+### The most powerful and most dangerous influence
+
+Kluger and DeNisi's 1996 meta-analysis of feedback interventions is one of the most sobering documents in educational research. Across 607 effect sizes, feedback improved performance on average (d ≈ 0.4) — but in **more than a third of cases, feedback made performance worse**. Hattie and Timperley's 2007 review put feedback among the most powerful influences on achievement, and among the most variable. Wisniewski, Zierer and Hattie's 2020 meta-analysis of 435 studies found an average effect of d ≈ 0.48 with enormous heterogeneity depending on type.
+
+Feedback, in other words, is not automatically good. Whether it helps depends on *what information it carries*, *what it directs attention to*, *when it arrives*, and *how the learner processes it*. Done well, it is the mechanism by which practice becomes deliberate practice and errors become learning. Done badly, it distracts, discourages and misdirects.
+
+### What feedback is for
+
+Feedback closes the gap between where you are and where you're trying to get. Hattie and Timperley frame it as answering three questions:
+
+- **Where am I going?** (What is the goal? What does good performance look like?)
+- **How am I going?** (Where is my current performance relative to that goal?)
+- **Where to next?** (What specifically should I do to close the gap?)
+
+Feedback that answers all three is powerful. Feedback that answers only the second — "you got 62%", "this is wrong", "good job" — is weak, because it provides no direction. Feedback that answers none — praise or criticism of the person — is worse than nothing.
+
+### Levels of feedback: what it points at
+
+Hattie and Timperley identify four levels at which feedback can operate, with sharply different effects.
+
+**Task level** — is the answer correct? what is the correct answer? Useful, especially for novices and for factual material; this is the feedback that makes retrieval practice work. Limited: it doesn't help with the next, different task.
+
+**Process level** — how was the task approached? what strategy would work better? ("You applied the formula correctly but misidentified the type of problem; look at the units of the givens first.") Highly effective, because it generalises to future tasks. This is the feedback that builds skill.
+
+**Self-regulation level** — how well is the learner monitoring and directing themselves? ("You checked your answer against the first condition but not the second." "You spent all your time on the part you already know.") Very effective for learners who have enough skill to act on it; it builds independence.
+
+**Self level** — praise or criticism of the person. "You're so smart." "Great effort." "You're a natural." This is the most common form of feedback and the least effective — in Kluger and DeNisi's analysis, feedback directed at the self was the type most likely to *reduce* performance, because it directs attention to the ego rather than the task, and because praise for ability makes subsequent failure threatening (Mueller & Dweck, 1998: children praised for intelligence subsequently chose easier tasks and performed worse than children praised for effort or strategy).
+
+The clear implication for learners: **seek process-level and self-regulation-level feedback**, and treat task-level feedback as the minimum. For teachers, parents and peers: give feedback about the work and the approach, never about the person.
+
+### Timing
+
+The intuition that feedback should always be immediate is wrong in an interesting way.
+
+**Immediate feedback** is best for: initial learning of procedures and skills (so errors don't get practised), motor skills where the learner can't detect the error themselves, and novices generally.
+
+**Delayed feedback** is often better for: retention of factual and conceptual material (Butler, Karpicke & Roediger, 2007 — feedback given a day after a test produced better final retention than immediate feedback, because it added a spaced re-exposure and required re-retrieval of the question); developing self-assessment (if you always get told immediately, you never practise judging yourself); and for learners with some competence, who benefit from having to detect their own errors first.
+
+A practical resolution: for *skills*, get feedback fast enough that you don't consolidate errors; for *knowledge*, doing the whole set before checking, and rechecking the next day, beats item-by-item confirmation. And in both cases, **try to evaluate your own performance before receiving feedback** — that turns the feedback into a calibration event for your metacognition as well as a correction ([Chapter 13](#13-metacognition-knowing-what-you-know)).
+
+### Why feedback fails
+
+Kluger and DeNisi's analysis and later work identify the failure modes:
+
+- **It directs attention to the self.** Praise, criticism, comparison to others, grades that function as identity labels. The learner thinks about what the feedback means about them instead of what to do.
+- **It's outcome-only.** A grade or score with no information about *why* or *what next*.
+- **It's too much at once.** Ten corrections on a piece of writing overload working memory; the learner fixes none.
+- **It's not actionable.** "Be clearer." "Think more carefully." "Work on your technique." The learner agrees and doesn't know what to do.
+- **It arrives too late to matter** — after the course has moved on, after the next attempt.
+- **The learner doesn't process it.** Feedback glanced at, filed, or received defensively produces no change. Feedback works only when the learner engages with it: reads it, understands it, and does something.
+- **Grades crowd out comments.** Butler (1988) found that students given comments only improved; students given grades only did not; students given *both* performed like the grades-only group — they looked at the grade and ignored the comment. If you receive graded work, read the comments first, and ideally before seeing the grade.
+
+### Getting feedback as a learner
+
+Self-directed learners have a feedback problem: no teacher marks the work. Building feedback into your own learning is therefore a core skill.
+
+#### Build objective checks
+
+- **Answer keys, test suites, solution manuals** — task-level feedback that is available for much technical material. Use them *after* attempting, and use them to diagnose, not just to score.
+- **Recordings.** Record yourself speaking the language, playing the piece, giving the talk. Listening back is unpleasant and is the single richest self-feedback source for performance skills.
+- **Comparison with exemplars.** Put your work beside an expert's: your proof against the textbook's, your essay against a model, your code against a reference implementation. Ask specifically what the expert did that you didn't.
+- **Predictions.** Before checking anything, predict the answer, the outcome, your score. Comparing prediction to result is feedback on your understanding *and* your calibration.
+- **Delayed retrieval** ([Chapter 8](#8-retrieval-practice-the-testing-effect)). Every self-test is feedback on what you actually know.
+
+#### Get human feedback
+
+- **Ask specifically.** "What do you think?" gets politeness. "Where did my argument lose you?" "What's the one thing that would most improve this?" "Which of these three options is weakest and why?" gets information.
+- **Ask for process feedback.** "What would you have done differently?" "How would an expert approach this?"
+- **Find a community.** Language partners, coding review, critique groups, subject forums, study partners. Feedback from peers is less expert but faster and more abundant, and giving it (below) is itself learning.
+- **Find an expert for occasional calibration.** A few sessions with a good teacher can reveal systematic errors that years of self-study wouldn't ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)).
+- **Make it easy for people to be honest.** Ask for the negatives explicitly. Thank people for criticism. Don't defend — clarify if needed, then take it away.
+
+#### Process it
+
+Feedback you don't act on is noise. A routine:
+
+1. **Read or listen fully before reacting.** Emotional defensiveness is the normal first response; wait it out.
+2. **Separate the signal from the tone.** Badly delivered feedback can still be accurate.
+3. **Identify what is actionable.** Translate each point into something you could do differently. Discard what you can't act on.
+4. **Look for patterns across feedback events.** One comment is data; the same comment three times is a diagnosis.
+5. **Decide, and do.** Pick the one or two changes with the most leverage. Apply them on the next attempt.
+6. **Check.** Did the change work? That's the next feedback loop.
+7. **Record.** An error log or feedback log turns individual corrections into a map of your development.
+
+#### Handling the emotion
+
+Feedback stings. The sting is why learners avoid seeking it, argue with it, and forget it. Some reframes that help, all consistent with the research on beliefs about ability ([Chapter 26](26-mindset-beliefs.md)):
+
+- Feedback is information about the *work*, not a verdict on *you*. The self-level interpretation is the one that damages learning; refuse it.
+- Negative feedback early is cheaper than negative outcomes late.
+- The people who improve fastest are those who seek out the most critical feedback, not the least.
+- An error identified is an error you will not make in the exam, the performance, the interview.
+
+### Giving feedback that helps others learn
+
+Whether you're a teacher, a tutor, a parent, a manager, a study partner or a colleague, the research gives clear guidance.
+
+**Focus on the task and the process, not the person.** "This paragraph makes two claims without connecting them" — not "you're a disorganised writer". "You solved this by trial and error; the units would have told you it's a rate problem" — not "you're careless".
+
+**Be specific and actionable.** Every comment should imply something the learner can do. If you can't say what they should do differently, the comment isn't ready.
+
+**Answer all three questions**: what the goal is, where they are relative to it, and what to do next.
+
+**Limit the volume.** Two or three points that matter most, not everything you noticed. Cognitive load applies to feedback too.
+
+**Prefer comments to grades**, or deliver comments first and grades later. Where grades are required, don't let them arrive at the same time as the comments you want read.
+
+**Avoid ability praise.** "You're so smart" produces fragility. If praising, praise the strategy, the effort directed well, the specific thing done well — and be honest; children and adults detect empty praise and discount everything that follows.
+
+**Get the learner to act on it.** Feedback with a required response — revise and resubmit; explain the correction; try again — produces far more learning than feedback that's merely delivered.
+
+**Ask before telling.** "What do you think went wrong?" "What would you do differently?" builds the self-regulation level and often reveals the learner has already diagnosed it. Feedback the learner generates is better remembered than feedback received.
+
+**Time it.** Fast for skills and for beginners; a little delayed for knowledge and for competent learners who can benefit from self-evaluation first.
+
+**Be honest.** Learners consistently prefer accurate, useful, even critical feedback to reassurance — and lose trust in sources that only praise.
+
+### The feedback loop as the unit of learning
+
+Step back and every effective technique in this guide is a feedback loop. Retrieval practice: attempt, check, correct. Deliberate practice: attempt, feedback, refine. Metacognition: predict, test, recalibrate. Problem solving: plan, execute, look back. Teaching: explain, hit a gap, fill it. The speed and quality of the loop determine the speed and quality of learning. Everything about designing your own learning comes down to shortening the loop and improving the information that runs through it.
+
+> [!KEY]
+> Feedback helps when it tells you *what the goal is*, *where you are*, and *what to do next*, at the level of the task and the process — not the self. Seek it deliberately, build it into your own practice where nobody provides it, evaluate yourself before receiving it, act on it, and log it. When you give it, talk about the work, be specific and brief, and make the learner do something with it.
+
+> [!PRACTICE]
+> Take a piece of your own work from the past month — an essay, a solution set, a recording, a program. Before looking at any external feedback, write your own: three specific, actionable observations about the process, not the person. Then compare with whatever feedback you did receive, or ask someone for it. Notice where your self-assessment matched and where it didn't. The mismatches are where your metacognition needs work; the matches are where you can now trust yourself.
+
+Part II is complete: you have the toolkit. Part III turns to the conditions that make it usable — sleep, body, emotion, motivation, habits, time and flow. It begins with the one that most learners sacrifice first and should sacrifice last.
 
 ---

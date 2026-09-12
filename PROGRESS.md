@@ -20,6 +20,7 @@ delivered as (a) a static website in `site/` and (b) a single Markdown adaptatio
 ## Log
 
 - 2026-09-12 00:40 — Sandbox reset; lost unpushed ch04. Merged branch into main, deleted branch. Rewriting ch04.
+- 2026-09-12 ~02:00 — Part I (ch01–07) and Part II (ch08–21) written and pushed. 50.7k words. Build OK; remaining validate errors are only forward links to unwritten chapters.
 
 - 2026-09-12 00:20 — Repo had only CLAUDE.md. Created branch `genspark_ai_developer`.
   Plan: scaffold (this file, README, build.py, validate.py, CSS) → research notes → chapters
@@ -27,7 +28,7 @@ delivered as (a) a static website in `site/` and (b) a single Markdown adaptatio
 
 ## Next step
 
-Write remaining chapters in order (see plan below); after each chapter: build.py, commit, push main. Ch01–03 done.
+Write Part III: ch22-sleep next, then 23..29; then Part IV 30..38; Part V 39..45. After each: build, commit, push main.
 
 ## Chapter plan (target ~40 chapters, each 2,000–6,000 words)
 

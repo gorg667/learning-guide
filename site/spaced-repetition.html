@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spaced repetition — the spacing effect and how to schedule it · Learning How to Learn</title>
+<meta name="description" content="Why spreading study over time beats massing it, what the research says about optimal intervals, how spaced-repetition algorithms (Leitner, SM-2, FSRS) work, how to use Anki and similar tools without drowning in reviews, and how to space learning that doesn&#x27;t fit on flashcards.">
+<meta property="og:title" content="Spaced repetition — the spacing effect and how to schedule it">
+<meta property="og:description" content="Why spreading study over time beats massing it, what the research says about optimal intervals, how spaced-repetition algorithms (Leitner, SM-2, FSRS) work, how to use Anki and similar tools without drowning in reviews, and how to space learning that doesn&#x27;t fit on flashcards.">
+<meta property="og:type" content="article">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A7%A0%3C/text%3E%3C/svg%3E">
+<script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}</script>
+
+</head>
+<body class="">
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+  <button class="menu-btn" id="menu-btn" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+  <a class="brand" href="index.html">🧠 Learning How to Learn</a>
+  <div class="topbar-right">
+    <input type="search" id="search" placeholder="Search the guide…" aria-label="Search" autocomplete="off">
+    <a class="top-link" href="full.html" title="Whole guide on one page">Single page</a>
+    <a class="top-link" href="https://github.com/gorg667/learning-guide/blob/main/LEARNING_GUIDE.md" title="Markdown version" target="_blank" rel="noopener">Markdown</a>
+    <button class="theme-btn" id="theme-btn" aria-label="Toggle dark mode">◐</button>
+  </div>
+  <div id="search-results" class="search-results" hidden></div>
+</header>
+<div class="shell">
+  <nav class="sidebar" id="sidebar" aria-label="Chapters">
+    <a class="side-home" href="index.html">Contents</a>
+    <details><summary>Part I — Foundations: how learning actually works</summary><ul>
+<li><a href="introduction.html"><span class="num">01</span> Introduction — why learning how to learn is the master skill</a></li>
+<li><a href="what-learning-is.html"><span class="num">02</span> What learning actually is</a></li>
+<li><a href="the-learning-brain.html"><span class="num">03</span> The brain that learns — neuroplasticity and what actually changes</a></li>
+<li><a href="memory-systems.html"><span class="num">04</span> Memory systems — working memory, long-term memory, schemas and chunking</a></li>
+<li><a href="cognitive-load.html"><span class="num">05</span> Cognitive load theory — managing the bottleneck</a></li>
+<li><a href="attention-focus.html"><span class="num">06</span> Attention, focus and the myth of multitasking</a></li>
+<li><a href="desirable-difficulties.html"><span class="num">07</span> Desirable difficulties and the illusion of fluency</a></li>
+</ul></details>
+<details open><summary>Part II — The evidence-based toolkit</summary><ul>
+<li><a href="retrieval-practice.html"><span class="num">08</span> Retrieval practice — the testing effect</a></li>
+<li class="active"><a href="spaced-repetition.html"><span class="num">09</span> Spaced repetition — the spacing effect and how to schedule it</a></li>
+<li><a href="interleaving.html"><span class="num">10</span> Interleaving and variability — mixing it up</a></li>
+<li><a href="elaboration-generation.html"><span class="num">11</span> Elaboration, self-explanation and generation</a></li>
+<li><a href="dual-coding-examples.html"><span class="num">12</span> Dual coding, multimedia principles and worked examples</a></li>
+<li><a href="metacognition.html"><span class="num">13</span> Metacognition — knowing what you know</a></li>
+<li><a href="what-doesnt-work.html"><span class="num">14</span> What doesn&#x27;t work — myths, low-utility techniques and snake oil</a></li>
+<li><a href="note-taking.html"><span class="num">15</span> Note-taking that actually helps you learn</a></li>
+<li><a href="reading-to-learn.html"><span class="num">16</span> Reading to learn — deep reading, active reading and reading strategically</a></li>
+<li><a href="mnemonics.html"><span class="num">17</span> Mnemonics and memory techniques</a></li>
+<li><a href="deliberate-practice.html"><span class="num">18</span> Deliberate practice and the development of expertise</a></li>
+<li><a href="transfer-mental-models.html"><span class="num">19</span> Transfer, analogy and mental models</a></li>
+<li><a href="problem-solving-teaching.html"><span class="num">20</span> Problem solving, the Feynman technique and learning by teaching</a></li>
+<li><a href="feedback.html"><span class="num">21</span> Feedback — getting it, using it, giving it</a></li>
+</ul></details>
+  </nav>
+  <main id="main" class="content">
+
+<article class="chapter">
+  <header class="chapter-head">
+    <div class="crumbs"><a href="index.html">Contents</a> › <span>Part II — The evidence-based toolkit</span></div>
+    <h1><span class="chapter-num">Chapter 9</span>Spaced repetition — the spacing effect and how to schedule it</h1>
+    <p class="lede">Why spreading study over time beats massing it, what the research says about optimal intervals, how spaced-repetition algorithms (Leitner, SM-2, FSRS) work, how to use Anki and similar tools without drowning in reviews, and how to space learning that doesn't fit on flashcards.</p>
+    <p class="meta">2,721 words · 12 min read</p>
+  </header>
+  <div class="chapter-grid">
+    <div class="prose">
+<h2 id="the-spacing-effect">The spacing effect<a class="anchor" href="#the-spacing-effect" aria-label="link to section">#</a></h2>
+<p>Take a fixed amount of study time — say, four hours on a set of material. You can spend it in one block, or spread it over four one-hour sessions across two weeks. The total effort is identical. The outcome is not: on a test given some time later, the spaced schedule will produce substantially better retention, typically by a wide margin.</p>
+<p>This is the <strong>spacing effect</strong> (or <em>distributed practice effect</em>), first documented by Ebbinghaus in 1885 and confirmed since in hundreds of studies with every kind of learner and material — word lists, facts, concepts, mathematics, motor skills, surgical procedures, music, language. Cepeda and colleagues' 2006 meta-analysis of 254 studies found spaced practice outperformed massed practice in the overwhelming majority, and Dunlosky et al. (2013), in their landmark review of ten learning techniques, gave distributed practice their highest rating for utility, alongside practice testing.</p>
+<p>The size of the effect depends on the retention interval, but it is large. In Cepeda et al.'s 2008 study, the best spacing schedule roughly <em>doubled</em> retention relative to the worst at long delays. Meanwhile the massed schedule almost always <em>feels</em> more effective and produces higher performance on an immediate test — the learning-versus-performance trap in its purest form.</p>
+<h3 id="why-spacing-works">Why spacing works<a class="anchor" href="#why-spacing-works" aria-label="link to section">#</a></h3>
+<p>Several mechanisms contribute:</p>
+<ul><li><strong>Retrieval effort.</strong> After a gap, some forgetting has occurred, so re-encountering the material requires effortful reconstruction rather than fluent recognition. As <a href="memory-systems.html">Chapter 4</a> explained, storage strength grows most when retrieval strength has decayed. Massed repetition finds the memory at full retrieval strength, so each repetition adds almost nothing. (This is the <em>study-phase retrieval</em> account; it predicts, correctly, that spacing helps most when the second session involves actively recalling the first.)</li><li><strong>Encoding variability.</strong> Each session occurs in a slightly different context — mood, location, time, surrounding thoughts — so the memory acquires more retrieval cues.</li><li><strong>Consolidation.</strong> The gap allows sleep-dependent consolidation to occur between sessions, so the second session builds on a partially consolidated trace rather than an unstable one. At the cellular level, spaced stimulation triggers the protein synthesis needed for lasting change while massed stimulation does not (<a href="the-learning-brain.html">Chapter 3</a>).</li><li><strong>Deficient processing.</strong> During massed repetition, attention to the repeated item drops — it seems known, so the mind skims it. After a gap, it gets full processing again.</li></ul>
+<h2 id="what-the-research-says-about-intervals">What the research says about intervals<a class="anchor" href="#what-the-research-says-about-intervals" aria-label="link to section">#</a></h2>
+<h3 id="the-lag-effect-and-the-retention-interval-trade-off">The lag effect and the retention-interval trade-off<a class="anchor" href="#the-lag-effect-and-the-retention-interval-trade-off" aria-label="link to section">#</a></h3>
+<p>Not all gaps are equal. Longer gaps between sessions generally produce better long-term retention — up to a point — a finding called the <strong>lag effect</strong>. But the best gap depends on how long you need to remember.</p>
+<p>Cepeda, Vul, Rohrer, Wixted and Pashler (2008) ran the definitive study: over 1,300 participants learned facts, reviewed them after gaps from minutes to 105 days, and were tested after retention intervals from a week to nearly a year. The results:</p>
+<ul><li>For every retention interval there was an optimal gap, and gaps shorter or longer than the optimum did worse.</li><li>The optimal gap increased with the retention interval, but <em>not proportionally</em>. Roughly: <strong>optimal gap ≈ 10–20% of the retention interval</strong> for shorter intervals, falling to around 5–10% for very long ones.</li><li>Gaps that were <em>too long</em> hurt less than gaps that were <em>too short</em>. When in doubt, space more.</li></ul>
+<div class="table-wrap"><table><thead><tr><th style="text-align:left">You need to remember for</th><th style="text-align:left">Best gap before first review</th></tr></thead><tbody><tr><td style="text-align:left">1 week</td><td style="text-align:left">about 1 day</td></tr><tr><td style="text-align:left">1 month</td><td style="text-align:left">about 1 week</td></tr><tr><td style="text-align:left">2–3 months</td><td style="text-align:left">about 2 weeks</td></tr><tr><td style="text-align:left">1 year</td><td style="text-align:left">about 3–4 weeks</td></tr><tr><td style="text-align:left">Indefinitely</td><td style="text-align:left">expanding intervals: days → weeks → months</td></tr></tbody></table></div>
+<p>These figures are for a <em>single</em> review. With multiple reviews, the gaps should typically <strong>expand</strong>: each successful retrieval makes the memory more durable, so the next review can be later.</p>
+<h3 id="expanding-versus-equal-intervals">Expanding versus equal intervals<a class="anchor" href="#expanding-versus-equal-intervals" aria-label="link to section">#</a></h3>
+<p>The intuitive "expanding schedule" (1 day, 3 days, 7 days, 14 days…) has been compared against equal-interval schedules (5, 5, 5, 5 days) many times. The result is that <strong>both work well and the difference is small</strong>; expanding schedules have a slight advantage when the first interval is short enough that the first retrieval succeeds, and equal schedules do as well or better in some conditions (Karpicke &amp; Roediger, 2007; Karpicke &amp; Bauernschmidt, 2011). The important variables are that (a) there are gaps at all, (b) retrieval happens in each session, and © the total span covers a good fraction of the retention interval. Do not agonise over the exact schedule; do not let a schedule that's slightly wrong stop you from spacing.</p>
+<h3 id="how-many-sessions">How many sessions?<a class="anchor" href="#how-many-sessions" aria-label="link to section">#</a></h3>
+<p>Rawson and Dunlosky's successive-relearning work suggests a good target for durable factual/conceptual knowledge is <strong>three successful retrievals in three or more spaced sessions</strong>, followed by occasional maintenance retrievals at growing intervals. More sessions bring diminishing returns; fewer leave the memory fragile. For skills the number is far higher — hundreds or thousands of spaced repetitions — but the principle is the same.</p>
+<h2 id="spaced-repetition-software">Spaced-repetition software<a class="anchor" href="#spaced-repetition-software" aria-label="link to section">#</a></h2>
+<p>For anything that can be cast as a question with a checkable answer, software can manage the schedule for you. The idea is simple: each item gets its own review date; when you review it, you rate how well you recalled it; the software uses that rating to set the next date — sooner if you struggled, later if it was easy. Over thousands of items this is impossible to manage by hand and trivial for a program.</p>
+<h3 id="the-leitner-system-1972">The Leitner system (1972)<a class="anchor" href="#the-leitner-system-1972" aria-label="link to section">#</a></h3>
+<p>The pre-digital version. Cards live in numbered boxes. Box 1 is reviewed daily, box 2 every few days, box 3 weekly, and so on. A card you get right moves up a box; a card you get wrong goes back to box 1. It works and needs no technology; it is the mental model behind all the algorithms.</p>
+<h3 id="sm-2-supermemo-1987-and-ankis-classic-scheduler">SM-2 (SuperMemo, 1987) and Anki's classic scheduler<a class="anchor" href="#sm-2-supermemo-1987-and-ankis-classic-scheduler" aria-label="link to section">#</a></h3>
+<p>Piotr Woźniak's SM-2 algorithm assigns each item an <em>easiness factor</em>; after each review, the interval is multiplied by a factor derived from your rating (roughly ×2.5 for "good"), and lapses reset the interval. Anki, the most widely used free spaced-repetition program, used a variant of SM-2 as its default for its first fifteen years. It works well and is still what most people mean by "spaced repetition".</p>
+<p>Its weaknesses: the parameters are fixed, not learned from you; it treats all items similarly regardless of their real difficulty; and it has no explicit model of memory, so it cannot tell you your predicted retention or let you choose it.</p>
+<h3 id="fsrs-free-spaced-repetition-scheduler-2022">FSRS (Free Spaced Repetition Scheduler, 2022–)<a class="anchor" href="#fsrs-free-spaced-repetition-scheduler-2022" aria-label="link to section">#</a></h3>
+<p>FSRS, developed by Jarrett Ye and the open-spaced-repetition community, is a machine-learning scheduler built on an explicit three-component model of memory:</p>
+<ul><li><strong>Difficulty</strong> — how hard this particular item is for you;</li><li><strong>Stability</strong> — how long the memory will last before retrievability drops to 90%;</li><li><strong>Retrievability</strong> — the probability you can recall it right now.</li></ul>
+<p>Each review updates these; the parameters of the model are fitted to your own review history. The user chooses a <strong>desired retention</strong> (say 90%) and FSRS schedules each card for the moment its predicted retrievability falls to that level. Benchmarks on hundreds of millions of real Anki reviews from thousands of users show FSRS predicts recall considerably more accurately than SM-2, and users report <strong>20–30% fewer reviews for the same retention</strong>. It has been built into Anki since version 23.10 (November 2023) and is available in several other tools.</p>
+<p>For a learner, FSRS's practical advantages are: fewer reviews, an explicit retention target you can tune (lower it to 85% for low-stakes material to save time; raise it to 95% for exam-critical items), and the ability to skip "ease hell", the SM-2 failure mode where difficult cards get stuck on very short intervals forever.</p>
+<h3 id="tools">Tools<a class="anchor" href="#tools" aria-label="link to section">#</a></h3>
+<ul><li><strong>Anki</strong> — free (except the iOS app), open source, cross-platform, hugely extensible, supports FSRS. The default choice for serious use. Steeper learning curve.</li><li><strong>RemNote, Mochi, Obsidian spaced-repetition plugins</strong> — combine notes with spaced repetition; good if you want cards linked to your notes.</li><li><strong>SuperMemo</strong> — the original, Windows-only, with unique "incremental reading" features; niche.</li><li><strong>Quizlet, Brainscape, Memrise, Duolingo and other consumer apps</strong> — implement some form of spacing, usually less transparent and less tunable; fine for casual use.</li><li><strong>Paper (Leitner boxes)</strong> — still works for a few hundred cards.</li></ul>
+<p>The tool matters much less than the habit. A daily review of whatever comes due, done properly (recall before flipping), is what produces the result.</p>
+<h2 id="using-spaced-repetition-without-drowning">Using spaced repetition without drowning<a class="anchor" href="#using-spaced-repetition-without-drowning" aria-label="link to section">#</a></h2>
+<p>The most common failure with Anki is not the algorithm; it is the pile of 800 overdue cards after a fortnight away, followed by abandonment. Some rules from experienced users and from the research:</p>
+<p><strong>Limit new cards per day.</strong> Every new card creates future reviews — roughly 8–15 reviews over the following months. Twenty new cards a day is a sustainable load for most people (~100–200 reviews/day at steady state); fifty is punishing. When you feel the review load rising, reduce new cards before you burn out.</p>
+<p><strong>Review daily, even briefly.</strong> Spacing works because reviews happen approximately when scheduled. A daily five-to-thirty-minute habit beats sporadic marathons. Anki's review count is a good thing to check while waiting for the kettle.</p>
+<p><strong>Make cards that are small, precise and answerable in seconds.</strong> Long, vague or list-based cards are failed repeatedly, clog the queue and demoralise. If you keep failing a card, rewrite it or split it — don't just keep failing it.</p>
+<p><strong>Say the answer before flipping.</strong> Every time. Flipping without committing is not retrieval.</p>
+<p><strong>Prefer cards you made, understand and can explain.</strong> Downloading a 5,000-card deck for a subject you haven't studied is a fast route to memorising things you don't understand. Spaced repetition is for <em>retaining</em> what you have learned, not for learning it in the first place. Understand first, then card.</p>
+<p><strong>Use desired retention deliberately (FSRS).</strong> 90% is a good default. For exam-critical material, briefly raising to 95% in the final weeks costs more reviews but tightens recall. For "nice to know" material, 80–85% roughly halves the review load.</p>
+<p><strong>Don't card everything.</strong> Not all knowledge belongs on flashcards. Facts, vocabulary, definitions, formulas, key dates, anatomy, drug names, syntax — yes. Deep conceptual understanding, procedures, skills — spaced repetition still applies, but via spaced <em>problem-solving</em>, <em>explanation</em> and <em>practice</em>, not via cards. Over-carding is a way of feeling productive while avoiding the harder work.</p>
+<p><strong>Use it for maintenance, not just acquisition.</strong> Once you've passed the exam or finished the course, keep the deck. Twenty minutes a week can maintain years of learning that would otherwise evaporate. This is spaced repetition's most underused superpower: it makes knowledge <em>permanent</em> at very low cost.</p>
+<h2 id="spacing-without-flashcards">Spacing without flashcards<a class="anchor" href="#spacing-without-flashcards" aria-label="link to section">#</a></h2>
+<p>Spacing is a scheduling principle, not a card format. Everything you learn should be spaced, and most of it can't be put on a card.</p>
+<h3 id="spacing-a-course">Spacing a course<a class="anchor" href="#spacing-a-course" aria-label="link to section">#</a></h3>
+<p>If a course has weekly topics, a simple spacing plan is: study the new topic this week; briefly retrieve last week's; briefly retrieve the topic from a month ago. Many students do only the first. A weekly review session that covers, from memory, the last four weeks' topics in a few minutes each is a large gain for a small cost.</p>
+<h3 id="spacing-problem-solving">Spacing problem-solving<a class="anchor" href="#spacing-problem-solving" aria-label="link to section">#</a></h3>
+<p>Textbooks and courses usually present a topic and then a set of problems all about that topic. To space (and interleave) them: do a third of the problems now, a third next week mixed with next week's problems, and a third in a month. Doug Rohrer's work on maths learning shows this kind of schedule roughly doubles retention on delayed tests relative to conventional blocked practice (Rohrer &amp; Taylor, 2006, 2007).</p>
+<h3 id="spacing-skills">Spacing skills<a class="anchor" href="#spacing-skills" aria-label="link to section">#</a></h3>
+<p>Musicians, athletes and language learners already know that daily practice beats a weekly marathon. Within a domain, spacing also applies to <em>components</em>: revisit last month's piece, last month's grammar point, the drill you thought you had mastered. Spaced retrieval of skills you think you have already learned is what prevents the slow decay that most practitioners experience without noticing.</p>
+<h3 id="spacing-reading">Spacing reading<a class="anchor" href="#spacing-reading" aria-label="link to section">#</a></h3>
+<p>Reading a book once produces very little durable memory. Reading it once, then a week later spending fifteen minutes recalling and reviewing your notes, then a month later doing it again, produces a great deal. If a book matters, schedule the return visits when you finish it.</p>
+<h3 id="spacing-writing-and-projects">Spacing writing and projects<a class="anchor" href="#spacing-writing-and-projects" aria-label="link to section">#</a></h3>
+<p>Working on a piece of writing or a project in several sessions separated by days consistently produces better results than one long session — partly for the same consolidation reasons, and partly because sleeping on a problem is genuinely productive (<a href="sleep.html">Chapter 22</a>).</p>
+<h3 id="interleaving-as-automatic-spacing">Interleaving as automatic spacing<a class="anchor" href="#interleaving-as-automatic-spacing" aria-label="link to section">#</a></h3>
+<p>If you rotate among several topics rather than finishing one before starting the next, spacing happens automatically: each topic gets a gap while you work on the others. This is one of several reasons <a href="interleaving.html">interleaving</a> works.</p>
+<h2 id="building-a-spaced-schedule-for-an-exam">Building a spaced schedule for an exam<a class="anchor" href="#building-a-spaced-schedule-for-an-exam" aria-label="link to section">#</a></h2>
+<p>Suppose you have six weeks. A schedule that respects the evidence looks like this:</p>
+<ol><li><strong>Weeks 1–4: learn and card.</strong> Study each topic once, properly (understand, do problems, self-explain). Same day: brain dump. Create cards or questions for the factual layer. Start daily reviews (limit new cards).</li><li><strong>Every week from week 2: cumulative retrieval.</strong> One session per week retrieving <em>all</em> topics covered so far — brain dump per topic, or a mixed problem set spanning them.</li><li><strong>Weeks 5–6: consolidate.</strong> Stop adding new material. Daily reviews continue. Mixed practice tests under exam conditions, checking afterwards, re-testing errors two days later. Raise desired retention if using FSRS.</li><li><strong>The last 24 hours: light retrieval, then sleep.</strong> A quick pass over the review queue and the error list; no new material; a full night's sleep, which is worth more than any last-minute cramming.</li></ol>
+<p>Compare with the typical schedule — cover material week by week, never revisit, cram in the last three days — and the difference is not in hours but in <em>when</em> the hours fall.</p>
+<div class="callout callout-research"><div class="callout-title">What the research says</div><p>Kornell (2009) had students learn vocabulary either by studying a stack of flashcards in a single large deck (which produces spacing between repetitions of any given card) or by splitting the same cards into four small decks studied one after another (massing). Over 90% of students learned more with the large, spaced deck. But when asked, most believed the small massed decks had worked better. The spacing effect is invisible from the inside.</p></div>
+<h2 id="common-questions">Common questions<a class="anchor" href="#common-questions" aria-label="link to section">#</a></h2>
+<p><strong>"Doesn't spacing mean I forget things between sessions?"</strong> Yes. That's the point. The forgetting creates the effortful retrieval that builds durable memory. Aim for gaps where you <em>mostly</em> remember with effort — not so long that you're starting from zero.</p>
+<p><strong>"What if I don't have time to space it — the exam is in three days?"</strong> Then space within the three days: three sessions a day apart beat one long one. And test yourself rather than rereading in each. (Then read <a href="study-plans.html">Chapter 40</a> about how to avoid this next time.)</p>
+<p><strong>"Is cramming useless?"</strong> Cramming produces real short-term performance; if the only goal is tomorrow's test and you'll never need the material again, it works. Almost nothing you learn is like that. Cramming is a way of paying full price for knowledge and then throwing it away.</p>
+<p><strong>"I've heard of the '1-7-30 rule' / 'review after 1 day, 1 week, 1 month'."</strong> These fixed schedules are reasonable approximations of expanding intervals and far better than nothing. Software does it better because it adapts to each item and to you.</p>
+<div class="callout callout-practice"><div class="callout-title">Try this</div><p>Install Anki (or your preferred tool), enable FSRS, and set new cards to 10–20 per day. Make ten cards from something you learned this week — small, precise, in your own words. Review daily for two weeks, saying the answer aloud before flipping. Separately, put a weekly 30-minute "cumulative retrieval" slot in your calendar and, in it, brain-dump every topic from the last month. Two habits, less than half an hour a day, covering the two most powerful techniques in the science of learning.</p></div>
+<p>Retrieval tells you <em>what</em> to do and spacing tells you <em>when</em>. The next technique — interleaving — is about the <em>order</em>, and it is the one learners resist most.</p>
+    </div>
+    <aside class="toc"><div class="toc-title">On this page</div><ul><li class="lvl2"><a href="#the-spacing-effect">The spacing effect</a></li><li class="lvl3"><a href="#why-spacing-works">Why spacing works</a></li><li class="lvl2"><a href="#what-the-research-says-about-intervals">What the research says about intervals</a></li><li class="lvl3"><a href="#the-lag-effect-and-the-retention-interval-trade-off">The lag effect and the retention-interval trade-off</a></li><li class="lvl3"><a href="#expanding-versus-equal-intervals">Expanding versus equal intervals</a></li><li class="lvl3"><a href="#how-many-sessions">How many sessions?</a></li><li class="lvl2"><a href="#spaced-repetition-software">Spaced-repetition software</a></li><li class="lvl3"><a href="#the-leitner-system-1972">The Leitner system (1972)</a></li><li class="lvl3"><a href="#sm-2-supermemo-1987-and-ankis-classic-scheduler">SM-2 (SuperMemo, 1987) and Anki's classic scheduler</a></li><li class="lvl3"><a href="#fsrs-free-spaced-repetition-scheduler-2022">FSRS (Free Spaced Repetition Scheduler, 2022–)</a></li><li class="lvl3"><a href="#tools">Tools</a></li><li class="lvl2"><a href="#using-spaced-repetition-without-drowning">Using spaced repetition without drowning</a></li><li class="lvl2"><a href="#spacing-without-flashcards">Spacing without flashcards</a></li><li class="lvl3"><a href="#spacing-a-course">Spacing a course</a></li><li class="lvl3"><a href="#spacing-problem-solving">Spacing problem-solving</a></li><li class="lvl3"><a href="#spacing-skills">Spacing skills</a></li><li class="lvl3"><a href="#spacing-reading">Spacing reading</a></li><li class="lvl3"><a href="#spacing-writing-and-projects">Spacing writing and projects</a></li><li class="lvl3"><a href="#interleaving-as-automatic-spacing">Interleaving as automatic spacing</a></li><li class="lvl2"><a href="#building-a-spaced-schedule-for-an-exam">Building a spaced schedule for an exam</a></li><li class="lvl2"><a href="#common-questions">Common questions</a></li></ul></aside>
+  </div>
+  <nav class="pager"><a class="prev" href="retrieval-practice.html"><span>← Previous</span><strong>Retrieval practice — the testing effect</strong></a><a class="next" href="interleaving.html"><span>Next →</span><strong>Interleaving and variability — mixing it up</strong></a></nav>
+</article>
+
+  </main>
+</div>
+<footer class="site-footer">
+  <p>Learning How to Learn — The comprehensive, evidence-based guide to maximizing your ability to learn anything. Written for learners of every age. Text released under CC BY 4.0.</p>
+  <p><a href="index.html">Home</a> · <a href="full.html">Single page</a> · <a href="https://github.com/gorg667/learning-guide" target="_blank" rel="noopener">Source on GitHub</a></p>
+</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
