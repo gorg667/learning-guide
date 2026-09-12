@@ -85,3 +85,14 @@ Part V — Putting it together
  43 Annotated bibliography & further reading
  44 Glossary
  45 FAQ
+
+## Filenames already referenced by links (MUST use exactly these)
+08-retrieval-practice.md, 09-spaced-repetition.md, 10-interleaving.md, 11-elaboration-generation.md,
+12-dual-coding-examples.md, 13-metacognition.md, 14-what-doesnt-work.md, 15-note-taking.md,
+16-reading-to-learn.md, 17-mnemonics.md, 18-deliberate-practice.md, 19-transfer-mental-models.md,
+20-problem-solving-teaching.md, 21-feedback.md, 22-sleep.md, 23-exercise-nutrition.md,
+24-stress-emotion.md, 25-motivation.md, 26-mindset-beliefs.md, 27-habits-environment.md,
+28-time-management.md, 29-flow-difficulty.md, 30-languages.md, 31-mathematics.md, 32-programming.md,
+33-motor-skills-music.md, 34-lectures-video-books.md, 35-learning-with-ai.md, 36-lifespan.md,
+37-learning-with-others.md, 38-neurodivergence.md, 39-personal-system.md, 40-study-plans.md,
+41-troubleshooting.md, 42-cheat-sheet.md, 43-bibliography.md, 44-glossary.md, 45-faq.md
