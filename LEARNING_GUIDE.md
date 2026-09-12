@@ -2,7 +2,7 @@
 
 *The comprehensive, evidence-based guide to maximizing your ability to learn anything.*
 
-> This is the single-file Markdown edition of the guide (29 chapters, 68,628 words). The website edition, with navigation and search, lives in `site/`. Both are generated from the chapter sources in `content/` by `build.py`.
+> This is the single-file Markdown edition of the guide (38 chapters, 88,921 words). The website edition, with navigation and search, lives in `site/`. Both are generated from the chapter sources in `content/` by `build.py`.
 
 ## Contents
 
@@ -41,6 +41,17 @@
 27. [Habits, environment design and procrastination](#27-habits-environment-design-and-procrastination) — How to make effective learning automatic — the science of habit formation, cue–routine–reward loops, how long habits actually take, designing an environment that makes the right thing the easy thing, and what the research says about why we procrastinate and what actually helps.
 28. [Time management for learners](#28-time-management-for-learners) — How to structure study time — work blocks and breaks (Pomodoro and its alternatives), ultradian rhythms and chronotype, time-blocking, deep work, planning at the level of the week, estimating honestly, and how much study is enough.
 29. [Flow, boredom and the difficulty sweet spot](#29-flow-boredom-and-the-difficulty-sweet-spot) — Csikszentmihalyi's flow — what it is, when it happens, and its complicated relationship with learning; the zone of proximal development and the 85% rule; how to calibrate difficulty so that learning is engaging without being comfortable; and why flow is a good sign in practice but not the goal of it.
+**Part IV — Applying it to specific domains**
+
+30. [Learning languages](#30-learning-languages) — How to learn a second language as an adult — what second-language acquisition research says about input, output, vocabulary, grammar and pronunciation; how much time it really takes; honest evaluation of apps, classes, immersion and tutors; and a complete method built from the principles in this guide.
+31. [Learning mathematics and quantitative subjects](#31-learning-mathematics-and-quantitative-subjects) — How to learn maths, statistics, physics and other quantitative subjects — why understanding and fluency both matter, the role of worked examples and problems, how to read mathematics, dealing with maths anxiety, catching up on missing prerequisites, and a study method built for the domain.
+32. [Learning to program and other technical skills](#32-learning-to-program-and-other-technical-skills) — How to learn programming — what computing-education research says about novices, the roles of reading, writing, tracing and debugging code, tutorial hell and how to escape it, projects versus exercises, learning from documentation, and how to use AI coding assistants without stunting your growth.
+33. [Learning motor skills, music and sport](#33-learning-motor-skills-music-and-sport) — How physical skills are learned — the stages of motor learning, practice scheduling (blocked, random, variable), the role of feedback and its timing, attentional focus, slow practice and chunking in music, mental practice, sleep and offline gains, and how to structure a practice session that actually builds skill.
+34. [Learning from lectures, video, online courses and books](#34-learning-from-lectures-video-online-courses-and-books) — How to extract real learning from the formats most instruction comes in — live lectures, recorded video, MOOCs and online courses, podcasts and audiobooks, textbooks and non-fiction — including what the research says about playback speed, note-taking during video, why MOOC completion is so low, and how to build a course for yourself.
+35. [Learning with AI — what the evidence actually shows](#35-learning-with-ai-what-the-evidence-actually-shows) — A careful look at generative AI as a learning tool — the randomised trials that show large gains and the ones that show harm, why the difference is entirely about how it's used, the cognitive risks of offloading, a set of prompts and practices that make AI a tutor rather than a crutch, and what remains unknown.
+36. [Learning across the lifespan](#36-learning-across-the-lifespan) — How learning differs — and doesn't — for young children, school-age children, adolescents, adults and older adults; what changes in the brain and what compensates; the specific adjustments each stage needs; and guidance for parents helping children learn.
+37. [Learning with others — study groups, peers, mentors and communities](#37-learning-with-others-study-groups-peers-mentors-and-communities) — What the research says about collaborative learning, peer instruction and tutoring; how to run a study group that actually works (and why most don't); finding and using mentors; learning in communities of practice; accountability partners and body doubling; and the social side of motivation.
+38. [Learning with ADHD, dyslexia, autism and other differences](#38-learning-with-adhd-dyslexia-autism-and-other-differences) — What the research says about how ADHD, dyslexia, dyscalculia, autism and related conditions affect learning; which general strategies apply unchanged, which need adapting, and which specific approaches have evidence; and how to build a learning system around the brain you have rather than the one the textbooks assume.
 
 ---
 
@@ -1931,7 +1942,7 @@ The primary source for the first section is Dunlosky, Rawson, Marsh, Nathan and 
 
 **What the evidence says:** Attending to a well-designed presentation is a reasonable way to get *initial exposure* to material; it is not, by itself, learning in the durable sense. Retention from passive lecture attendance without active engagement is poor, mind-wandering rises steeply after the first ten to fifteen minutes, and the transient nature of speech means whatever you didn't encode in the moment is gone ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)). Freeman et al.'s 2014 meta-analysis of 225 studies found active-learning classrooms produced substantially better outcomes than traditional lectures and roughly halved failure rates.
 
-**Instead:** Watch or listen in segments; pause and retrieve; take notes as questions; do something with the content the same day ([Chapter 34](34-lectures-video-books.md)).
+**Instead:** Watch or listen in segments; pause and retrieve; take notes as questions; do something with the content the same day ([Chapter 34](#34-learning-from-lectures-video-online-courses-and-books)).
 
 #### Studying while distracted
 
@@ -1963,7 +1974,7 @@ Rauscher, Shaw and Ky (1993) found a brief improvement in one spatial reasoning 
 
 #### "Everything is fixed by age X"
 
-Sensitive periods exist for a few specific abilities; general learning capacity continues throughout life ([Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes), [Chapter 36](36-lifespan.md)).
+Sensitive periods exist for a few specific abilities; general learning capacity continues throughout life ([Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes), [Chapter 36](#36-learning-across-the-lifespan)).
 
 #### "Multitasking is a skill you can develop"
 
@@ -2326,7 +2337,7 @@ The genuine route to reading more is not reading faster; it is **reading less, b
 
 ### Reading in a second language
 
-Reading is one of the most effective ways to build vocabulary and grammar in a new language ([Chapter 30](30-languages.md)), provided the difficulty is calibrated. The research on *extensive reading* suggests material where you know roughly 95–98% of the words: hard enough to learn from, easy enough to follow and enjoy. Graded readers exist for this purpose. Below 90% known words, comprehension breaks down and the text becomes dictionary work.
+Reading is one of the most effective ways to build vocabulary and grammar in a new language ([Chapter 30](#30-learning-languages)), provided the difficulty is calibrated. The research on *extensive reading* suggests material where you know roughly 95–98% of the words: hard enough to learn from, easy enough to follow and enjoy. Graded readers exist for this purpose. Below 90% known words, comprehension breaks down and the text becomes dictionary work.
 
 ### A reading routine
 
@@ -3518,7 +3529,7 @@ The need to feel effective — to experience oneself as getting better and as ab
 
 The need to feel connected to others — to belong, to matter to someone, to be part of something. Learning that happens in a context of relatedness (a teacher who cares, a community, a study partner, a family that values it) is more motivated and more persistent. Isolation is a major cause of dropout in self-directed learning; the MOOC completion rates of 5–10% owe much to it.
 
-*Practically:* find or build the community — a class, a study group, a forum, an accountability partner, a mentor ([Chapter 37](37-learning-with-others.md)). Learn *with* and *for* people. Teach what you learn.
+*Practically:* find or build the community — a class, a study group, a forum, an accountability partner, a mentor ([Chapter 37](#37-learning-with-others-study-groups-peers-mentors-and-communities)). Learn *with* and *for* people. Teach what you learn.
 
 ### Expectancy-value theory
 
@@ -3796,7 +3807,7 @@ Wood's research finds that a large share of daily behaviour — around 40% in di
 
 #### Social environment
 
-Other people are the strongest environmental cue of all. Behaviour spreads through networks; you tend toward the norms of the people you spend time with (Christakis and Fowler's work on obesity, smoking and happiness spread; classroom studies of peer effects on effort). Practically: study alongside people who study (a library, a study group, a co-working session, even a video call with cameras on — "body doubling"); find a community whose norm is the behaviour you want; tell people your intentions so that social accountability operates; make a standing appointment with a partner, because you'll show up for them when you wouldn't for yourself ([Chapter 37](37-learning-with-others.md)).
+Other people are the strongest environmental cue of all. Behaviour spreads through networks; you tend toward the norms of the people you spend time with (Christakis and Fowler's work on obesity, smoking and happiness spread; classroom studies of peer effects on effort). Practically: study alongside people who study (a library, a study group, a co-working session, even a video call with cameras on — "body doubling"); find a community whose norm is the behaviour you want; tell people your intentions so that social accountability operates; make a standing appointment with a partner, because you'll show up for them when you wouldn't for yourself ([Chapter 37](#37-learning-with-others-study-groups-peers-mentors-and-communities)).
 
 ### Procrastination
 
@@ -3827,7 +3838,7 @@ Learning tasks tick every box: they are effortful; they involve uncertainty ("I 
 - **Focus on process, not outcome.** "I will spend 30 minutes on this" is achievable and controllable; "I will understand this" is neither, and the gap breeds avoidance.
 - **Bring the deadline closer.** Self-imposed intermediate deadlines with some external accountability (Ariely & Wertenbroch, 2002: students who set their own spaced deadlines performed better than those with a single final deadline, though worse than those with externally imposed spaced deadlines).
 - **Forgive yourself and start.** The research is clear that this works better than the alternative.
-- **Work alongside others.** Body doubling — the presence of another person working — reliably reduces procrastination for many people, especially those with ADHD ([Chapter 38](38-neurodivergence.md)).
+- **Work alongside others.** Body doubling — the presence of another person working — reliably reduces procrastination for many people, especially those with ADHD ([Chapter 38](#38-learning-with-adhd-dyslexia-autism-and-other-differences)).
 
 #### Structured procrastination
 
@@ -4138,5 +4149,1226 @@ The upper channel — challenge exceeding skill — produces anxiety, and anxiet
 > In your next three sessions, keep a rough tally of your success rate on whatever you're practising — problems solved, cards recalled, passages played cleanly. If it's above 90%, remove a scaffold or raise the target next time. If it's below 70%, add a scaffold, split the task, or go back a step. Aim to end up in the range where you're getting most of it right and having to work for all of it. Notice how the session *feels* in that range: absorbed, slightly stretched, occasionally frustrated, and — afterward — satisfied. That is the signature of learning at the right difficulty.
 
 Part III is complete: the body, the emotions, the motivation, the habits, the time and the difficulty that make effective learning sustainable. Part IV applies all of it to specific domains, starting with the one more adults attempt and abandon than any other: learning a language.
+
+---
+
+# Part IV — Applying it to specific domains
+
+# 30. Learning languages
+
+*How to learn a second language as an adult — what second-language acquisition research says about input, output, vocabulary, grammar and pronunciation; how much time it really takes; honest evaluation of apps, classes, immersion and tutors; and a complete method built from the principles in this guide.*
+
+### The domain most people fail at
+
+More adults attempt to learn a language than any other skill, and more abandon it. The failure rate is not evidence that adults can't learn languages — they demonstrably can ([Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes)) — but of three things: unrealistic expectations about time, methods that produce the feeling of progress without the substance, and the collapse of motivation in the long intermediate plateau. Each is addressable.
+
+### What a language is, cognitively
+
+A language is several distinct systems, learned differently:
+
+- **Vocabulary** — tens of thousands of form–meaning pairings. Largely declarative in early stages; the basis of everything else. The single strongest predictor of comprehension at every level.
+- **Grammar** — the patterns for combining words. Partly learnable as explicit rules (declarative), but *usable* only when proceduralised through massive exposure and practice.
+- **Phonology** — the sound system: perceiving and producing the distinctions the language makes. Largely perceptual and motor; the component most affected by age, and the one most neglected by adult learners.
+- **Pragmatics and formulaic language** — how things are actually said: fixed phrases, collocations, register, what native speakers say in this situation. Learned from exposure to real use, not from rules.
+- **Skills** — listening, reading, speaking, writing — which draw on the systems above but are each separate abilities that improve mainly through their own practice.
+
+The core error of most adult language study is treating the whole thing as declarative — memorising rules and words — and expecting fluent speech to emerge. It doesn't. Fluency is procedural and comes from enormous quantities of comprehension and production practice.
+
+### What the research says
+
+#### Input is the foundation
+
+Stephen Krashen's **input hypothesis** — that language is acquired by understanding messages slightly above one's current level ("comprehensible input") — is oversimplified in its strong form, but the central claim has held up: **the quantity of comprehensible input a learner processes is the largest single determinant of acquisition.** Vocabulary, grammar intuitions, collocations and pragmatics are absorbed overwhelmingly from exposure to the language in use — reading and listening — and no amount of explicit study substitutes.
+
+The input must be *comprehensible*: roughly, you should understand most of it (the research on extensive reading suggests 95–98% of words known for pleasurable, learning-productive reading). Input you don't understand is noise; input you understand perfectly teaches little. Graded readers, learner podcasts, comprehensible-input videos, and content on topics you already know are how beginners get enough understandable input.
+
+#### Output matters too
+
+Merrill Swain's **output hypothesis** and the broader research correct Krashen's neglect of production: speaking and writing force you to *notice* the gaps between what you want to say and what you can say, push you to process grammar rather than just meaning, and build the procedural fluency that comprehension alone does not. Learners with huge input and little output understand well and speak haltingly. Output should start early and be a large fraction of practice from the intermediate stage.
+
+#### Interaction and feedback
+
+Michael Long's **interaction hypothesis**: conversation — with its negotiation of meaning, clarification requests and corrective feedback — is especially powerful, because it provides input tuned to your level, forces output, and gives immediate feedback on comprehensibility. Conversation partners and tutors are valuable for this, not for explaining grammar.
+
+#### Explicit grammar helps, in its place
+
+The old debate between explicit instruction and pure acquisition has largely resolved. Norris and Ortega's (2000) meta-analysis and later work find that **explicit instruction produces durable gains**, particularly for adults, and particularly when combined with lots of input and practice. But explicit knowledge of a rule is not the ability to use it in speech; that comes from proceduralisation through practice. The productive sequence: brief explicit explanation of a pattern → noticing it in input → practising it in output → until it's automatic. Grammar study as the *primary* activity, with input and output as afterthoughts, is the classroom failure mode.
+
+#### Vocabulary: size, depth and how to get it
+
+- **Size.** Nation's research suggests about 2,000–3,000 word families cover roughly 90% of everyday spoken text; 6,000–9,000 for comfortable reading of novels and newspapers; educated native speakers know 15,000–20,000+. The first 2,000 are disproportionately valuable and should be learned fast and deliberately.
+- **Frequency first.** Learn words in order of frequency (frequency lists exist for most languages); the most common few thousand words unlock the input that teaches the rest.
+- **Deliberate learning works and is efficient** for the high-frequency core: spaced retrieval with flashcards ([Chapter 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)) is the best-evidenced method, and it is fast — a few hundred words a month at 15–20 minutes a day.
+- **Incidental learning from input** supplies depth (collocations, connotations, usage) and the long tail of lower-frequency words, but is slow: roughly 5–15% of unknown words encountered in reading are retained per encounter, and a word typically needs 8–12 encounters. This is why volume of input matters so much.
+- **Learn in context and in chunks.** Isolated words are fragile; words in sentences and in their common collocations ("make a decision", not just "decision") transfer to use.
+- **Both directions.** L2→L1 (recognition) for comprehension; L1→L2 (production) for speaking. Production is harder and more valuable; don't neglect it on the cards.
+- **The keyword mnemonic** ([Chapter 17](#17-mnemonics-and-memory-techniques)) for the stubborn words.
+
+#### Pronunciation: earlier than you think
+
+Adults rarely achieve a native accent, but *intelligible, comfortable* pronunciation is fully achievable — and it is neglected in almost every curriculum. The research (Derwing & Munro; Saito) supports:
+
+- **Perception first.** You cannot produce a distinction you cannot hear. **High-variability phonetic training** — many speakers, minimal pairs, with feedback — measurably improves perception of new contrasts in adults (Bradlow et al., 1997, taught Japanese speakers to hear /r/–/l/ with lasting effect).
+- **Prosody over segments.** Intonation, stress and rhythm affect intelligibility more than individual consonants and vowels. Shadowing (repeating along with native audio in real time) and imitation of whole phrases train prosody.
+- **Early attention prevents fossilisation.** Pronunciation habits set in the first months become very hard to change. Twenty minutes a week on sound from the start is worth more than months of remediation later.
+- **Feedback.** Recording yourself and comparing to a model; a tutor's ear; speech-recognition tools as rough checks.
+
+#### Age: the honest picture
+
+Children in immersion acquire native accents and native grammar; adults typically do not achieve native accent and show subtle grammatical non-nativeness. Hartshorne, Tenenbaum and Pinker's 2018 study of nearly 670,000 people found grammar-learning ability remains high until about 17–18 and declines gradually after, not abruptly. But adults have enormous advantages: explicit learning ability, literacy, metalinguistic knowledge, the ability to seek out and structure input, and motivation. Adults who put in comparable hours *outpace* children in the early stages and reach high proficiency; they end up with an accent. If your goal is communication rather than passing as a native, age is not the obstacle. The obstacle is hours.
+
+### How long does it take?
+
+The US Foreign Service Institute's estimates for English speakers to reach "professional working proficiency" (roughly B2/C1) in intensive classroom conditions:
+
+| Category | Example languages | Approx. classroom hours |
+|---|---|---|
+| I | Spanish, French, Italian, Portuguese, Dutch, Swedish | 600–750 |
+| II | German, Indonesian, Swahili | ~900 |
+| III | Russian, Hindi, Turkish, Polish, Thai, Vietnamese, Greek, Hebrew | ~1,100 |
+| IV | Arabic, Mandarin, Cantonese, Japanese, Korean | ~2,200 |
+
+These are hours of intensive, well-taught instruction plus comparable self-study — realistically double the numbers for total time invested. For a self-directed learner putting in an hour a day, a Category I language to B2 is something like two to three years; a Category IV language, five or more. An hour a day for a year gets most people to a solid A2–B1 in a Category I language: able to hold real conversations on everyday topics, read simple texts, follow slow clear speech.
+
+The point of these numbers is not to discourage but to calibrate. "Fluent in three months" is marketing. Two years of daily practice to converse comfortably in Spanish is realistic and achievable. Knowing this in advance prevents the mid-plateau collapse that comes from expecting the impossible.
+
+### Honest evaluation of methods and tools
+
+#### Apps (Duolingo, Babbel, Memrise, Busuu…)
+
+The independent evidence is thin and the company-funded evidence is favourable but limited. Duolingo-funded studies (Jiang et al., 2024; Kittredge et al., 2025) find completers of its courses reach roughly A2 in reading and listening after about 25–30 hours of app time — comparable to two to four university semesters for *receptive* skills — with weaker gains in speaking and grammar; an independent study (Kim et al., 2025) found similar results. What apps do well: spaced repetition of high-frequency vocabulary and basic patterns, habit formation through streaks and gamification, low friction. What they do poorly: output, conversation, pronunciation, pragmatics, and anything beyond the beginner stage. Verdict: a useful *component* for the first few hundred words and patterns and for daily-habit anchoring; not a method; and streaks are not proficiency.
+
+#### Classes
+
+Provide structure, accountability, explicit instruction, some interaction and feedback. Weaknesses: too little input and output per hour (one teacher, many students), pace set for the group, often grammar-heavy. Most valuable early (fundamentals, pronunciation) and as a scaffold for the self-study that must accompany them.
+
+#### Tutors and conversation partners
+
+The highest-value hour in language learning, once you have a few hundred words: one-to-one interaction tuned to your level, forced output, immediate feedback. Online platforms (iTalki, Preply and others) make tutors in most languages inexpensive. Use them for conversation and correction, not for lectures on grammar you could read. Language-exchange partners (half your language, half theirs) are free and nearly as good for conversation practice.
+
+#### Immersion
+
+Living in the language accelerates everything — *if* you actually use it. Many expatriates plateau at survival level because they live in a bubble of their own language. Immersion supplies input and demands output; it does not do the learning for you. Artificial immersion — switching devices, media and internal monologue to the target language — captures a meaningful fraction of the benefit.
+
+#### Textbooks and courses (Assimil, Teach Yourself, Pimsleur, FSI…)
+
+Structured sequences of comprehensible input, explanation and practice. Good ones (Assimil's approach of dialogues + notes, the audio-heavy Pimsleur) provide well-designed early input. Their limit is the same as any course: finite, and eventually to be replaced by real content.
+
+#### Comprehensible-input media
+
+YouTube channels, podcasts and graded readers designed to be understood by learners at each level (e.g., "Dreaming Spanish" for Spanish, various "slow news" services, graded reader series from publishers). For the input-quantity requirement, these are the workhorse from A1 to B2. Beyond B2, native content on topics you know.
+
+#### Spaced-repetition software
+
+Anki with sentence cards or word cards ([Chapter 9](#9-spaced-repetition-the-spacing-effect-and-how-to-schedule-it)) is the most efficient way to install the high-frequency core and to retain what you meet in input. Pre-made frequency decks are acceptable for the first 1,000–2,000 words; after that, cards from your own reading and listening are better.
+
+#### Grammar references
+
+Necessary as references; disastrous as a primary activity. Look up what you notice in input and need in output; don't work through the book cover to cover.
+
+### A complete method
+
+Built from the principles of Parts I–III and the SLA research above. Adjust proportions by stage.
+
+#### Stage 0–1: the first 2–3 months (A1)
+
+**Goal:** the ~1,000 most frequent words, the core grammatical patterns, the sound system, and the habit.
+
+- **Daily:** 15–20 min spaced-repetition of frequency vocabulary (Anki), production direction included.
+- **Daily:** 20–30 min of beginner comprehensible input — a structured course's dialogues, beginner CI videos, learner podcasts. Listen/read, then close and retrieve: what was said?
+- **2–3× a week:** 15 min pronunciation — minimal-pair perception, shadowing short phrases, recording and comparing.
+- **Weekly:** brief explicit grammar — one pattern, explained, then noticed in the input and used in a few sentences.
+- **From week 3–4:** begin output — write a few sentences a day; speak aloud to yourself; a tutor session every week or two even if you can say very little.
+
+#### Stage 2: months 3–12 (A2 → B1)
+
+**Goal:** 2,000–3,000 words, comfortable with common structures, real conversations on everyday topics.
+
+- **Daily:** spaced repetition continues (cards now from your own input).
+- **Daily, the largest block:** 30–60 min comprehensible input, increasingly authentic — graded readers, intermediate CI, simple native content on familiar topics. Retrieve after.
+- **2–3× a week:** conversation — tutor or exchange partner, 30–60 min. Prepare topics; note gaps afterward; card them.
+- **Several times a week:** writing — a paragraph, a message, a journal entry; get corrections (tutor, exchange partner, community).
+- **Weekly:** pronunciation session; one grammar point noticed and practised.
+- **Interleave** topics and skills within sessions ([Chapter 10](#10-interleaving-and-variability-mixing-it-up)).
+
+#### Stage 3: year 2 and beyond (B1 → B2/C1)
+
+**Goal:** the long tail of vocabulary, fluency, accuracy, register.
+
+- **Input becomes native content** in volume — books, series, podcasts, news — on topics you care about. This is where most of the remaining learning happens; the hours here are large.
+- **Output in volume**: regular conversation, writing with feedback, and deliberate practice on specific weaknesses (a tense you avoid, a sound you fudge, a register you lack).
+- **Spaced repetition** for the vocabulary you meet and want to keep; lower the desired retention for low-value words.
+- **Deliberate work on errors**: an error log from corrections; targeted practice; re-test.
+- **Vary the sources and speakers** so comprehension isn't tied to one voice or one register.
+
+#### Throughout
+
+- **Retrieve, don't just consume**: after every input session, recall and retell.
+- **Space and interleave** rather than binge on one skill.
+- **Sleep** — language learning shows strong sleep-consolidation effects for vocabulary and phonology.
+- **Track process** (hours of input, sessions of output), not "level", which moves too slowly to motivate.
+- **Expect the plateau** around B1, when progress becomes invisible because the remaining gains are in the long tail. This is where most learners quit. Change content, set concrete usage goals, and keep the hours going; the plateau is where the hours compound into fluency.
+- **Use the language for something real** as early as possible — a hobby, a relationship, a job need, a community. Identified motivation ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going)) carries you through the years that enthusiasm won't.
+
+> [!RESEARCH]
+> Hartshorne, Tenenbaum and Pinker (2018) tested the English grammar of 669,498 people of all ages and learning histories via an online quiz. Grammar-learning ability stayed near its peak until about 17–18 years old and then declined steadily but gradually — not the sharp puberty cutoff of the classical critical-period view. Adult learners who had been immersed for many years reached very high, though not fully native, proficiency. The window doesn't slam shut; it narrows slowly, and the main determinant of adult attainment is years of use.
+
+> [!PRACTICE]
+> If you're learning a language now, log for one week how your time divides among: explicit study (grammar, app lessons), vocabulary retrieval (cards), comprehensible input (listening/reading you mostly understand), and output (speaking/writing). Most learners find input and output are a small fraction. Rebalance next week so that input is the largest block and output happens at least three times, and check whether the learning feels different. It will feel harder. That's the sign.
+
+The next chapter turns to mathematics — the subject with the most anxiety attached and the clearest evidence about what works.
+
+---
+
+# 31. Learning mathematics and quantitative subjects
+
+*How to learn maths, statistics, physics and other quantitative subjects — why understanding and fluency both matter, the role of worked examples and problems, how to read mathematics, dealing with maths anxiety, catching up on missing prerequisites, and a study method built for the domain.*
+
+### Why maths is different — and why it isn't
+
+Mathematics has a reputation as the subject where you either "get it" or you don't. The reputation is undeserved and damaging: the research on maths learning shows the same principles as everywhere else, applied to material with three special features.
+
+**It is cumulative.** Every topic depends on the ones before. A gap in fractions becomes a wall in algebra; a wall in algebra becomes an impossibility in calculus. Nowhere else does a missing prerequisite cost so much, or so invisibly.
+
+**It has extreme element interactivity.** A single line of mathematics may require holding half a dozen symbols, their definitions, the relations between them and the goal, simultaneously ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)). Working memory is the constraint, and fluency in the components is the only way past it.
+
+**It is procedural and conceptual at once.** You must be able to *do* things — manipulate expressions, execute algorithms — and *understand* why they work and when they apply. Either without the other fails: procedure without understanding cannot handle unfamiliar problems; understanding without procedural fluency cannot get anywhere before working memory runs out.
+
+### The false war: understanding versus fluency
+
+Maths education has spent decades in a dispute between "back to basics" (drill the procedures) and "reform" (teach for understanding, conceptually, with less emphasis on procedure). The research resolution is that the dichotomy is false. Rittle-Johnson, Siegler and Alibali's work shows conceptual and procedural knowledge develop **iteratively** — each supports the other. Procedures practised to fluency free working memory to notice concepts; concepts give procedures meaning and allow their adaptation.
+
+What this means in practice:
+
+- **Fluency in fundamentals is non-negotiable.** Arithmetic facts, fraction operations, algebraic manipulation, common derivatives and integrals, standard distributions — these must become automatic chunks ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)). Students who have to *think* about 7 × 8 or about expanding (a+b)² have no capacity left for the actual problem. This is not "rote learning" in the pejorative sense; it is the construction of the vocabulary in which mathematics is thought.
+- **Understanding is what makes the fluency usable.** Knowing *why* the quadratic formula works, *why* you can't divide by zero, *what* a derivative means geometrically — this is what lets you recognise when a tool applies to a new situation, notice when an answer is unreasonable, and reconstruct a forgotten procedure.
+- **They are built by different activities.** Fluency by spaced, interleaved practice of components until automatic. Understanding by self-explanation, multiple representations, and problems that require thought rather than execution.
+
+### Worked examples, then problems
+
+The cognitive-load research on worked examples was largely developed in mathematics, and its findings are the backbone of effective maths study ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck), [Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples)):
+
+1. **When a topic is new, study worked examples first**, with self-explanation of *why* each step follows. Do not skip to the problems; you will flail, and flailing without a schema teaches little.
+2. **Attempt before reading each example** — briefly. Even a failed attempt makes the example land.
+3. **Fade**: example → completion problem (last step missing) → more missing → full problems.
+4. **Then, and only then, problems in quantity** — because the goal is procedural fluency and problem-solving skill, and these come only from solving problems.
+5. **Interleave** problem types so that identifying the type is part of the practice ([Chapter 10](#10-interleaving-and-variability-mixing-it-up)). Doug Rohrer's interleaving studies were in mathematics and found large effects: blocked practice trains execution; interleaved practice trains the recognition that real problems demand.
+6. **Space** the problems: some now, some next week, some in a month, mixed with other topics.
+
+The typical textbook — explanation, a few examples, twenty problems of the same type — is designed for blocked, massed practice. Restructure it: fewer problems per session, drawn from several sections, revisited over weeks.
+
+### Reading mathematics
+
+Mathematical text cannot be read like prose. A page of a maths textbook may take an hour; this is normal and is not a sign of inadequacy.
+
+- **Read with pen and paper.** Every equation, every step, reproduce it yourself. Fill in the steps the author skipped ("it follows that…" hides work). If you can't reproduce a step, that's where your understanding stops.
+- **Pin down every symbol and term.** What does each letter stand for? What type of object is it (number, function, set, vector)? What are its constraints? Undefined symbols are the fastest route to overload.
+- **Read definitions slowly and generate examples.** For every definition: an example that satisfies it, an example that doesn't, and a borderline case. If you can't produce an example, you don't understand the definition, and nothing built on it will make sense.
+- **For theorems: understand the statement before the proof.** What does it claim? Why is it plausible? What would a counterexample look like? Try to prove it yourself briefly before reading the proof. Then, after reading, close the book and reconstruct the proof's *idea* (not every line) from memory.
+- **Draw.** Sketch the function, the region, the geometric relation, the distribution. Dual coding ([Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples)) is enormously powerful in maths, where most concepts have a visual form.
+- **Ask what it's *for*.** Why does this definition exist? What problem does this theorem solve? What would we be unable to do without it? Maths presented as a sequence of results feels arbitrary; maths understood as answers to questions coheres.
+- **Expect to read it twice** — once to see the shape, once (after attempting problems) to understand.
+
+### Problem-solving skill
+
+[Chapter 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching) covered Pólya's method in general; in mathematics specifically:
+
+- **Understand the problem first**: what is given, what is asked, what type of problem is this, what tools are available? Restate it; draw it; introduce notation. Half of failed solutions are solutions to a different problem.
+- **Identify the type before choosing the method.** This is the skill interleaving trains and blocked practice doesn't.
+- **When stuck**: try a simpler or special case; work backward from the goal; check whether you've used all the givens; look for a pattern in small cases; change representation (algebra ↔ geometry ↔ table); consider the extreme cases; ask what a related solved problem did.
+- **Look back**, always: is the answer reasonable (sign, magnitude, units, limiting cases)? Is there another route? What was the key idea? What class of problems does this method solve?
+- **Keep an error log by type**: misread the problem, wrong method chosen, algebraic slip, conceptual error, missing knowledge. The pattern tells you what to practise. Algebraic slips need fluency practice; wrong methods need interleaved practice; conceptual errors need re-study with self-explanation.
+- **Attempt hard problems** — ones that take more than one session — regularly. Struggle on a hard problem, with time to incubate ([Chapter 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching)), builds problem-solving skill in a way that routine exercises can't.
+
+### Retrieval practice in mathematics
+
+Retrieval in maths is mostly *solving problems without the book open*, but also:
+
+- **Reconstructing derivations and proofs** from memory (the idea, then the details).
+- **Stating definitions and theorems precisely** from memory — with an example and a non-example for each.
+- **Explaining a concept** in plain words and with a picture, to an imagined student.
+- **Flashcards** for the factual layer: definitions, formulas that must be known, standard results, common derivatives and integrals, the shapes of common functions. Anki works for this; keep cards atomic, and include *when this applies* on the back.
+- **Closed-book brain dumps** after each topic: everything you know about it, structured, then checked.
+
+### Statistics and data: the same, with extra care
+
+Statistics is maths plus interpretation, and the interpretation is where most confusion lives.
+
+- **Build intuition before formulas.** Simulate. Draw sampling distributions. Ask "what would this look like if there were no effect?" before computing. Tools like simulation-based inference (resampling, permutation) build conceptual understanding that formula-first approaches skip.
+- **Every quantity has a meaning; say it in words.** "The standard error is how much the sample mean would vary if we repeated the study" — not just a formula.
+- **Confront the common misconceptions directly** (what a p-value is and isn't; what a confidence interval means; correlation and causation; regression to the mean; the base-rate fallacy). These are stable and resistant; refutational study — state the misconception, explain why it's appealing, then why it's wrong — works better than just learning the correct version.
+- **Interleave methods by problem, not by chapter**: choosing the right analysis for a situation is the skill, and it is untrained by a chapter of t-tests followed by a chapter of chi-squares.
+
+### Physics and applied mathematics
+
+Physics adds a modelling layer: translating a situation into mathematics, solving, and translating back.
+
+- **Free-body diagrams, energy diagrams, circuit sketches — always.** Dual coding is the way physicists actually think.
+- **Categorise by principle, not surface.** Chi et al.'s (1981) finding that novices sort problems by objects (pulleys, inclines) and experts by principle (conservation of energy, Newton's second law) is *the* diagnostic of physics understanding. Practise sorting problems by principle explicitly.
+- **Check limiting cases and units** on every answer. It's the cheapest error detector there is.
+- **Derive rather than memorise** wherever feasible; the derivation is a retrieval cue and a check.
+- **Estimate first** (Fermi problems). Knowing roughly what the answer should be catches errors and builds physical intuition.
+
+### Maths anxiety
+
+Maths anxiety is common (affecting perhaps a fifth of adults significantly), distinct from ability, and self-reinforcing through avoidance ([Chapter 24](#24-stress-anxiety-and-emotion-in-learning)). It works through working-memory interference — anxious thoughts consume the capacity the maths needs — which is why anxious people perform below their competence specifically on maths, and specifically under pressure.
+
+What helps:
+
+- **Expressive writing** before tests (Ramirez & Beilock; replicated in maths).
+- **Reappraising arousal** as readiness.
+- **Low-stakes, frequent practice testing**, which habituates the anxiety and builds justified confidence.
+- **Filling the prerequisite gaps** that make maths *actually* incomprehensible — much maths anxiety is an accurate response to being asked to do things one lacks the foundations for.
+- **Working at the right difficulty**: the zone where you succeed with effort ([Chapter 29](#29-flow-boredom-and-the-difficulty-sweet-spot)). Repeated failure feeds anxiety; repeated effortful success starves it.
+- **Reframing errors** as information, and adopting strategy-level attributions ("I used the wrong method" rather than "I can't do maths") — [Chapter 26](#26-mindset-self-efficacy-and-beliefs-about-ability).
+- **Not transmitting it**: parents and teachers with maths anxiety pass it on; if you help others with maths, be aware of your own signals.
+
+### Catching up: the missing-prerequisite problem
+
+Most adults who "can't do maths" have specific gaps, usually from primary or early secondary school — fractions, negative numbers, proportional reasoning, basic algebra — and everything since has been built on sand. The good news is that these gaps are finite and can be filled far faster as an adult than they were taught as a child.
+
+- **Diagnose honestly.** Take a diagnostic test at a level well below where you think you are. Free adaptive platforms (Khan Academy's mastery system is the best-known) will locate the gaps.
+- **Go back as far as necessary without shame.** Adults relearning fractions in a week is normal and efficient.
+- **Fill gaps to fluency, not to first success.** The prerequisite must be automatic to stop consuming working memory.
+- **Then move forward in order**, never leaving a topic until it's fluent — this is the one domain where "mastery learning" (don't proceed until mastered) is unambiguously right, because of the cumulative structure.
+- **Spaced review of the fundamentals** continues for months; they are the chunks everything else depends on.
+
+### A maths study method
+
+For each new topic:
+
+1. **Preview** the section: what is this about? what problem does it solve? what are the key definitions and results?
+2. **Read actively** with pen and paper: reproduce every step; generate examples of every definition; draw everything drawable.
+3. **Worked examples**: attempt first, self-explain each step, identify the type and the general method.
+4. **Fade** into completion problems and then full problems of the type.
+5. **Same day**: closed-book brain dump — definitions, results, methods, a fresh example.
+6. **Card** the factual layer (definitions, formulas, standard results).
+7. **Over the following weeks**: this topic's problems mixed with previous topics', spaced; one hard problem per week; error log maintained and reviewed.
+8. **Before exams**: mixed practice tests under timed conditions; error review; sleep.
+
+> [!RESEARCH]
+> Rohrer, Dedrick and Stershic (2015) had seventh-grade classes practise four kinds of algebra problems over three months. Half the assignments were blocked (one type per assignment), half interleaved (mixed). On a test one day after the last assignment, the interleaved and blocked groups scored 80% and 64%; on a test 30 days later, **74% versus 42%**. The problems, the teachers and the total practice were identical. The order alone nearly doubled retention a month out — and the students had found interleaved practice harder throughout.
+
+> [!PRACTICE]
+> Take the end-of-chapter problems from the last three chapters you've studied. Copy ten of them, mixed, onto a sheet without chapter labels. Solve them closed-book, and for each, *first* write down what type of problem it is and which method applies, *then* solve. Note every problem where identifying the type was the hard part. That is the skill the exam tests and your textbook's structure never trained.
+
+The next chapter takes the same principles into a domain that has become one of the most commonly self-taught: programming and technical skills.
+
+---
+
+# 32. Learning to program and other technical skills
+
+*How to learn programming — what computing-education research says about novices, the roles of reading, writing, tracing and debugging code, tutorial hell and how to escape it, projects versus exercises, learning from documentation, and how to use AI coding assistants without stunting your growth.*
+
+### A domain with unusually good research
+
+Programming is one of the most commonly self-taught skills in the world, and one of the most commonly abandoned. It also has a strong research tradition — computing education research — with findings that overturn much of the folk wisdom about how to learn to code. Greg Wilson's *Teaching Tech Together* and Felienne Hermans's *The Programmer's Brain* synthesise much of it; this chapter applies it alongside the general principles of Parts I–III.
+
+### What programming is, cognitively
+
+Programming draws on several distinct kinds of knowledge and skill:
+
+- **Syntax** — the surface form of the language. Declarative at first, must become automatic (a chunk) so that working memory is free for the problem.
+- **Semantics / the notional machine** — a mental model of what the computer actually does when the code runs: how variables hold values, how control flows, how function calls work, what happens in memory. Novices' most persistent errors trace to wrong or missing notional machines (du Boulay, 1986; Sorva, 2013).
+- **Patterns / plans / idioms** — the recurring chunks of code that solve recurring sub-problems: iterate over a collection and accumulate; find the maximum; parse input; the shapes of a recursive function. Experts have thousands; novices reinvent each from scratch (Soloway's "programming plans").
+- **Problem decomposition and design** — turning a fuzzy requirement into a sequence of solvable sub-problems.
+- **Debugging** — a distinct skill: forming hypotheses about why behaviour differs from intent, and testing them.
+- **Tools and ecosystem** — editors, version control, build systems, libraries, documentation. Large, fragmented, constantly changing.
+- **Reading code** — a skill separate from writing, and the one professionals spend most time on.
+
+Most beginners' curricula emphasise syntax and writing small programs. The research says the bottlenecks are elsewhere: in the notional machine, in pattern knowledge, in reading and tracing code, and in debugging.
+
+### What the research says
+
+#### Novices need to trace before they can write
+
+Lister et al. (2004) and the "Leeds working group" found that many students who had passed introductory courses could not *trace* simple code — predict what a short program would output — and that tracing ability predicted the ability to write code, not the other way around. Students who cannot reliably predict what code does cannot debug their own, cannot read others', and write by trial and error. **Tracing is a prerequisite skill, and it is trained by tracing, not by writing.**
+
+*Practice:* take short snippets, predict the output on paper, then run and compare. Trace with a variable table — the value of every variable at every step. Do it for code you wrote and code you didn't. Tools that visualise execution step by step (Python Tutor and equivalents) make the notional machine visible.
+
+#### Reading code is undertrained and hugely valuable
+
+Hermans's work emphasises that reading code is a distinct skill involving all three memory systems: recognising syntax and idioms from long-term memory (chunking), holding structure in working memory, and building a model of what the code does. Novices lack chunks, so every line is a fresh parse — the same problem as beginning readers. Deliberate practice at reading — summarising what a function does, identifying its structure, refactoring it in your head — builds the chunk library that makes both reading and writing fluent.
+
+#### Worked examples and "explain in plain English"
+
+The cognitive-load findings apply directly ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)): novices learn more from studying and self-explaining worked code than from writing from scratch. **Parsons problems** — reassembling scrambled lines of a correct program — are a well-studied intermediate: they teach structure and idiom without the cognitive load of syntax generation, and studies find they're more efficient than writing equivalent code for novices (Ericson et al., 2018). "**Explain in plain English**" tasks — describe what this code does at the level of purpose, not line by line — predict and build understanding (Murphy et al., 2012). The progression is: read and trace → explain in plain English → reassemble (Parsons) → complete partial code → modify working code → write from scratch.
+
+#### Misconceptions about the machine are the main enemy
+
+Novices carry stable, predictable misconceptions: that a variable can hold more than one value; that assignment is symmetric like an equation; that a loop's condition is checked continuously; that the computer "understands" names; that code executes in the order written regardless of function calls. These come from applying prior schemas (algebra, natural language) to a system that behaves differently. They are not fixed by writing more code; they are fixed by tracing, by execution visualisers, and by refutational explanation that names the misconception.
+
+#### Debugging is a skill to learn, not an annoyance to endure
+
+Beginners spend most of their time debugging and are taught almost nothing about it. Debugging is hypothesis-driven investigation: what did I expect? what happened? what could cause the difference? how can I test that? Explicit instruction in debugging strategy — read the error message carefully; reproduce reliably; localise by bisection; form a hypothesis before changing code; change one thing; use print/log statements and the debugger systematically; explain the problem aloud ([rubber ducking](#20-problem-solving-the-feynman-technique-and-learning-by-teaching)) — measurably improves outcomes. Treat each bug as a puzzle with a method, and keep a log of the bugs you've hit and their causes; patterns emerge.
+
+#### Language choice matters less than you think, at first
+
+The first language is a vehicle for learning the notional machine, decomposition and patterns, which transfer. Choose one with readable syntax, a forgiving environment, good learning materials and a community (Python is the common default); avoid languages whose incidental complexity dominates the early experience. The second language is far easier than the first; the third easier still. Don't agonise; don't switch repeatedly.
+
+### Tutorial hell and how to escape it
+
+The characteristic failure mode of self-taught programmers: completing tutorial after tutorial, following along, everything working — and being unable to build anything without one. Every mechanism in this guide explains it:
+
+- Following a tutorial is **recognition**, not **retrieval**. Each step makes sense given the previous one; you never had to produce a step.
+- It generates **fluency without learning** ([Chapter 7](#7-desirable-difficulties-and-the-illusion-of-fluency)): the code appears on screen, it works, you feel competent.
+- It is **blocked and scaffolded** to the maximum; nothing is faded.
+- **Performance is high, learning is low.**
+
+The escape follows from the diagnosis:
+
+1. **Never just follow along.** Pause the video before each step; predict what comes next; write it yourself; then compare. Every tutorial becomes a sequence of retrieval attempts with feedback.
+2. **Close the tutorial and rebuild.** After finishing, delete the code and rebuild from memory. Then rebuild with a variation (different data, an extra feature, a different structure). Then rebuild something adjacent without a tutorial at all.
+3. **Fade deliberately.** Tutorial → tutorial with gaps you fill → spec with hints → spec alone.
+4. **Ratio.** For every hour of tutorial, spend two building without one.
+5. **Start projects before you feel ready.** You will never feel ready. The feeling of readiness comes from having done it, not before.
+
+### Exercises versus projects
+
+Both are needed; they do different things.
+
+**Exercises** (small, well-defined problems — Exercism, LeetCode, Advent of Code, textbook problems) are deliberate practice for components: syntax fluency, idioms, algorithms, data structures, tracing. They allow interleaving (mix problem types), spacing (revisit), immediate feedback (tests), and calibrated difficulty. Their weakness: they're pre-decomposed; someone else did the design.
+
+**Projects** (building something that does something you or someone wants) are the whole task: requirements, decomposition, design, tooling, integration, debugging in the large, reading documentation, dealing with the messy world. They supply motivation, meaning and the skills exercises can't. Their weakness: slow feedback, unbounded difficulty, and the temptation to spend all the time on the parts you already know.
+
+The pattern that works: **projects for direction and integration; exercises for the components the project reveals you're weak at.** Start a project; hit a wall (you can't manipulate strings fluently; you don't understand async; your data structure choice is wrong); step out to targeted exercises on that component; return. This is the identify-the-limiting-factor loop of deliberate practice ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)), and it keeps both exercises and projects at the edge of your ability.
+
+Project selection: something you actually want to exist (motivation), small enough to finish (proximal goals), slightly beyond what you can do (ZPD), and — early on — a known kind of thing (a to-do app, a game clone, a scraper, a CLI tool) so that the design is not entirely novel and reference implementations exist to compare against afterward.
+
+### Learning from documentation and code
+
+Professionals learn continuously from documentation, source code and others' work. It is a skill.
+
+- **Documentation**: preview the structure (what kinds of things does this library do? what are its main abstractions?) before diving into any function; read the conceptual overview before the API reference; run the examples and *modify* them; when you look something up, retrieve first ("I think it's called… and takes…") and then check.
+- **Reading others' code**: start with the entry point and the data structures; trace one path through; summarise each function's purpose in a sentence; ask why it was structured this way; identify idioms you don't know and look them up. Reading good code is how you acquire patterns you'd never invent.
+- **Error messages and stack traces**: read them completely and slowly. Beginners skim them and guess; experts read them and know. The error message is documentation about your specific mistake.
+- **Source over search**: when a library behaves unexpectedly, reading its source is often faster than searching, and teaches more.
+
+### AI coding assistants
+
+This is now the defining question for anyone learning to program, and the evidence is arriving ([Chapter 35](#35-learning-with-ai-what-the-evidence-actually-shows) covers AI and learning in general). The core finding — from Bastani et al.'s 2025 maths study, from Kosmyna et al.'s essay-writing study, and from early computing-education work (Prather et al., 2023; Kazemitabaar et al., 2023) — is that **AI assistance used to produce answers impairs learning, while AI used as a scaffolded tutor can help**. For programming specifically:
+
+- **Beginners who let the assistant write the code learn less.** They cannot trace or debug what they didn't write, they don't build the notional machine, and they develop a dependence that fails the moment the assistant is absent or wrong. Kazemitabaar et al. found novices with code-generation access completed more tasks but showed no better (in some measures, worse) performance on subsequent unaided tests.
+- **Metacognitive difficulties compound.** Prather et al. found novices struggled to judge whether generated code was correct, over-trusted it, and got lost in it — "drifting" through suggestions without a plan.
+- **Assistants are excellent at the things experts already know how to do**, which is why experts find them so productive and why that productivity doesn't transfer to beginners: the expert is supervising; the beginner is delegating.
+
+Guidelines that follow from the evidence:
+
+1. **Write it yourself first, especially early.** Code generation is off during learning of a new concept. You need the struggle to build the machine model and the chunks.
+2. **Use AI as a tutor, not a vending machine.** Ask it to explain code you don't understand; to explain an error; to give a hint rather than a solution; to quiz you; to review your code and point out (not fix) problems; to generate practice problems at your level. Configure it explicitly: "Don't give me the answer; ask me questions / give one hint at a time."
+3. **Predict before you accept.** If you do use suggestions, predict what the code will do before running it, and trace it. Never accept code you couldn't have written and can't explain.
+4. **Use it to accelerate what you already know**: boilerplate, syntax in a language you know conceptually, looking up an API — the way experts use it.
+5. **Verify aggressively.** Assistants are confidently wrong, subtly and often. Treat output as a draft from a junior colleague.
+6. **Periodically work without it** to check that the skill is yours.
+
+The goal is a programmer who can use these tools as a force multiplier because they understand what the tools produce — not one who can't function without them.
+
+### A learning method for programming
+
+**Foundations (first weeks–months):**
+- One language. Learn the notional machine explicitly (how variables, control flow, functions, memory work) with an execution visualiser.
+- Daily: trace short programs on paper, then run. Explain-in-plain-English exercises. Parsons problems if available.
+- Worked examples with self-explanation → completion → writing. Small exercises, interleaved by concept, with tests as feedback.
+- Type every line yourself. No copy-paste from tutorials; predict before each step.
+- Start a tiny project by week three or four.
+
+**Building (months 2–12):**
+- A project always in progress; exercises targeted at the components it exposes.
+- Read code daily: solutions to problems you've solved, library source, good open-source projects. Summarise; identify idioms; card them.
+- Debugging as a deliberate skill: method, log, patterns.
+- Spaced retrieval for the factual layer (syntax, standard library, idioms, concepts) — Anki with code snippets works.
+- Learn the tools (editor, git, testing, debugger) properly once each, then use daily.
+- Explain what you learn: write it up, answer questions in a community, teach a friend.
+
+**Deepening (year 2+):**
+- Second language, chosen to be different (a different paradigm teaches more than a similar syntax).
+- Larger projects; contributing to others' code; code review both ways.
+- Fundamentals that projects tend to skip: data structures and algorithms, systems, how the machine actually works. Studied with problems, not just reading.
+- Deliberate practice on the limiting factor — design, testing, performance, whatever the log shows.
+- AI as a collaborator you supervise, not a crutch you lean on.
+
+**Throughout:** retrieve (rebuild from memory), space, interleave, sleep on hard bugs, and judge yourself by what you can build unaided, not by tutorials completed.
+
+> [!RESEARCH]
+> Lister et al. (2004), in a multi-national study of students who had just completed introductory programming courses, found that many could not correctly predict the output of short programs or fill in a missing line — tasks well below "writing a program". The students had been assessed mainly on writing and had passed; but they lacked the tracing ability that writing depends on. Later work (Lopez et al., 2008; Venables et al., 2009) confirmed a hierarchy: tracing and explaining precede and predict writing. The implication for self-learners: if you struggle to write code, the fix is probably more reading and tracing, not more writing.
+
+> [!PRACTICE]
+> Take a program you wrote following a tutorial. Delete it. Rebuild it from memory without the tutorial, using only documentation and error messages when stuck. Note every place you couldn't proceed — those are the concepts you followed but didn't learn. Then add one feature the tutorial didn't have. The gap between following and building is the gap between performance and learning, and this exercise measures it.
+
+The next chapter turns from cognitive skills to physical ones — motor skills, music and sport — where the science of practice has its longest history.
+
+---
+
+# 33. Learning motor skills, music and sport
+
+*How physical skills are learned — the stages of motor learning, practice scheduling (blocked, random, variable), the role of feedback and its timing, attentional focus, slow practice and chunking in music, mental practice, sleep and offline gains, and how to structure a practice session that actually builds skill.*
+
+### The oldest learning science
+
+Motor learning has been studied experimentally since the nineteenth century, and its findings are among the most robust in psychology. They apply to playing an instrument, learning a sport, surgery, typing, handwriting, dance, driving, drawing, pronunciation, and every other skill where the body must do something precisely. Much of what the rest of this guide says about spacing, variability, feedback and desirable difficulty was discovered first in motor learning, and the parallels are exact.
+
+### How motor skills are learned
+
+#### The three stages
+
+Fitts and Posner's model ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)) describes the arc: a **cognitive** stage (working out what to do; slow, effortful, verbal, error-prone), an **associative** stage (refining; smoother, fewer errors, components linking up), and an **autonomous** stage (fast, accurate, largely unconscious, attention free for higher-level concerns). Motor skills spend most of their development in the long associative stage and are the clearest case of the autonomous plateau: once adequate and automatic, they stop improving unless deliberately destabilised.
+
+#### What changes in the brain
+
+Early motor learning engages prefrontal cortex, premotor areas and the cerebellum heavily — the skill is being *thought*. With practice, control shifts toward the basal ganglia and motor cortex; the movement becomes a stored program triggered as a unit. Motor cortex representations of trained movements expand (Karni et al., 1995; Pascual-Leone's work on pianists — including *imagined* piano practice producing measurable cortical change). Myelination of the relevant pathways increases over weeks and months ([Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes)). The cerebellum learns from **error signals**: the difference between intended and actual movement drives the adjustment. This is why *accurate feedback about error* is the essential input to motor learning.
+
+#### Offline gains and sleep
+
+Motor skills improve *between* practice sessions, without practice, and especially across sleep. Walker et al. (2002) found a 20% speed gain on a finger-tapping sequence after a night's sleep with no further practice; the gain correlated with stage-2 NREM sleep late in the night ([Chapter 22](#22-sleep-the-other-half-of-learning)). Even brief rests during practice produce micro-consolidation: Bönstrup et al. (2019) found most of the early improvement in a motor sequence task happened during the 10-second rest periods between trials, not during the trials themselves. Practice, then rest, then sleep — and expect to be better tomorrow than you were at the end of today.
+
+### Practice scheduling
+
+#### Blocked versus random practice
+
+Shea and Morgan (1979) had people learn three movement patterns either in blocks (all of A, then all of B, then all of C) or randomly interleaved. Blocked practice produced better performance *during* practice; random practice produced dramatically better performance on a retention test days later — and better transfer to new patterns. This **contextual interference effect** has been replicated across sports, music, surgery and rehabilitation, and it is the motor-skill version of [interleaving](#10-interleaving-and-variability-mixing-it-up). Random practice forces the learner to reconstruct the motor plan on every trial rather than running the same plan on repeat; the reconstruction is what builds durable, flexible skill.
+
+Nuances from the literature: complete beginners may need a short blocked phase to acquire the basic pattern before random practice helps (the expertise-reversal pattern again); the effect is larger for adults than young children; and "serial" practice (ABCABC, predictable order) sits between blocked and random. The practical default: **brief blocked introduction of each new component, then interleave.**
+
+#### Variable practice
+
+Practising a skill across a range of conditions — distances, speeds, targets, surfaces — produces better retention and, especially, better transfer than practising in one condition (Schmidt's schema theory; Kerr & Booth's beanbag study, [Chapter 10](#10-interleaving-and-variability-mixing-it-up)). The learner acquires the *relationship* between conditions and movement parameters rather than a single fixed movement. For skills that will be used under varying conditions (almost all of them), variable practice is essential; for skills used under fixed conditions (a free throw, a fixed piece at a fixed tempo), constant practice has a place, but even then, variability around the target improves robustness.
+
+#### Spacing and distribution
+
+Distributed practice beats massed for motor skills as it does for everything else; Baddeley and Longman's postal-worker typing study ([Chapter 2](#2-what-learning-actually-is)) is the classic. Shorter, more frequent sessions beat long, infrequent ones; and sleep between sessions is a consolidation step, not a gap. Daily practice of 30–60 minutes will outperform a weekly three-hour session with the same total time.
+
+#### Whole versus part practice
+
+Should you practise the whole skill or break it into parts? The research (Naylor & Briggs; Wightman & Lintern) suggests: break down skills that are **complex** (many components) and **low in organisation** (components are relatively independent — a gymnastics routine, a piece of music); keep whole skills that are **highly organised** (components are tightly coupled and timing between them is the point — a golf swing, a tennis serve). For highly organised skills, *slow* whole-practice or *simplified* whole-practice (a lighter ball, a shorter distance) is better than fragmenting. For music: practise the difficult passage in isolation, then in context; practise transitions between chunks explicitly, because that's where the chunks fail to join.
+
+### Feedback
+
+#### Intrinsic and augmented feedback
+
+**Intrinsic** feedback is what you perceive from the movement itself — the feel, the sound, the result. **Augmented** feedback is external — a coach's comment, video, a metronome, a mirror, a score. Motor learning depends on feedback because the cerebellum learns from error; but *how* augmented feedback is delivered matters enormously.
+
+#### The guidance hypothesis
+
+Providing feedback after *every* attempt improves performance during practice but can *impair* retention (Schmidt et al., 1989; Winstein & Schmidt, 1990). The learner comes to depend on the external signal and never develops their own error detection. Feedback given on a reduced schedule — after every few trials, or summarised over a block, or only when the error exceeds a bandwidth — produces worse practice performance and *better* retention and transfer. This is exactly the learning-versus-performance dissociation. The practical rule: as skill develops, **reduce and delay augmented feedback** so that you learn to feel the error yourself. Ask "how did that feel — where was it off?" *before* checking the video or asking the coach.
+
+#### Knowledge of results versus knowledge of performance
+
+**Knowledge of results** (KR): did it work? Where did the ball go? Was the note right? **Knowledge of performance** (KP): how was the movement? Was the elbow high? Was the bow speed even? KR is cheap and often intrinsic; KP requires an observer or recording and is what actually corrects technique. Beginners need KP most and get it least. Recording yourself — video for movement, audio for music — is the accessible route to KP, and comparison with a model (a slow-motion clip of an expert; a recording of the piece) makes the error visible.
+
+#### Focus of attention
+
+One of the most replicated findings in motor learning: an **external focus** of attention (on the effect of the movement — the target, the ball's path, the sound, the club head) produces better performance and learning than an **internal focus** (on the body — your wrist, your knees, your fingers) (Wulf's decades of research; Wulf, 2013 review). Internal focus disrupts the automatic control the skill is trying to develop; external focus lets it self-organise. Coaches and teachers should phrase cues externally ("push the floor away", "send the sound to the back wall") rather than internally ("extend your knees", "relax your shoulder"). The exception is very early learning, when some internal cueing may be needed to establish the basic form — but move to external as soon as possible.
+
+#### Self-controlled practice
+
+Letting learners choose *when* they receive feedback, or *which* demonstrations to see, improves learning relative to the same schedule imposed (Chiviacowsky & Wulf, 2002). Autonomy in practice is not just motivational ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going)); it engages the learner's own error-detection and information-seeking. Self-directed learners have this by default; use it deliberately — ask for feedback when you feel you need it, not on autopilot.
+
+### Music: applying it
+
+Music practice has been studied intensively, and the findings map onto the general picture with a few specifics.
+
+**Slow practice.** Practising below performance tempo — slow enough to be *correct* — is the single most endorsed technique among expert teachers, and it aligns with the neuroscience: you consolidate what you repeat, so repeat it right. Speed is built by gradually raising the tempo of accurate execution, not by attempting the target tempo and hoping errors wash out. They don't; they get myelinated.
+
+**Chunking and the "impossible passage".** A difficult passage is difficult because it exceeds working memory when processed note by note. Break it into the smallest unit that can be played correctly (two notes, a beat, a bar); repeat until automatic; add the next unit; join; practise the *joins* specifically. This is chunk-building ([Chapter 4](#4-memory-systems-working-memory-long-term-memory-schemas-and-chunking)) applied to motor sequences, and it is how every hard passage is learned.
+
+**Don't always start at the beginning.** Beginners practise pieces from the top and stop at the first error, so the opening becomes over-practised and the end under-practised. Start at random points; start at the hard parts; practise backward from the end (which also builds the transitions).
+
+**Interleave.** Rotate among several pieces, technical exercises and sight-reading in a session rather than an hour on one piece; vary tempo, dynamics and articulation. Random practice beats blocked for retention here as everywhere.
+
+**Mental practice.** Imagining the performance in detail — the sound, the fingerings, the movements — produces real gains (roughly half the effect of physical practice in meta-analyses; Pascual-Leone found imagined piano practice produced cortical changes similar to physical practice). It can be done anywhere and it strengthens the auditory-motor representation. Combine with physical practice; it doesn't replace it.
+
+**Listen critically.** Record and listen back. Musicians hear what they intend, not what they play; the recording hears what they play.
+
+**Practise performing.** Performance is a separate skill from playing — the pressure, the no-second-chances. Simulate it: play through for a recording, for a friend, for a phone camera, without stopping. Exposure reduces the anxiety that otherwise ruins well-practised pieces ([Chapter 24](#24-stress-anxiety-and-emotion-in-learning)).
+
+**Quality over quantity.** Duke, Simmons and Cash (2009) studied piano students practising a difficult passage and found that the best performers were distinguished not by how long or how many times they practised but by *how they handled errors*: they identified them precisely, corrected them immediately, and adjusted (slowing down, isolating) so the error didn't recur. Practice time and number of repetitions did not predict performance quality.
+
+### Sport: applying it
+
+- **Random and variable practice** for any skill used in open, changing conditions — which is most of sport. Blocked drilling of one skill in one condition transfers poorly to the game.
+- **Constraints-led and game-based practice**: designing practice games that force the target skill to emerge under realistic conditions, rather than isolating it artificially. Evidence favours this for decision-making skills.
+- **External focus cues** from coaches; internal focus reserved for gross corrections early.
+- **Reduced-frequency feedback** as skill develops; video for knowledge of performance.
+- **Perceptual training**: much of expert sport skill is perceptual — reading the play, anticipating. Video-based anticipation training (watching clips, predicting, feedback) transfers to the field.
+- **Deliberate practice at the edge**, not just playing. Matches are performance; drills at the limit of ability with feedback are practice ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)).
+- **Sleep, recovery, nutrition** — the body is the instrument.
+
+### Fine skills: handwriting, drawing, typing, pronunciation
+
+The same principles at small scale:
+
+- **Accuracy before speed.** Speed comes from chunking; chunks form from correct repetition.
+- **Feedback on performance**, not just results — see the letterform, hear the phoneme against the model.
+- **Variable practice** — different words, sizes, contexts.
+- **Break the autonomous plateau deliberately**: the typist who wants to get faster must practise slightly above comfortable speed, accepting and correcting errors (Foer's account in [Chapter 18](#18-deliberate-practice-and-the-development-of-expertise)), not just type more.
+- **Perception first for pronunciation**: you cannot produce what you cannot hear ([Chapter 30](#30-learning-languages)).
+
+### A practice-session template
+
+For any motor skill, 45–60 minutes:
+
+1. **Warm-up** (5 min): easy movement, then a brief run of something well-learned.
+2. **Goal** (1 min): the specific component and target for today, written down.
+3. **Deliberate block** (20–25 min): the limiting component, isolated, slow enough to be correct, with feedback (recording, mirror, metronome, coach), in short repetitions with brief rests; interleave two or three sub-goals rather than one thing for 25 minutes.
+4. **Integration** (10–15 min): the component in context — the passage in the piece, the skill in a game-like drill — under varied conditions.
+5. **Whole-task / performance** (5–10 min): play through, run the routine, simulate the game — external focus, no stopping.
+6. **Review** (2 min): what improved, what didn't, tomorrow's goal. Record it.
+7. **Then rest and sleep.** Tomorrow's first attempt will tell you what consolidated.
+
+> [!RESEARCH]
+> Shea and Morgan (1979) trained participants on three rapid arm-movement patterns, either blocked (all trials of one pattern, then the next) or in random order. During acquisition, the blocked group was faster and more accurate. On retention tests ten minutes and ten days later, the random group substantially outperformed them — and when tested on *new* patterns, the random group's advantage was larger still. The blocked group had practised executing; the random group had practised reconstructing the plan each time, and it was the reconstruction that transferred. This finding has been replicated in hundreds of studies across skills from surgery to volleyball.
+
+> [!PRACTICE]
+> In your next practice session, record yourself (video or audio) doing the thing you're working on, before you begin the deliberate block. Then, *before* watching or listening, write down what you think was wrong with it. Then check. The gap between what you felt and what the recording shows is your error-detection deficit — and closing it, by repeating this exercise, is how you become able to coach yourself.
+
+The next chapter turns to how most formal learning is delivered — lectures, video and books — and how to extract far more from each than passive attendance yields.
+
+---
+
+# 34. Learning from lectures, video, online courses and books
+
+*How to extract real learning from the formats most instruction comes in — live lectures, recorded video, MOOCs and online courses, podcasts and audiobooks, textbooks and non-fiction — including what the research says about playback speed, note-taking during video, why MOOC completion is so low, and how to build a course for yourself.*
+
+### Formats are not methods
+
+A lecture, a video, a course, a book — these are *delivery formats*. None of them is a learning method. What determines whether you learn from them is what you *do* with them, and the default — attend, watch, enrol, read — is passive consumption, which produces exposure and familiarity but very little durable, usable knowledge ([Chapter 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil)).
+
+This chapter takes each format and asks: what is it good for, where does it fail, and how do you wrap the active techniques of Part II around it?
+
+### Live lectures
+
+#### What the research says
+
+The traditional lecture is one of the most studied and most criticised instructional formats. Freeman et al.'s 2014 meta-analysis of 225 studies in STEM found that active-learning classrooms outperformed traditional lectures by about half a standard deviation on exams and cut failure rates from 34% to 22%. Deslauriers et al. (2019) found students in active-learning physics classes learned more but *felt* they learned less than students in polished lectures — the fluency illusion at institutional scale.
+
+The lecture's weaknesses are structural: information is **transient** ([Chapter 5](#5-cognitive-load-theory-managing-the-bottleneck)), so whatever you don't encode in the moment is gone; pace is set by the lecturer, not by your working memory; attention decays across the hour, with mind-wandering rising steadily after the first 10–15 minutes; and the format invites passivity. Its strengths: a live expert who can respond to questions and read the room, social presence and accountability, the structure of a curriculum, and — with a good lecturer — the modelling of how an expert thinks about the material.
+
+#### How to learn from a lecture
+
+- **Pre-read.** Even ten minutes with the slides or the textbook section gives you a schema, turns the lecture into a second exposure, and lets you take selective notes rather than frantic ones. Write two or three questions you want answered.
+- **Sit where you'll attend.** Front and centre, away from screens you can see. Sana et al. (2013) found that seeing a *neighbour's* laptop multitasking lowered test scores.
+- **Take generative notes** ([Chapter 15](#15-note-taking-that-actually-helps-you-learn)): structure and your own words, not transcription; questions in the margin; "?" for what you didn't follow.
+- **Retrieve at breaks.** If the lecture pauses, or at any natural boundary, take 30 seconds to summarise from memory what the last segment established.
+- **Ask.** A question asked is a gap identified and closed immediately; it also forces retrieval and articulation. If asking aloud is hard, write it and ask afterwards or by email.
+- **Within 24 hours: reconstruct.** Cover the notes; rewrite the lecture's structure and main points from memory; compare; fill gaps; convert main points to questions.
+- **Weekly: cumulative retrieval** across all lectures so far.
+
+### Recorded video
+
+Recorded lectures and educational video remove the lecture's transience problem — you can pause, rewind, re-watch — and introduce new failure modes: the illusion of learning is even stronger (it feels effortless), the temptation to multitask is greater, and there's no social accountability.
+
+#### Speed
+
+Watching at 1.25× or 1.5× is common. The evidence (Murphy, Hoover, Agadzhanyan & Castel, 2022; several since) is that comprehension and retention are essentially unaffected up to about **1.5×**, decline modestly at 2×, and fall off sharply beyond. Speeding up frees time — and the research suggests the best use of the freed time is *re-watching* or, better, *retrieving*: a 1.5× watch followed by a retrieval attempt beats a 1× watch. Slow down for dense, high-interactivity material; speed up for narrative and review.
+
+#### Segmenting and pausing
+
+Mayer's segmenting principle ([Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples)) — learner-controlled segments beat continuous presentation — applies with force. Pause every 5–10 minutes (or at each conceptual boundary) and summarise from memory. Guo, Kim and Rubin's (2014) analysis of millions of MOOC video sessions found engagement dropped sharply after about six minutes; shorter, focused videos were watched more completely. If a video is long, impose the segments yourself.
+
+#### Note-taking with video
+
+Since the video is your verbatim record, notes should be entirely about meaning: structure, questions, connections, points of confusion to return to. Don't pause to transcribe; pause to think. A useful pattern: watch a segment without writing, then pause and write what it established from memory, then rewind briefly only if the recall failed.
+
+#### Embedded questions and interpolated testing
+
+Szpunar, Khan and Schacter (2013) found that inserting brief quizzes between segments of a video lecture reduced mind-wandering, increased note-taking, and improved retention on a final test — and reduced students' anxiety about the final test. Many platforms embed questions; if yours doesn't, make your own: at each pause, write one question about the segment and answer it later.
+
+#### Video for procedures
+
+Video is uniquely good at showing dynamic processes and demonstrations — a dissection, a dance step, a piece of software being used, a proof being written. For procedural learning: watch a step, pause, *do the step yourself*, compare. Never watch the whole procedure and then attempt it; the transient sequence will be gone.
+
+#### The failure mode
+
+Watching educational video while doing something else — cooking, commuting, half-working — is the most common way video is consumed and produces almost nothing. The material feels familiar afterward and is not retrievable. If it's background, treat it as entertainment; if it's learning, it needs your attention and a retrieval attempt afterward.
+
+### Online courses and MOOCs
+
+Massive open online courses promised to democratise elite education. Completion rates settled at roughly 5–15% (Jordan, 2014; Reich & Ruipérez-Valiente, 2019 found rates declining over time and little improvement from platform changes). The reasons are instructive: no accountability, no relatedness ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going)), passive video as the core, weak feedback, no adaptation to the learner, and the enrolment itself providing a hit of intention-satisfaction that substitutes for doing the work.
+
+The people who *do* complete and learn from online courses share habits:
+
+- **A specific reason** for taking it — a project, a job need, a gap identified — not "it looked interesting".
+- **A schedule**: fixed blocks in the calendar, treated as classes.
+- **Doing the exercises and assignments**, which is where the learning is; the videos are exposure.
+- **Community**: a study group, a cohort, a forum used actively, a partner. Cohort-based courses with deadlines and peers complete at many times the rate of self-paced ones.
+- **Retrieval built in**: notes as questions; weekly cumulative review; explaining the content to someone.
+- **Finishing something small and using it** before enrolling in the next thing.
+
+#### Choosing a course
+
+Prefer courses with substantial graded practice, projects, feedback (peer or automated), and a cohort or active community; prefer instructors who follow the multimedia principles (short segments, integrated visuals, no reading slides aloud). Be wary of courses that are mostly video with quizzes that are trivially guessable. And don't enrol in more than one at a time.
+
+### Podcasts and audiobooks
+
+Audio is excellent for exposure, for review of familiar material, for narrative non-fiction, for language input, and for occupying time that would otherwise be empty. It is poor for initial learning of complex, high-interactivity material — you cannot see the diagram, you cannot easily pause and reread, the information is maximally transient, and it is almost always consumed while doing something else.
+
+Use audio for what it does well:
+
+- **Review**, not first exposure: re-listening to a lecture you've already worked through, or an audio version of a book you've read, is spaced re-exposure and can be combined with retrieval (pause and predict what comes next).
+- **Comprehensible input** in a language you're learning ([Chapter 30](#30-learning-languages)).
+- **Narrative and argument** rather than technical detail.
+- **Walking**, which improves attention and mood ([Chapter 23](#23-exercise-nutrition-and-the-physical-brain)) — an audio review while walking is a genuinely good combination.
+- **Retrieval afterward.** Even for audio, a two-minute recall at the end of the episode roughly doubles what you keep.
+
+### Textbooks
+
+The textbook is the most efficient learning format there is for a motivated reader — dense, structured, learner-paced, permanent, with worked examples and problems — and the most underused. Students avoid it because it is hard, and because the lecture "covers" the same material more comfortably.
+
+[Chapter 16](#16-reading-to-learn-deep-reading-active-reading-and-reading-strategically) covers reading in detail. Specific to textbooks:
+
+- **Use the structure.** Chapter overviews, learning objectives, summaries and end-of-chapter questions are the author telling you what matters. Read the summary and the questions *first*.
+- **Do the problems**, interleaved and spaced, not all at the end of the chapter ([Chapter 10](#10-interleaving-and-variability-mixing-it-up)). The problems are where textbooks earn their value.
+- **Read before the lecture, not after.** The lecture becomes a second, elaborated exposure and a chance to ask about what didn't make sense.
+- **One good textbook, deeply**, beats three skimmed. Choose the one whose explanations work for you, and stick with it; use others only as references when stuck.
+- **Older editions** are usually nearly identical and much cheaper.
+
+### Non-fiction books
+
+Most non-fiction books make one argument at length. Reading them for learning ([Chapter 16](#16-reading-to-learn-deep-reading-active-reading-and-reading-strategically)): preview the argument; read the load-bearing chapters closely and skim the illustrative ones; retrieve after each chapter; write a one-page summary from memory at the end; revisit it in a few weeks. And read fewer, better: a book retrieved and revisited is worth ten books skimmed and forgotten.
+
+### Building your own course
+
+For self-directed learners, the most valuable skill in this chapter is assembling a course from available materials rather than depending on one. A structure that works:
+
+1. **Define the outcome.** What will you be able to *do* at the end? Concretely — a project, a task, an exam, a conversation.
+2. **Find the map.** A university syllabus, a textbook's table of contents, a "roadmap" from a practitioner community. You need the structure and the prerequisite order before the materials.
+3. **Choose a spine.** One primary resource — usually a textbook or a well-structured course — that you will actually complete. Everything else is supplementary.
+4. **Add practice.** Where will the problems, exercises and projects come from? If the spine lacks them, find a source. This is the most important step and the one most self-learners skip.
+5. **Add feedback.** Answer keys, test suites, a community, a tutor, a study partner. Somewhere your work gets checked.
+6. **Schedule.** Weekly blocks; new material at peak times; interleaved practice; a weekly cumulative retrieval; a spaced-repetition system for the factual layer.
+7. **Build in the retrieval.** Every session ends with a brain dump. Every week ends with a cumulative one. Notes are questions.
+8. **Set a finish line** and a way to demonstrate the outcome — the project shipped, the exam sat, the conversation had. Then start the next course.
+
+> [!RESEARCH]
+> Deslauriers, McCarty, Miller, Callaghan and Kestin (2019) taught the same physics content to the same students in two ways on different weeks: a polished, fluent traditional lecture, and an active-learning session in which students worked problems in groups before instruction. Students learned significantly more from the active sessions — and rated them lower, reporting that they felt they had learned *less* and preferring the lectures. The authors attribute the mismatch to the fluency of the lecture and the effortful, disfluent experience of active learning. Learners cannot feel which format is teaching them more; they can only feel which is more comfortable.
+
+> [!PRACTICE]
+> For your next lecture or video: pre-read for ten minutes and write three questions; watch or attend with notes as structure and questions only; pause (or mentally summarise) every ten minutes; and within 24 hours, reconstruct the whole thing from memory on a blank page before looking at your notes. Then compare the reconstruction to the notes. The parts you couldn't reconstruct were never learned — and now you know exactly what to review.
+
+The next chapter takes on the newest and most contested format of all: learning with AI.
+
+---
+
+# 35. Learning with AI — what the evidence actually shows
+
+*A careful look at generative AI as a learning tool — the randomised trials that show large gains and the ones that show harm, why the difference is entirely about how it's used, the cognitive risks of offloading, a set of prompts and practices that make AI a tutor rather than a crutch, and what remains unknown.*
+
+### The most important open question in learning
+
+Large language models arrived in 2022 and have already changed how millions of people study, write and code. They can explain any concept at any level, generate unlimited practice problems, give instant feedback, answer questions at 2 am, and — this is the problem — do the work for you. Whether they turn out to be the greatest educational technology ever invented or a machine for producing the illusion of learning depends on how they are used, and the research to date says both outcomes are real.
+
+This chapter is written in late 2026 with the evidence available to that point; the field moves fast, and specific findings should be checked. The principles are more stable than the findings, because they follow from how learning works.
+
+### What the trials show
+
+#### The good news: well-designed AI tutoring works
+
+**Kestin et al. (2025, *Scientific Reports*)** ran a randomised crossover trial in Harvard's introductory physics course. Students learned one topic with an AI tutor — GPT-4 wrapped in carefully engineered pedagogy: scaffolding, one step at a time, never giving the answer away, checking understanding — and another topic in a well-designed active-learning class. On post-tests, students learned about **twice as much** with the AI tutor, in less time, and reported higher engagement and motivation. The comparison condition was not a bad lecture; it was research-based active learning, which is itself far better than lectures.
+
+**World Bank (De Simone et al., 2025)**, Nigeria: a six-week after-school programme in which secondary students used GPT-4 (via Copilot) as an English tutor with a teacher present found effects of about **0.3 standard deviations** on English, AI knowledge and digital skills — which the authors convert to roughly 1.5–2 years of typical learning, and which compares favourably with almost all education interventions studied in low-income settings. Caveats: additional instruction time, teacher facilitation, short duration.
+
+Together with older results on intelligent tutoring systems (VanLehn's 2011 review found ITS effects around d = 0.76, near those of human tutors; Kulik & Fletcher's 2016 meta-analysis found d ≈ 0.66), these findings support the view that **one-to-one adaptive tutoring is extremely effective, and AI can now provide it at scale** — when it is designed to tutor.
+
+#### The bad news: unguided AI can harm learning
+
+**Bastani et al. (2025, *PNAS*)** ran a field experiment with about 1,000 high-school maths students in Turkey. Three conditions during practice sessions: no AI; **GPT Base** (a standard ChatGPT interface); and **GPT Tutor** (the same model with guardrails — hints, no direct answers, teacher-designed prompts). During practice, both AI groups did far better than control (GPT Base +48%, GPT Tutor +127% on practice problems). On the *unassisted exam afterward*, **students who had used GPT Base scored 17% worse than students with no AI at all.** GPT Tutor students scored about the same as control — the guardrails eliminated the harm but did not produce a gain on the exam. Analysis of chat logs showed GPT Base users predominantly asked for answers, and the model's answers were wrong a substantial fraction of the time. Students used the AI as a crutch, did not build the skill, and were worse off when it was removed.
+
+**Kosmyna et al. (2025, MIT Media Lab preprint)** had participants write essays with an LLM, with a search engine, or unaided, while recording EEG. The LLM group showed the weakest brain connectivity, the lowest sense of ownership of their essays, and — strikingly — most could not quote a sentence from an essay they had "written" minutes earlier. The authors called this "cognitive debt". The study is small (54 participants), a preprint, and the EEG interpretation is contested, but the behavioural finding — you don't remember what you didn't produce — is exactly what the generation effect ([Chapter 11](#11-elaboration-self-explanation-and-generation)) predicts.
+
+**Computing education** studies (Prather et al., 2023; Kazemitabaar et al., 2023) find novices with code-generation access complete more tasks during practice but show no advantage — sometimes a disadvantage — on subsequent unaided tests, and struggle to judge whether generated code is correct ([Chapter 32](#32-learning-to-program-and-other-technical-skills)).
+
+#### The noise: meta-analyses to be cautious about
+
+A widely cited 2025 meta-analysis (Wang & Fan, *Humanities and Social Sciences Communications*) reporting a large positive effect of ChatGPT on learning performance (g = 0.867) was **retracted in April 2026** after errors in the analysis were identified. Other syntheses (Deng et al., 2025; Wu et al., 2026) report moderate positive average effects but combine studies of wildly different designs, durations and uses, most measuring performance *with* the AI rather than learning *after* it. The field is young, heterogeneous, and prone to measuring the wrong thing. Treat any single headline number with suspicion.
+
+### Why the results diverge: the same principle as everything else
+
+The pattern across these studies is not mysterious. It is the learning-versus-performance distinction ([Chapter 2](#2-what-learning-actually-is)) and the generation effect ([Chapter 11](#11-elaboration-self-explanation-and-generation)), at scale:
+
+- **AI that does the cognitive work for you raises performance and lowers learning.** Getting the answer feels productive and produces nothing durable — like rereading, like watching a solution, like copying notes, only faster and more convincing.
+- **AI that makes you do the cognitive work, with support, raises learning.** Scaffolding, hints, questions, explanations of *your* errors, practice generation, feedback — this is what a good human tutor does, and it works for the same reasons.
+
+The tool is the same in both cases. The difference is entirely in the interaction design — and, when you're using a general-purpose model yourself, that design is up to you.
+
+### The specific risks
+
+**Cognitive offloading.** Every time you ask the model to do something you could have done, you lose the practice. Offloading is rational for things you already know and will never need to do unaided; it is corrosive for things you are trying to learn. The failure is invisible: the output is good, the task is done, and the skill was not built.
+
+**The fluency illusion, amplified.** A clear, confident, well-organised explanation produces a powerful sense of understanding ([Chapter 7](#7-desirable-difficulties-and-the-illusion-of-fluency)). LLM explanations are extremely fluent. The gap between "that made sense" and "I can do this" is wider with AI than with any previous medium.
+
+**Confident errors.** Models are wrong — sometimes subtly, often confidently — at a rate that depends on the domain and the question. A learner who cannot yet evaluate the domain cannot detect the errors and will learn them. Bastani et al. found GPT Base's answers were incorrect on about half of one problem type.
+
+**Metacognitive erosion.** If the model always knows, you never practise judging what you know ([Chapter 13](#13-metacognition-knowing-what-you-know)). Prather et al. describe novices "drifting" — accepting suggestion after suggestion without a plan or a model of what they were building.
+
+**Loss of desirable difficulty.** The struggle that produces learning — the retrieval attempt, the productive failure, the debugging — is exactly what the tool offers to remove. Removing it removes the learning.
+
+**Skill atrophy.** Skills you stop practising decay. Writing, mental arithmetic, navigating a codebase, reading a primary source — if the tool always does it, the capacity fades, and with it the ability to supervise the tool.
+
+### Using AI as a tutor: practices with evidence behind them
+
+Each of these maps an AI use onto a technique from Part II.
+
+#### Retrieval and self-testing
+- **"Quiz me."** Ask for questions on a topic — short-answer, not multiple-choice — at your level. Answer *before* it shows anything. Then ask it to grade and explain.
+- **"Ask me to explain X, then critique my explanation."** The Feynman technique with a knowledgeable listener ([Chapter 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching)).
+- **Generate practice problems** of a specified type, difficulty and variation — and mixed types, for interleaving ([Chapter 10](#10-interleaving-and-variability-mixing-it-up)). Pan et al. (2025) found LLM-generated prequestions produce the pretesting benefit.
+
+#### Elaboration and understanding
+- **"Explain why, not just what."** Ask for the mechanism, the reason, the counterexample.
+- **"Give me three examples from different domains."** Then ask what they share ([Chapter 19](#19-transfer-analogy-and-mental-models)).
+- **"Where does this analogy break down?"**
+- **"What misconceptions do people have about this, and why are they appealing?"** Refutational learning on demand.
+- **Explain first, then check.** Write your understanding; ask the model to identify what's wrong or missing. This is elaboration with feedback — and it ensures you generated before receiving.
+
+#### Scaffolding and worked examples
+- **"Don't give me the answer. Give me one hint and wait."** The single most important prompt. Repeat as needed.
+- **"Show me a worked example of a *similar* problem, then let me try this one."**
+- **"I'm stuck at this step; what question should I be asking myself?"** Pólya's heuristics delivered just in time.
+- **Fade the scaffolding** yourself: start with hints available, then forbid them.
+
+#### Feedback
+- **"Here's my solution / essay / code. Point out the problems; don't fix them."** Process-level feedback ([Chapter 21](#21-feedback-getting-it-using-it-giving-it)) that leaves the correction to you.
+- **"What would an expert notice about this that I haven't?"**
+- **"Grade this against this rubric and explain each score."**
+
+#### Metacognition
+- **"Before I look anything up, let me tell you what I think the answer is."** Then check. Calibration practice.
+- **"What are the prerequisites for understanding this, and how can I check whether I have them?"**
+- **Keep a log** of what you asked and what you got wrong; it's your error log ([Chapter 13](#13-metacognition-knowing-what-you-know)).
+
+#### Planning and materials
+- Building a syllabus, finding the structure of a domain, identifying the standard textbooks, generating a spaced review schedule, converting notes to flashcards, summarising a paper *after* you've read it to check your summary — these are legitimate uses where the model is a research assistant rather than a substitute for thinking.
+
+#### A system prompt for learning
+
+Many models let you set persistent instructions. Something like:
+
+> *I am learning, not looking for answers. Never give me a direct solution unless I explicitly say "show me the answer". Give one hint at a time and wait for my response. When I explain something, tell me what's wrong or missing before telling me what's right. Ask me questions to check my understanding. When I ask for an explanation, ask first what I already think, then correct and extend. Prefer questions to statements.*
+
+This turns a vending machine into a tutor. Kestin's group did this with a great deal more engineering; the basic version captures much of the benefit.
+
+### When to let it do the work
+
+Offloading is not always wrong. The question is: **is this a skill I am trying to build, or a task I am trying to complete?**
+
+- Formatting references, boilerplate code in a language you already know, translating a document you don't need to be able to translate, summarising a report you'll never need to summarise yourself — offload freely.
+- Understanding a concept you'll build on, writing you want to be able to write, code in a language you're learning, problems in a domain where you want competence — do it yourself, with the model as tutor.
+- The test: **could you supervise the output?** If you couldn't tell whether it's right, you are not ready to delegate it — and using it teaches you to trust what you can't check.
+
+### For teachers and parents
+
+- **Guardrails work.** Bastani's GPT Tutor eliminated the harm. Configure tools not to give answers; teach students to configure them.
+- **Assess the unaided skill.** If assessment can be completed by the tool, students will complete it with the tool, and learning will collapse. Assess retrieval, explanation, in-person problem-solving, oral defence.
+- **Teach the meta-skill explicitly.** Students need to know *why* asking for answers hurts them; the mechanism is not obvious, and the tool's fluency argues against it every time.
+- **Use it for what it's uniquely good at**: unlimited practice, instant feedback on drafts, adaptive explanation, patient repetition, availability.
+
+### What we don't know yet
+
+- **Long-term effects.** Almost all studies are short. Whether AI-tutored learning is as durable and transferable as conventional learning is not established.
+- **Effects on motivation and identity.** Does easy access to answers change whether people want to learn things?
+- **Effects across ability levels.** Early evidence suggests weaker students may be both the most helped by good tutoring and the most harmed by unguided use.
+- **Whether "supervisory" skill can be built without the underlying skill.** Experts supervise AI well because they can do the task; whether a generation that never did the task can supervise is an open and important question.
+- **The models themselves change** faster than the research can evaluate them.
+
+> [!KEY]
+> AI is the most powerful learning tool ever made available to individuals, and the most powerful tool for avoiding learning while feeling productive. Which one it is depends on a single variable: **whether you are doing the cognitive work with its help, or it is doing the cognitive work instead of you.** Configure it to tutor, not to answer. Generate before you receive. Verify what you can't yet judge. And periodically work without it, to check that the skill is yours.
+
+> [!PRACTICE]
+> Next time you'd normally ask an AI for an answer or explanation, do this instead: write your own best attempt first; then ask the model to critique it without giving the answer; revise; then, and only then, ask for the full explanation and compare. Notice that this takes three times as long — and that a week later you remember it, which is not true of the answers you simply read.
+
+The next chapter looks at how learning changes across the lifespan — from children through adolescents to older adults — and what each stage needs.
+
+---
+
+# 36. Learning across the lifespan
+
+*How learning differs — and doesn't — for young children, school-age children, adolescents, adults and older adults; what changes in the brain and what compensates; the specific adjustments each stage needs; and guidance for parents helping children learn.*
+
+### One machinery, changing conditions
+
+The core machinery of learning — attention, working memory, encoding, consolidation, retrieval, the effects of spacing and testing — is the same at every age. What changes is the capacity of the parts, the knowledge base they operate on, the motivational context, and the amount of control the learner has over their own conditions. Every technique in this guide works across the lifespan; the emphasis shifts.
+
+### Early childhood (0–6)
+
+#### What is special
+
+The young brain is in its period of maximum plasticity: synapses are overproduced and then pruned by experience; sensitive periods for vision, phonology and attachment are open; and learning happens largely through **implicit statistical extraction from experience** rather than deliberate study. Infants learn the phonemes of their language by hearing it; toddlers learn thousands of words from context; children absorb grammar without instruction. This is why immersion works for children in a way it doesn't for adults.
+
+Working memory and executive function are immature — the prefrontal cortex develops into the mid-twenties — so young children cannot sustain attention long, cannot follow multi-step instructions well, and cannot regulate their own learning. Metacognition barely exists.
+
+#### What matters most
+
+The research is unambiguous about what supports early cognitive development:
+
+- **Language exposure** — quantity and, especially, *quality*: back-and-forth conversation ("conversational turns") predicts language and later reading better than the raw word count (Romeo et al., 2018).
+- **Reading aloud**, from infancy, with talk about the book. The strongest single predictor of later literacy.
+- **Play**, including unstructured and imaginative play, which builds executive function, language and social cognition.
+- **Responsive, secure relationships**, which regulate stress and provide the safety to explore.
+- **Sleep** — enormous amounts; naps consolidate learning in young children as in adults.
+- **Physical activity and outdoor time.**
+
+What does *not* help: "educational" screen media for children under two (no evidence of benefit; displacement of interaction); flashcard drilling of infants; early formal academics at the expense of play. Programmes claiming to make babies read or do maths do not produce lasting advantages.
+
+#### Reading
+
+Learning to read is the one crucial skill that is *not* acquired implicitly; it must be taught. The evidence — decades of it, synthesised in the "science of reading" — is clear that **systematic phonics instruction** (explicitly teaching the mapping between letters and sounds) is more effective than whole-language or "balanced literacy" approaches that expect children to infer the code, especially for children at risk of difficulty (National Reading Panel, 2000; Castles, Rastle & Nation, 2018). Phonics plus rich vocabulary and comprehension work, plus lots of reading for pleasure once decoding is fluent.
+
+### School-age children (6–12)
+
+#### What changes
+
+Working memory, attention span and executive control grow steadily. Metacognition emerges: by about 8–10, children can begin to judge what they know and choose strategies, though inaccurately. Knowledge accumulates, and prior knowledge becomes the main driver of new learning, as in adults. Motivation shifts from mastery-for-its-own-sake toward comparison with peers, with attendant risks.
+
+#### What the research says about study for children
+
+- **Retrieval practice works** for children as young as primary school (Karpicke, Blunt & Smith, 2016), with the caveat that younger children need more support in retrieving — cues, partial prompts — because their retrieval strategies are immature. Low-stakes quizzing in classrooms improves outcomes.
+- **Spacing works** at all ages studied.
+- **Interleaving works** for older children; the evidence for very young children is thinner, and some blocked practice helps establish basics first.
+- **Worked examples and explicit instruction** matter even more for children than adults, because of smaller working memory and less prior knowledge.
+- **Children's metacognition is poor**, so they choose study methods badly (rereading, massing) and need the effective ones *built into* the materials and routines by adults rather than left to choice.
+- **Sleep needs are high** (9–12 hours) and chronically unmet; sleep restriction in children impairs attention and behaviour in ways often mistaken for ADHD.
+- **Physical activity** improves attention and academic performance, with meta-analytic support; recess is not time lost from learning.
+
+#### For parents
+
+- **Read together, daily, well past the age when the child can read alone.** Discuss the book.
+- **Ask "why" and "how"**, and let the child explain things to you. Children who explain learn more (the protégé effect works early).
+- **Praise process and strategy, not intelligence** (Mueller & Dweck, 1998). "You found a good way to do that" rather than "you're so smart".
+- **Make retrieval a game**: "tell me three things you learned today"; quizzing at dinner; the child teaching the parent.
+- **Protect sleep and physical activity** as fiercely as homework.
+- **Don't do the homework.** Help with the process (where to start, what the question is asking); don't supply the answers. The struggle is the learning.
+- **Manage screens** less by rules about minutes than by ensuring the displaced activities — play, reading, sleep, conversation, exercise — actually happen.
+- **Maths anxiety is contagious.** If you have it, be careful what you signal; get help helping.
+
+### Adolescence (12–20)
+
+#### What is special
+
+Adolescence is a second period of heightened plasticity and reorganisation, particularly in the prefrontal cortex and its connections to limbic reward and emotion systems. Executive control matures through the early twenties, while reward sensitivity and social motivation peak earlier — the "developmental mismatch" that explains much adolescent behaviour. Abstract reasoning becomes fully available. Metacognition can be accurate but is often not exercised.
+
+Two facts about adolescent biology matter enormously for learning:
+
+- **Circadian rhythms shift later**, by one to two hours. Adolescents are biologically inclined to sleep and wake later; early school start times produce chronic sleep deprivation with measurable costs to attention, mood and grades ([Chapter 22](#22-sleep-the-other-half-of-learning)). Delayed start times improve outcomes.
+- **Sleep need remains high** (8–10 hours) while sleep obtained falls, often below 7. Adolescent sleep deprivation is a public-health problem masquerading as laziness.
+
+#### Learning in adolescence
+
+- All the Part II techniques work fully. Adolescents are capable of self-regulated learning but are rarely taught it; explicit instruction in retrieval, spacing and metacognition produces gains.
+- **Social context dominates motivation.** Peer norms about effort and achievement predict individual behaviour strongly (Yeager et al.'s mindset effects were largest where peers valued challenge). Study groups and communities that normalise effort help; environments that stigmatise it hurt.
+- **Autonomy matters more than at any other age.** Adolescents resist control and respond to choice, respect and reasons ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going)). "Because I said so" fails; "here's why this works, and here's how to make it yours" has a chance.
+- **Identity is forming**, and beliefs about ability and belonging set now can persist. This is where fixed-mindset messages and stereotype threat do the most damage, and where belonging interventions have shown their clearest effects.
+- **Distraction is at its peak**: phones, social media and the rewards they deliver are especially potent for the adolescent reward system. Environmental design ([Chapter 27](#27-habits-environment-design-and-procrastination)) is more effective than exhortation.
+- **Risk-taking and novelty-seeking** can be harnessed: challenging, real, consequential projects engage adolescents in ways routine assignments don't.
+
+### Adulthood (20–60)
+
+#### What is special
+
+Fluid abilities — processing speed, working memory, raw new-episodic-memory formation — peak in the twenties and decline very gradually thereafter. Crystallised abilities — vocabulary, knowledge, expertise — keep growing into the sixties and beyond. For most real learning, which depends heavily on prior knowledge, adults are at or near their peak for decades.
+
+The adult learner's constraints are mostly external: time, energy, competing obligations, and the absence of the structure that school provided. And one internal: the loss of the child's effortless implicit plasticity, replaced by a system that requires **attention and engagement** to change ([Chapter 3](#3-the-brain-that-learns-neuroplasticity-and-what-actually-changes)). Adults don't absorb; they must attend.
+
+#### Learning as an adult
+
+- **Time is the constraint; efficiency is the goal.** Every technique in this guide is about learning more per hour. Spaced retrieval, interleaving and deliberate practice are how adults with an hour a day outperform students with six.
+- **Prior knowledge is the asset.** Connect new learning explicitly to what you know; learn in domains adjacent to your expertise when possible; use analogies from your field.
+- **Structure must be self-supplied.** Courses, cohorts, tutors, communities and schedules replace the school's scaffolding. Isolated self-study has a high failure rate for reasons of relatedness and accountability, not ability ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going)).
+- **Sleep and exercise are under the most pressure and matter as much as ever.**
+- **Expect the adult accent** in languages and the slower motor learning in physical skills — and know that both reach high competence with practice.
+- **Reskilling is normal**, and the meta-skill of learning how to learn compounds across every job change.
+
+### Older adulthood (60+)
+
+#### What changes
+
+Honest description of normal ageing (not dementia):
+
+- **Processing speed** slows; everything takes a little longer.
+- **Working memory** and the ability to filter distraction decline modestly; multitasking becomes costlier.
+- **Episodic memory** — forming new memories for events and arbitrary facts — declines; learning new names, new arbitrary pairings, new interfaces takes more repetitions.
+- **Slow-wave sleep** diminishes, and with it the efficiency of overnight consolidation; the coupling of slow oscillations and spindles weakens (Helfrich et al., 2018).
+- **Hippocampal volume** shrinks about 1–2% a year after 60 in sedentary people — a decline that aerobic exercise measurably reverses (Erickson et al., 2011).
+
+#### What doesn't change, or improves
+
+- **Semantic memory and vocabulary** continue to grow.
+- **Expertise and pattern recognition** in familiar domains remain strong.
+- **Procedural memory** for well-learned skills is robust.
+- **Emotional regulation** typically improves.
+- **Plasticity persists.** Older adults learning juggling (Boyke et al., 2008), languages, instruments and new technology show measurable brain change and real skill acquisition.
+
+#### Learning in older adulthood
+
+The research on cognitive ageing and learning (e.g., Park's Synapse Project; studies of older learners) supports:
+
+- **More repetitions, more spaced.** New episodic material needs more exposures; spread them out. Spaced retrieval works well in older adults (the pretesting effect is intact throughout adulthood — Yan et al., 2025).
+- **Reduce load.** Fewer new elements at once; learn parts before whole; minimise distraction, which is more costly.
+- **Lean on prior knowledge and schemas.** Learning in or near familiar domains is dramatically easier; use analogies to what you know.
+- **Prefer the effective techniques even more strongly.** Retrieval practice and elaboration compensate for weaker automatic encoding.
+- **Protect sleep**; treat sleep disorders, which are common and under-diagnosed.
+- **Exercise** — the best-evidenced intervention for cognitive health in older adults, with effects on hippocampal volume and memory ([Chapter 23](#23-exercise-nutrition-and-the-physical-brain)).
+- **Learn hard things.** The Synapse Project (Park et al., 2014) found that older adults who spent 15 hours a week for three months learning *demanding new skills* (digital photography, quilting) improved episodic memory, while those in social or passive activity groups did not. Challenge, not mere activity, drives the benefit.
+- **Social learning.** Classes and groups provide relatedness and accountability and are associated with better cognitive outcomes.
+- **Ignore "brain training"**; learn actual things ([Chapter 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil)).
+
+### Common threads
+
+Across every age:
+
+- The effective techniques — retrieval, spacing, interleaving, elaboration, feedback — work. The support needed to use them varies: built in by adults for children; taught explicitly to adolescents; self-imposed by adults; adapted for load and repetition by older adults.
+- Sleep is a learning variable at every age and is chronically shortchanged at every age.
+- Physical activity improves cognition at every age, with the largest effects at the two ends of life.
+- Motivation runs on autonomy, competence and relatedness throughout; the relative weight shifts (relatedness and autonomy dominate adolescence; autonomy and competence dominate adulthood).
+- The belief that it's too late is wrong at every age, and the belief that it's automatic is wrong at every age except the first few years.
+
+> [!RESEARCH]
+> Park et al. (2014) randomly assigned adults aged 60–90 to three months of about 15 hours a week in one of several conditions: learning digital photography, learning quilting, learning both, a social group with no new skill, or a placebo of low-demand activities at home. Only the groups that learned demanding new skills showed significant improvement in episodic memory. Activity, socialising and engagement alone did not do it; sustained, effortful acquisition of a genuinely new skill did. The brain's response to challenge does not retire.
+
+> [!PRACTICE]
+> Whatever your age, identify one adjustment from this chapter that fits your stage: a parent building retrieval into dinner conversation; an adolescent moving the phone out of the bedroom and negotiating a later start; an adult joining a cohort instead of studying alone; an older learner choosing a genuinely demanding new skill and doubling the spaced repetitions. Make that one change this week.
+
+The next chapter turns to the social dimension of learning: how to learn with and from other people.
+
+---
+
+# 37. Learning with others — study groups, peers, mentors and communities
+
+*What the research says about collaborative learning, peer instruction and tutoring; how to run a study group that actually works (and why most don't); finding and using mentors; learning in communities of practice; accountability partners and body doubling; and the social side of motivation.*
+
+### Learning is social — but not automatically
+
+Humans learned from each other for hundreds of thousands of years before anyone studied alone with a book. Social learning is deeply built in: we imitate, we teach, we argue, we explain, we watch. And the research confirms that well-structured learning with others outperforms learning alone in many conditions — while also confirming that *badly* structured group learning is worse than solitude. The group is a tool with specific uses and specific failure modes.
+
+### What the evidence shows
+
+#### Cooperative learning
+
+Johnson and Johnson's decades of research and meta-analyses find cooperative learning — students working together toward shared goals with individual accountability — outperforms both competitive and individualistic learning on achievement, with effect sizes around d = 0.5–0.6. Slavin's reviews concur, with a crucial condition: the benefits appear when there are **group goals *and* individual accountability**. Groups where one person can do the work and everyone gets the credit do not produce learning for the others.
+
+#### Peer instruction
+
+Eric Mazur's **peer instruction**, developed for Harvard physics: the instructor poses a conceptual question; students answer individually; then they discuss with neighbours and try to convince each other; then answer again. Answer accuracy rises sharply after discussion, and — the important part — students learn more over the course (Crouch & Mazur, 2001; Smith et al., 2009 showed the gains came from genuine learning during discussion, not just copying the confident student, because students also improved on *new* isomorphic questions). The mechanism is articulation, argument and confrontation of misconceptions — elaboration and retrieval with a partner.
+
+#### Peer tutoring
+
+Peer tutoring — students teaching students — benefits both the tutee and, often more, the tutor (the protégé effect, [Chapter 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching)). Meta-analyses (Cohen, Kulik & Kulik, 1982; Leung, 2015; Bowman-Perrott et al., 2013) find moderate positive effects on achievement for both roles, across ages and subjects. Structured programmes with training for tutors work better than informal ones.
+
+#### The collective working memory effect
+
+Kirschner, Paas and Kirschner (2009) found that groups outperform individuals on **complex** tasks that exceed one person's working memory — the load is distributed — but that on **simple** tasks, the coordination cost of collaboration exceeds the benefit, and individuals do better. Groups are for hard problems.
+
+#### Social facilitation and social loafing
+
+The presence of others improves performance on well-learned tasks and can impair it on novel, difficult ones (Zajonc's social facilitation). In groups, individuals tend to contribute less than they would alone when contributions aren't identifiable (Latané's social loafing). Both findings shape how groups should be structured: visible individual contributions; the hard, novel work done alone first and then brought to the group.
+
+#### Explanation and argument
+
+Learners who explain to peers learn more than those who only listen (Webb's classroom research; the learning-by-teaching literature). Learners who *argue* — who must defend a position against a peer's challenge — engage in exactly the elaborative, error-confronting processing that produces conceptual change (Asterhan & Schwarz). A group in which everyone agrees quickly is learning less than one in which people disagree and work it out.
+
+### Why most study groups fail
+
+Anyone who has been in a study group knows the failure modes:
+
+- **Socialising.** The group becomes a pleasant gathering with study as pretext.
+- **The one who does the work.** One person explains everything; the others nod and learn little (no individual accountability).
+- **Pooled ignorance.** Nobody knows the answer; the group converges on a plausible wrong one and everyone leaves confident.
+- **Rereading together.** The group does collectively what is ineffective individually — going over notes, reading the slides.
+- **Diffusion of responsibility.** "We'll cover that in the group" replaces individual preparation.
+- **Lowest-common-denominator pacing.**
+- **No structure.** No agenda, no defined tasks, no end.
+
+Every one of these is predictable from the research above, and every one is fixable by design.
+
+### Running a study group that works
+
+#### Principles
+
+1. **Individual preparation first.** Everyone does the reading, the problems, the retrieval attempt *before* the meeting. The group is for what can't be done alone: comparing, arguing, explaining, testing each other. Groups that prepare together do the easy part socially and the hard part not at all.
+2. **Individual accountability.** Each person must produce something visible: explain a topic, present a solution, answer a question. Rotate roles so no one hides.
+3. **Retrieval, not review.** The group's main activities are testing each other (closed notes), explaining from memory, and solving problems together — not going over material.
+4. **Disagreement is the point.** When answers differ, argue it out before checking; the argument is the learning. Then check against an authority.
+5. **Size: three to five.** Two lacks diversity; six or more allows loafing.
+6. **Structure: agenda, timer, roles.** A short plan, a fixed length (60–90 minutes), and a facilitator who keeps it moving.
+7. **Comparable commitment.** Mismatched effort levels destroy groups. It is better to find committed partners than to accommodate uncommitted ones.
+
+#### Formats that work
+
+**Teach-and-quiz.** Each member prepares one topic and teaches it (10 minutes, no notes); the others question and quiz them; then the group writes three questions on it for a shared bank. Rotate.
+
+**Problem parliament.** Everyone solves the same problem set alone in advance. In the meeting, compare answers; wherever they differ, each side argues its case; resolve; identify the misconception that produced the wrong answer. Then attempt a hard problem together that no one could do alone.
+
+**Peer instruction, self-run.** One member brings conceptual multiple-choice questions (or the group uses a bank). Everyone commits to an answer silently, then pairs discuss and try to convince each other, then re-vote, then check and explain.
+
+**Mock exam and mark.** The group sits a practice test under exam conditions, then marks each other's papers against a scheme and discusses each disagreement.
+
+**Explain-to-the-novice.** One member plays a bright beginner; another explains a concept from scratch in plain language; the beginner asks every "why" they can. The Feynman technique ([Chapter 20](#20-problem-solving-the-feynman-technique-and-learning-by-teaching)) with a real interlocutor.
+
+**Error clinic.** Everyone brings their error log; the group diagnoses patterns and prescribes practice.
+
+#### Online groups
+
+Video calls work for all of the above with a shared document for writing. Text-based groups (chat, forum) are good for asynchronous question-and-answer and accountability, weaker for the real-time argument that drives conceptual change. Combine: a weekly call, a channel in between.
+
+### Study partners and accountability
+
+Not every social structure needs to be a group. A single partner supplies much of the benefit:
+
+- **Accountability.** You show up for a standing appointment with a person when you wouldn't for yourself. Commitment devices work best when someone else sees them ([Chapter 27](#27-habits-environment-design-and-procrastination)).
+- **Body doubling.** Simply working in the presence of another person who is working — in the same room or on a video call, no interaction — reliably improves focus and reduces procrastination for many people, especially those with ADHD ([Chapter 38](#38-learning-with-adhd-dyslexia-autism-and-other-differences)). Online "study with me" streams and co-working sessions exploit this.
+- **Quizzing.** A partner who tests you provides retrieval practice with the social pressure to commit to an answer.
+- **Teaching each other.** Two people learning the same material can alternate explaining; two learning different things can teach each other, which forces plain-language explanation.
+
+### Mentors and experts
+
+A mentor is not a tutor; a mentor supplies the things a novice cannot get from materials: a model of what expertise looks like, calibration of your self-assessment, direction about what matters and what to work on, feedback on things you can't yet evaluate, and access to the community's tacit knowledge ([Chapter 18](#18-deliberate-practice-and-the-development-of-expertise) on why early deliberate practice needs a guide).
+
+Finding one: mentors are rarely acquired by asking "will you be my mentor". They accumulate from *doing things in the domain visibly* — asking good questions in communities, sharing work for critique, contributing, showing up. People help those who have demonstrated effort and who make helping easy: specific questions, respect for time, follow-through, gratitude.
+
+Using one: come with specific questions and with work already done ("here's what I tried; here's where I'm stuck; what am I missing?"). Ask for process feedback ("how would you approach this?") rather than answers. Report back on what you did with the advice. A mentor's time is the scarcest resource in your learning; spend it on what only they can provide.
+
+### Communities of practice
+
+Lave and Wenger's concept: learning as increasing participation in a community — apprentices at the edge, gradually taking on more central roles ("legitimate peripheral participation"). Much real-world expertise is acquired this way: the norms, judgment, vocabulary and tacit knowledge of a field are learned by being around people who have them, not from books.
+
+For a self-directed learner, joining a community — a forum, a Discord, a local meetup, an open-source project, a club, a professional association — provides: models of expertise, feedback, the language of the field, motivation through relatedness, accountability, opportunities to teach, and the tacit knowledge that no course contains. Participate, don't lurk: ask, answer, share work, contribute. Answering others' questions is retrieval practice and teaching; having your work critiqued is feedback you can't get alone.
+
+### Learning from others without a group
+
+- **Watch experts work** — with attention directed to *how* they think, not just what they produce. Live-coding streams, masterclasses, think-aloud demonstrations, surgical videos with commentary.
+- **Read others' solutions after solving yourself.** How did they approach it? What did they see that you didn't?
+- **Ask better questions.** A question that shows what you tried and where exactly you're stuck gets useful answers; "how do I do X" gets links.
+- **Contribute answers.** Every answer you write for someone else is retrieval, elaboration and teaching, with a feedback loop when they respond.
+
+### The social side of motivation
+
+Relatedness is one of SDT's three needs ([Chapter 25](#25-motivation-why-you-learn-and-how-to-keep-going)), and its absence is the leading cause of abandoned self-study. Beyond the cognitive benefits above, learning with others supplies: the sense that the effort matters to someone; norms that make effort normal rather than odd; witnesses to progress; people to celebrate with; and a reason to show up on the days motivation is gone. The research on MOOC completion, on language-learning persistence and on exercise adherence all points the same way: people who learn in company keep learning.
+
+> [!RESEARCH]
+> Smith et al. (2009, *Science*) tested whether peer discussion in Mazur-style peer instruction produces real learning or merely lets students copy the confident. After discussing a conceptual genetics question, students answered a *second, isomorphic* question alone — same principle, different surface. Performance on the new question rose substantially after discussion, even in groups where *no one* had initially known the right answer. Students weren't copying; they were reasoning together toward understanding they hadn't had individually — the collective working memory effect and argument-driven conceptual change in action.
+
+> [!PRACTICE]
+> Find one other person learning what you're learning — or willing to be taught it. Set a weekly 45-minute appointment. Structure: each of you prepares alone; in the meeting, quiz each other closed-book for 15 minutes, each explain one hard concept from memory for 10, and spend the rest arguing over any problem you answered differently before checking. Do it for a month. Then notice what happens to your consistency, and to your understanding of the things you had to explain.
+
+The last domain chapter addresses learners whose brains work differently from the textbook default — with ADHD, dyslexia, autism and other differences — and what the research says actually helps.
+
+---
+
+# 38. Learning with ADHD, dyslexia, autism and other differences
+
+*What the research says about how ADHD, dyslexia, dyscalculia, autism and related conditions affect learning; which general strategies apply unchanged, which need adapting, and which specific approaches have evidence; and how to build a learning system around the brain you have rather than the one the textbooks assume.*
+
+### The textbook learner doesn't exist
+
+Most learning advice assumes a learner with typical attention, typical working memory, typical reading fluency and typical sensory processing. A substantial fraction of people — estimates run from 15% to 20% of the population across all neurodevelopmental conditions — don't fit that profile, and for them, generic advice ranges from unhelpful to actively harmful ("just focus"; "read it again"; "try harder").
+
+This chapter is not a clinical guide. It describes, for the most common conditions, how learning is affected, which general principles still apply (most of them), what needs adjusting, and what specific evidence exists. Two framing points first.
+
+**Difference, not deficit — with real costs.** Neurodevelopmental conditions involve genuine difficulties in some domains, often alongside strengths in others. Both halves are true. Pretending there are no difficulties denies people the accommodations that work; pretending there are no strengths wastes them.
+
+**The principles of learning are the same; the constraints differ.** Retrieval, spacing, elaboration and the rest work for everyone whose brain forms memories. What changes is the environment, the load management, the motivation structure and the supports needed to actually *do* them.
+
+### ADHD
+
+#### How it affects learning
+
+ADHD involves differences in executive function — sustained attention, working memory, inhibition, task initiation, time perception — and in reward processing: the dopaminergic systems that make delayed rewards motivating are less responsive, so tasks without immediate interest or consequence are extraordinarily hard to start and sustain. This is not a motivation problem in the moral sense; it is a neurological one. Russell Barkley describes ADHD as a disorder of *performance*, not knowledge: people with ADHD often know exactly what to do and cannot make themselves do it.
+
+Learning consequences: difficulty starting and sustaining study; working memory overload at lower thresholds; losing the thread in long texts and lectures; time blindness (underestimating how long things take, losing track of time); forgetting to do what was planned; procrastination that is more severe and more resistant than in others; and, on the other side, intense sustained focus (hyperfocus) on things that are interesting, and often strong performance under urgency.
+
+#### What the research supports
+
+- **Medication** (stimulants) is the most effective single intervention for ADHD symptoms, with large effects on attention and impulsivity in meta-analyses, and improves academic performance modestly. It is a medical decision made with a clinician; it makes the strategies below usable, and doesn't replace them.
+- **Exercise** has larger cognitive effects in ADHD than in the general population (Singh et al., 2025 umbrella review; many earlier). Acute exercise before study measurably improves attention for the following hour or two.
+- **Environmental structure** matters more than for anyone else: external cues, timers, visible plans, removed distractions, because the internal executive that others use is less reliable.
+- **Behavioural strategies** — breaking tasks down, external reminders, immediate rewards, accountability — have moderate evidence and are what most adults with ADHD find indispensable.
+- **CBT adapted for ADHD** improves organisation and time management in adults.
+
+#### Adapting the guide
+
+- **Externalise everything.** Working memory is unreliable; so put the plan, the timer, the next step and the deadline outside your head — on paper, on the wall, in alarms. "If it isn't visible, it doesn't exist."
+- **Shrink the start.** Task initiation is the bottleneck. The first step must be trivially small and pre-decided ([Chapter 27](#27-habits-environment-design-and-procrastination)): "open the file and read one paragraph". Implementation intentions matter more, not less.
+- **Short blocks, real breaks.** Pomodoro-style structures suit ADHD well; some prefer very short blocks (10–15 minutes) with movement breaks. Let the block end before attention collapses.
+- **Manufacture urgency and interest.** Deadlines, bets, a partner waiting, a timer racing, gamification — the ADHD brain runs on interest, novelty, challenge and urgency, and these can be engineered. Study *with* someone (body doubling — [Chapter 37](#37-learning-with-others-study-groups-peers-mentors-and-communities)) is disproportionately effective.
+- **Interleave and vary aggressively.** Novelty sustains attention; switching topics on a schedule (before boredom, not after) uses the interleaving benefit *and* the ADHD need for change.
+- **Active over passive, always.** Reading and listening lose ADHD attention fast; retrieval, problem-solving, explaining aloud, writing, drawing hold it. Convert every passive task to an active one.
+- **Use hyperfocus deliberately.** When it comes, protect it — clear the schedule, have the materials ready. Don't rely on it; it's not controllable.
+- **Movement helps.** Standing desks, fidget tools, pacing while reviewing, walking while listening. Suppressing movement consumes attention.
+- **Reduce load harder.** ADHD working memory overloads sooner: one thing at a time, materials integrated, prerequisites fluent.
+- **Externalise time.** Visible timers, time-blocked calendars, alarms for transitions. Time blindness is real; clocks fix it.
+- **Sleep** is often disrupted in ADHD (delayed circadian phase is common) and sleep loss worsens every symptom. Treat it as a priority.
+- **Self-compassion, not self-criticism.** Years of "try harder" produce shame, and shame produces avoidance ([Chapter 27](#27-habits-environment-design-and-procrastination)). The problem is executive function, not character.
+
+### Dyslexia
+
+#### How it affects learning
+
+Dyslexia is a specific difficulty with reading — decoding written words fluently and accurately — that is not explained by intelligence or instruction, and has a well-established basis in phonological processing (mapping sounds to symbols). It affects perhaps 5–10% of people. Reading is slow and effortful; spelling is hard; and because reading consumes so much working memory, comprehension and learning from text suffer even when the underlying reasoning is strong. Dyslexia often co-occurs with difficulties in working memory and rapid naming, and with strengths in reasoning, big-picture thinking and spatial ability (the strengths evidence is more mixed than popular accounts suggest, but they are common).
+
+#### What the research supports
+
+- **Structured, systematic phonics instruction** is the evidence-based intervention for children, and remediation continues to help older learners, though the gap in fluency usually persists.
+- **Accommodations** — extra time, text-to-speech, audiobooks, oral assessment — remove the barrier without lowering the standard, and are supported by evidence that they specifically help dyslexic readers.
+- **Font and colour interventions** (special dyslexia fonts, coloured overlays) have not shown reliable benefits in controlled studies, despite popularity.
+- **Multisensory approaches** (Orton-Gillingham and descendants) have long clinical use and modest formal evidence.
+
+#### Adapting the guide
+
+- **Get information through channels that don't depend on decoding.** Audiobooks, text-to-speech (now excellent), lectures, video, conversation. A dyslexic learner listening to a textbook is doing the same cognitive work as a typical learner reading it; the bottleneck is decoding, not understanding.
+- **Read with text-to-speech simultaneously** (bimodal reading): seeing and hearing the text together improves comprehension and reduces load for many dyslexic readers.
+- **Reduce reading volume; increase depth.** Fewer texts, chosen well, worked deeply with retrieval and elaboration — which is good advice for everyone and essential here.
+- **Dual coding is disproportionately valuable.** Diagrams, maps, videos and models carry information without text. Build and use visual representations ([Chapter 12](#12-dual-coding-multimedia-principles-and-worked-examples)).
+- **Retrieval and elaboration work fully.** The memory systems are intact; only the input channel is impaired. Brain dumps by speaking (voice notes) rather than writing; explaining aloud; teaching.
+- **Spaced repetition** for spelling and vocabulary, with audio on the cards.
+- **Notes by voice, diagram and keyword** rather than prose. Speech-to-text for writing drafts.
+- **Time.** Everything text-based takes longer; plan for it rather than being ambushed by it. Use the accommodations you're entitled to.
+- **Fluency in what can be made fluent.** High-frequency words and domain vocabulary, practised to automaticity, free capacity for the rest.
+
+### Dyscalculia
+
+A specific difficulty with number — magnitude sense, number facts, arithmetic — affecting perhaps 3–6% of people, distinct from maths anxiety (though the two feed each other). The evidence base is smaller than for dyslexia. What helps: explicit, concrete-to-abstract instruction (manipulatives, number lines, visual models before symbols); a great deal of spaced practice on number facts to automaticity, since lack of fluency in basics is the primary bottleneck; use of tools (calculators, reference sheets) for computation so that reasoning can proceed; and — because maths is cumulative — going back to fill the specific gaps rather than pushing forward ([Chapter 31](#31-learning-mathematics-and-quantitative-subjects)). Maths anxiety interventions ([Chapter 24](#24-stress-anxiety-and-emotion-in-learning)) matter here too.
+
+### Autism
+
+#### How it affects learning
+
+Autism involves differences in social communication, sensory processing, and cognitive style — often including strong systematising and detail focus, preference for explicit rules and predictability, difficulty with implicit or socially transmitted information, and vulnerability to sensory overload. The learning consequences are heterogeneous, but common ones include: excellent learning of explicit, structured, rule-based material; difficulty extracting what's "expected" when it isn't stated; overload in noisy, unpredictable environments (which most classrooms are); difficulty with group work that depends on reading social cues; intense, deep interests that can drive extraordinary learning; and executive function difficulties that overlap with ADHD (co-occurrence is common).
+
+#### Adapting the guide
+
+- **Make the implicit explicit.** Autistic learners often do well when expectations, criteria, structures and reasons are stated rather than inferred. Seek out — or write down for yourself — the rubric, the goal, the structure, the "why". Much apparent difficulty is unstated requirements.
+- **Control the sensory environment.** Noise-cancelling headphones, controlled lighting, a predictable space. Sensory load is cognitive load; reducing it frees capacity.
+- **Predictability and routine** support learning: a fixed schedule, a consistent format, advance notice of change. The habit structures of [Chapter 27](#27-habits-environment-design-and-procrastination) fit naturally.
+- **Leverage systematising.** Explicit frameworks, taxonomies, rules and structures are strengths; build knowledge as systems. Concept maps, formal notation and structured notes suit this.
+- **Use deep interests as engines.** Intense interests produce sustained deliberate practice effortlessly. Where possible, connect required learning to them; where not, use them as the model of what engaged learning feels like.
+- **Adapt social learning rather than avoiding it.** Group work is often aversive, but the cognitive benefits of explaining and arguing are real. Structured formats with clear roles and turns (teach-and-quiz, written asynchronous exchange, one partner rather than a group) capture the benefit with less social load.
+- **Literal reading of questions.** Ambiguous exam questions and figurative language cause disproportionate trouble; practising the interpretation of question types explicitly helps.
+- **Don't assume the strategy that "works for everyone" works.** Some autistic learners find retrieval practice and interleaving excellent; a few find the unpredictability of interleaving distressing and do better with structured serial practice. The principles hold; the implementation may need tuning to the individual.
+
+### Related and co-occurring differences
+
+- **Developmental language disorder** affects understanding and producing language; visual supports, reduced verbal load, and extra processing time help.
+- **Developmental coordination disorder (dyspraxia)** affects motor planning; handwriting is effortful (typing helps), and motor-skill learning needs more repetitions with explicit instruction.
+- **Working-memory difficulties** without another diagnosis are common and respond to load reduction, externalisation and chunk-building; working-memory "training" does not fix them ([Chapter 14](#14-what-doesnt-work-myths-low-utility-techniques-and-snake-oil)).
+- **Anxiety and depression** co-occur with all of the above at elevated rates and impair learning independently ([Chapter 24](#24-stress-anxiety-and-emotion-in-learning)). Treating them is part of treating the learning difficulty.
+- **Co-occurrence is the norm.** ADHD + dyslexia, autism + ADHD, and other combinations are common; profiles are individual.
+
+### General principles for neurodivergent learners
+
+1. **Get assessed if you suspect something.** A diagnosis is information: it tells you which strategies fit, unlocks accommodations, and replaces a story about character with a story about mechanism. Adult diagnosis is common and worthwhile.
+2. **Use the accommodations.** Extra time, alternative formats, assistive technology. They correct for a bottleneck that has nothing to do with what's being assessed.
+3. **Identify your specific bottleneck.** Is it input (decoding), attention (initiation, sustaining), working memory (overload), output (writing, speaking), or environment (sensory)? Target it. The rest of your cognition may be entirely typical or above.
+4. **Route around the bottleneck rather than through it.** Audio for dyslexia; externalised executive function for ADHD; explicit structure for autism. Pushing through a deficit consumes capacity the learning needs.
+5. **The evidence-based techniques still apply.** Retrieval, spacing, elaboration, dual coding, feedback, sleep, exercise. Adapt the *how*; keep the *what*.
+6. **Design the environment for your brain**, not for the imaginary default learner.
+7. **Find others like you.** Communities of neurodivergent learners share strategies no textbook contains and supply the relatedness that isolation removes.
+8. **Reject the moral framing.** Difficulty starting is not laziness; slow reading is not stupidity; needing structure is not weakness. Decades of being told otherwise leave shame, and shame is the enemy of the effortful, error-tolerant behaviour learning requires.
+
+> [!RESEARCH]
+> Singh et al.'s 2025 umbrella review in the *British Journal of Sports Medicine* found that the cognitive benefits of exercise were larger for people with ADHD than for the general population — one of the largest subgroup effects in the analysis. Combined with earlier findings that acute moderate exercise improves attention and executive function for one to two hours afterward, this makes a 20-minute brisk walk before a study session one of the best-evidenced, cheapest and most under-used accommodations for ADHD.
+
+> [!PRACTICE]
+> Identify your single largest bottleneck — the thing that most often stops learning from happening. Then find the one adaptation in this chapter that routes around it: a timer and a body double for initiation; text-to-speech for decoding; explicit rubrics for unstated expectations; headphones and a fixed space for sensory load. Implement that one thing for two weeks before adding anything else. Design for the brain you have.
+
+Part IV is complete. Part V puts everything together: a personal learning system, ready-made plans, troubleshooting, a cheat sheet, and the references.
 
 ---

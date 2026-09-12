@@ -28,7 +28,7 @@ delivered as (a) a static website in `site/` and (b) a single Markdown adaptatio
 
 ## Next step
 
-Write Part IV: ch30-languages next, 31..38; then Part V 39..45. After each: build, commit, push main. Parts I–III done (29 ch).
+Write Part V: ch39-personal-system next, 40..45. After each: build, commit, push main. Parts I–IV done (38 ch).
 
 ## Chapter plan (target ~40 chapters, each 2,000–6,000 words)
 
