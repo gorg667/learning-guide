@@ -218,7 +218,11 @@ h2:hover .anchor, h3:hover .anchor, h4:hover .anchor { opacity: 1; text-decorati
   .sidebar { position: fixed; left: 0; top: 56px; height: calc(100vh - 56px); transform: translateX(-100%); transition: transform .2s ease; z-index: 40; box-shadow: var(--shadow); }
   body.nav-open .sidebar { transform: none; }
   .top-link { display: none; }
-  #search { width: 150px; }
+  .topbar { gap: .5rem; padding: .5rem .75rem; }
+  .brand { font-size: .95rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; flex: 1 1 auto; }
+  .topbar-right { flex: 0 0 auto; margin-left: 0; }
+  #search { width: 120px; max-width: 34vw; }
+  .search-results { right: .5rem; left: .5rem; width: auto; }
   .content { padding: 1.25rem 1rem 3rem; }
   body { font-size: 1rem; }
   .pager { grid-template-columns: 1fr; }

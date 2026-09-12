@@ -88,6 +88,13 @@ def slugify(text: str) -> str:
     return text or "section"
 
 
+def gh_slug(text: str) -> str:
+    """GitHub-flavoured heading anchor: lowercase, strip punctuation, spaces->hyphens (not collapsed)."""
+    text = text.strip().lower()
+    text = re.sub(r"[^\w\s-]", "", text)
+    return text.replace(" ", "-")
+
+
 def render_inline(text: str) -> str:
     """Convert inline markdown to HTML. Protects code spans first."""
     placeholders: list[str] = []
@@ -656,10 +663,12 @@ def build_book(chapters: list[Chapter]) -> str:
     last_part = None
     for ch in chapters:
         if ch.part != last_part:
+            if last_part is not None:
+                out.append("")
             out.append(f"**{ch.part}**")
             out.append("")
             last_part = ch.part
-        anchor = slugify(f"{ch.number} {ch.title}")
+        anchor = gh_slug(f"{ch.number}. {ch.title}")
         out.append(f"{ch.number}. [{ch.title}](#{anchor}) — {ch.summary}")
     out.append("")
     out.append("---")
@@ -684,7 +693,7 @@ def build_book(chapters: list[Chapter]) -> str:
             if href.endswith(".md") and not href.startswith("http"):
                 target = next((c for c in chapters if c.path.name == Path(href).name), None)
                 if target:
-                    return f"[{label}](#{slugify(f'{target.number} {target.title}')})"
+                    return f"[{label}](#{gh_slug(f'{target.number}. {target.title}')})"
             return m.group(0)
 
         body = re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", fix_link, body)
